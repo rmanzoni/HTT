@@ -1,0 +1,35 @@
+D/PFAOD////
+D/mechanize////
+/DBLogger.py/1.2/Mon Apr  8 07:43:51 2013//THEAD
+/Das.py/1.2/Mon Apr  8 07:43:51 2013//THEAD
+/ProductionTasks.py/1.33/Sun Jul  7 19:12:49 2013//THEAD
+/addToDatasets.py/1.3/Mon Apr  8 07:43:51 2013//THEAD
+/batchmanager.py/1.9/Mon Apr  8 07:43:51 2013//THEAD
+/castorBaseDir.py/1.10/Mon Apr  8 07:43:51 2013//THEAD
+/castortools.py/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/cx_Oracle.so/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/datasetToSource.py/1.10/Mon Apr  8 07:43:51 2013//THEAD
+/doImportNewSource.py/1.2/Mon Apr  8 07:43:51 2013//THEAD
+/edmIntegrityCheck.py/1.14/Mon Apr  8 07:43:51 2013//THEAD
+/eostools.py/1.22/Sun Jul  7 19:12:51 2013//THEAD
+/fileNameUtils.py/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/findDSOnSav.py/1.8/Sun Jul  7 19:12:51 2013//THEAD
+/getFiles.py/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/hadd.py/1.6/dummy timestamp from new-entry//THEAD
+/logger.py/1.6/Sun Jul  7 19:12:51 2013//THEAD
+/nameOps.py/1.3/Sun Jul  7 19:12:52 2013//THEAD
+/relval.py/1.3/Mon Apr  8 07:43:51 2013//THEAD
+/relvalDefinition.py/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/savannahBrowser.py/1.6/Mon Apr  8 07:43:51 2013//THEAD
+/savannahFormatter.py/1.11/Mon Apr  8 07:43:51 2013//THEAD
+/scanToVEventRange.py/1.2/Mon Apr  8 07:43:51 2013//THEAD
+/sourceFileListCff.py/1.1/Mon Apr  8 07:43:51 2013//THEAD
+/timeout.py/1.3/Mon Apr  8 07:43:51 2013//THEAD
+/unPublish.py/1.5/Sun Jul  7 19:12:53 2013//THEAD
+/dataset.py/1.24/Fri Aug  9 12:59:25 2013//
+/publish.py/1.27/Fri Aug  9 12:59:26 2013//
+/publishTask.py/1.7/Fri Aug  9 12:59:31 2013//
+/cmgdbToolsApi.py/1.11/Sun Aug 11 17:55:51 2013//
+/datasetInformation.py/1.23/Fri Dec  6 15:35:56 2013//
+/publishController.py/1.33/Fri Dec  6 15:35:56 2013//
+/cmgdbApi.py/1.14/Fri Dec  6 15:36:30 2013//THEAD

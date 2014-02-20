@@ -1,0 +1,176 @@
+starting loop at event 0 to process 3006 events.
+MCComponent: HiggsSUSYGluGlu300
+	addWeight      :   1.0
+	dataset_entries:   141299
+	effCorrFactor  :   1
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni/CMG/SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom/tauMu_fullsel_tree_CMG_1.root']
+	intLumi        :   1.0
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   True
+	jetScale       :   1.0
+	jetSmear       :   0.0
+	nGenEvents     :   910976.489472
+	puFileData     :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/12-06-13/Data_Pileup_2012_ReReco-600bins.root
+	puFileMC       :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/07-01-13/MC_Summer12_PU_S10-600bins.root
+	splitFactor    :   1
+	triggers       :   ['HLT_IsoMu24_eta2p1_v13', 'HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4']
+	xSection       :   1.0
+beginLoop TriggerAnalyzer
+beginLoop VertexAnalyzer
+beginLoop TauMuAnalyzer
+beginLoop VBFAnalyzer
+beginLoop PileUpAnalyzer
+beginLoop EmbedWeighter
+beginLoop LeptonWeighter_tau
+beginLoop LeptonWeighter_mu
+beginLoop H2TauTauTreeProducerTauMu
+
+Analyzer: TriggerAnalyzer
+	keepAllTriggerObjects:   True
+	keepFailingEvents:   True
+	verbose        :   False
+Counter Trigger :
+	 All events                                    3006 	 1.00 	 1.0000
+	 HLT                                           3006 	 1.00 	 1.0000
+
+
+TriggerList:
+Counter HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4 :
+	 events tested                                    2 	 1.00 	 1.0000
+	 events passed                                    0 	 0.00 	 0.0000
+:
+HLT_IsoMu24_eta2p1_v13         {"1": [[1, 999999]]}
+
+
+Analyzer: VertexAnalyzer
+	fixedWeight    :   1
+	goodVertices   :   offlinePrimaryVertices
+	verbose        :   False
+Counter GoodVertex :
+	 All Events                                    3006 	 1.00 	 1.0000
+	 Events With Good Vertex                       3006 	 1.00 	 1.0000
+
+Average vertexWeight   :   1.0000 +-   0.0000
+
+
+Analyzer: TauMuAnalyzer
+	eta1           :   2.3
+	eta2           :   2.1
+	iso1           :   999
+	iso2           :   0.1
+	m_max          :   99999
+	m_min          :   10
+	pt1            :   20
+	pt2            :   18
+	verbose        :   False
+Counter DiLepton :
+	 all events                                    3006 	 1.00 	 1.0000
+	 > 0 di-lepton                                 2332 	 0.78 	 0.7758
+	 lepton accept                                 2323 	 1.00 	 0.7728
+	 third lepton veto                             1901 	 0.82 	 0.6324
+	 leg1 offline cuts passed                      1974 	 1.04 	 0.6567
+	 leg1 trig matched                             1974 	 1.00 	 0.6567
+	 leg2 offline cuts passed                      1773 	 0.90 	 0.5898
+	 leg2 trig matched                             1773 	 1.00 	 0.5898
+	 10.0 < m < 99999.0                            1773 	 1.00 	 0.5898
+	 exactly 1 di-lepton                           1707 	 0.96 	 0.5679
+
+
+
+
+Analyzer: VBFAnalyzer
+	Mjj            :   400
+	btagSFseed     :   123456
+	cjvPtCut       :   30.0
+	deltaEta       :   4.0
+	jetCol         :   cmgPFJetSel
+	jetEta         :   4.7
+	jetPt          :   30
+	looseJetPt     :   20
+	relaxJetId     :   False
+	vbfMvaWeights  :   /afs/cern.ch/user/m/manzoni/summer13/CMGTools/CMSSW_5_3_9/src/CMGTools/H2TauTau/data/VBFMVA_BDTG_HCP_52X.weights.xml
+	verbose        :   False
+Counter VBF :
+	 all events                                    1773 	 1.00 	 1.0000
+	 at least 2 good jets                          1648 	 0.93 	 0.9295
+	 at least 2 clean jets                          357 	 0.22 	 0.2014
+	 M_jj > 400.0                                    74 	 0.21 	 0.0417
+	 delta Eta > 4.0                                 24 	 0.32 	 0.0135
+	 no central jets                                 21 	 0.88 	 0.0118
+
+
+
+
+Analyzer: PileUpAnalyzer
+	true           :   True
+	verbose        :   False
+
+Average vertexWeight   :   1.0047 +-   0.0092
+
+
+Analyzer: EmbedWeighter
+	isRecHit       :   False
+	verbose        :   False
+Counter EmbedWeighter :
+	 all events                                       0 	 -1.00 	 -1.0000
+	 gen Z mass > 50                                  0 	 -1.00 	 -1.0000
+
+Average weight         :   1.0000 +-   0.0000
+
+
+Analyzer: LeptonWeighter_tau
+	effWeight      :   effTau2012AB
+	effWeightMC    :   effTau2012MC
+	lepton         :   leg1
+	verbose        :   False
+
+Average weight         :   1.0545 +-   0.0002
+Average triggerWeight  :   1.0545 +-   0.0002
+Average eff_data       :   0.9258 +-   0.0009
+Average eff_MC         :   0.8778 +-   0.0007
+Average recEffWeight   :   1.0000 +-   0.0000
+Average idWeight       :   1.0000 +-   0.0000
+Average isoWeight      :   1.0000 +-   0.0000
+
+
+Analyzer: LeptonWeighter_mu
+	effWeight      :   effMu2012AB
+	effWeightMC    :   effMu2012MC
+	lepton         :   leg2
+	verbose        :   False
+
+Average weight         :   1.0049 +-   0.0013
+Average triggerWeight  :   1.0049 +-   0.0013
+Average eff_data       :   0.8972 +-   0.0012
+Average eff_MC         :   0.8966 +-   0.0019
+Average recEffWeight   :   1.0000 +-   0.0000
+Average idWeight       :   1.0000 +-   0.0000
+Average isoWeight      :   1.0000 +-   0.0000
+
+
+Analyzer: H2TauTauTreeProducerTauMu
+	verbose        :   False
+
+
+
+
+MCComponent: HiggsSUSYGluGlu300
+	addWeight      :   1.0
+	dataset_entries:   141299
+	effCorrFactor  :   1
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni/CMG/SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom/tauMu_fullsel_tree_CMG_1.root']
+	intLumi        :   1.0
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   True
+	jetScale       :   1.0
+	jetSmear       :   0.0
+	nGenEvents     :   910976.489472
+	puFileData     :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/12-06-13/Data_Pileup_2012_ReReco-600bins.root
+	puFileMC       :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/07-01-13/MC_Summer12_PU_S10-600bins.root
+	splitFactor    :   1
+	triggers       :   ['HLT_IsoMu24_eta2p1_v13', 'HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4']
+	xSection       :   1.0
+
+number of events processed: 3006

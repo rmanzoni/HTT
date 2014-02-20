@@ -1,0 +1,1 @@
+Average triggerWeight  :   1.0190 +-   0.0034

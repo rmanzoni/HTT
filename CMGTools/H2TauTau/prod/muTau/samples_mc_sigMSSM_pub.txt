@@ -1,0 +1,2 @@
+/SUSYBBHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom manzoni
+/SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom manzoni

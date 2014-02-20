@@ -1,0 +1,2 @@
+cmgtools%/W1JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V19-v1/AODSIM/V5_B/PAT_CMG_V5_16_0
+cmgtools%/W2JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V19-v1/AODSIM/V5_B/PAT_CMG_V5_16_0

@@ -1,0 +1,28 @@
+starting loop at event 0 to process 3006 events.
+MCComponent: HiggsSUSYGluGlu300
+	addWeight      :   1.0
+	dataset_entries:   141299
+	effCorrFactor  :   1
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni/CMG/SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom/tauMu_fullsel_tree_CMG_1.root']
+	intLumi        :   1.0
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   True
+	jetScale       :   1.0
+	jetSmear       :   0.0
+	nGenEvents     :   910976.489472
+	puFileData     :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/12-06-13/Data_Pileup_2012_ReReco-600bins.root
+	puFileMC       :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/07-01-13/MC_Summer12_PU_S10-600bins.root
+	splitFactor    :   1
+	triggers       :   ['HLT_IsoMu24_eta2p1_v13', 'HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4']
+	xSection       :   1.0
+beginLoop EventSelector
+beginLoop TriggerAnalyzer
+beginLoop VertexAnalyzer
+beginLoop TauMuAnalyzer
+beginLoop VBFAnalyzer
+beginLoop PileUpAnalyzer
+beginLoop EmbedWeighter
+beginLoop LeptonWeighter_tau
+beginLoop LeptonWeighter_mu
+beginLoop H2TauTauTreeProducerTauMu

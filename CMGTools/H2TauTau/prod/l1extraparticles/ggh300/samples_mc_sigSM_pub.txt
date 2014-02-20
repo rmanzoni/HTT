@@ -1,0 +1,1 @@
+/GluGluToHToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_5Sep_L1study_manzoni_Nom manzoni

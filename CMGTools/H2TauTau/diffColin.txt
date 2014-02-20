@@ -1,0 +1,3861 @@
+? RiccardoWD
+? cvsdiff.txt
+? cvsdiff2.txt
+? cvsdiff3.txt
+? diffColin.txt
+? ntuplization
+? Colin/cookDYSoup_2012.py
+? Colin/soupDYdb3h_parked.root
+? interface/.DiTauWithSVFitProducer.h.swp
+? interface/DiTauWithSVFitProducer.h.OLD
+? interface/DiTauWithSVFitProducer.h.OLD2
+? interface/DiTauWithSVFitProducer.h.RICCARDO_DEBUGGING
+? interface/DiTauWithSVFitProducer.h.WITH_MANY_PRINTOUTS
+? interface/TauTauWithSVFitProducer.h.alkjsdlkajsd
+? plugins/BaseFlatNtp.cc.jose
+? plugins/TauEleFlatNtp.cc.jose
+? plugins/TauMuFlatNtp.cc.jose
+? prod/22Jul
+? prod/25aug_corrMC
+? prod/TauES_test
+? prod/forColin
+? prod/h2TauTau_cfg.py.RIC2
+? prod/l1extraparticles
+? prod/test
+? prod/wjets_newrecoil
+? python/__init__.py
+? python/officialJSONS.py.RICCARDO
+? python/eventContent/__init__.py
+? python/histograms/__init__.py
+? python/macros/__init__.py
+? python/macros/tests/__init__.py
+? python/macros/tests/Template/__init__.py
+? python/macros/tests/Template/DYJets/__init__.py
+? python/macros/tests/Template/TTJets/__init__.py
+? python/macros/tests/Template/WJets/__init__.py
+? python/macros/tests/Template/data_03Oct2011/__init__.py
+? python/macros/tests/Template/data_05Aug2011_v1/__init__.py
+? python/macros/tests/Template/data_May10ReReco_v1/__init__.py
+? python/macros/tests/Template/data_PromptReco_v4/__init__.py
+? python/macros/tests/Template/embed_03Oct2011/__init__.py
+? python/macros/tests/Template/embed_05Aug2011_v1/__init__.py
+? python/macros/tests/Template/embed_May10ReReco_v1/__init__.py
+? python/macros/tests/Template/embed_PromptReco_v4/__init__.py
+? python/macros/toodeldo/__init__.py
+? python/objects/TauESCorrector_cfi.py
+? python/objects/__init__.py
+? python/objects/diTauObjectsMVAMET_cff.py.RIC
+? python/proto/__init__.py
+? python/proto/Samples/__init__.py
+? python/proto/analyzers/.__afs447
+? python/proto/analyzers/.__afs5FE5
+? python/proto/analyzers/.__afs64A5
+? python/proto/analyzers/EmbedWeighter.py.JAN
+? python/proto/analyzers/EmbedWeighter.py.RIC
+? python/proto/analyzers/EmbedWeighter.py.RICnew
+? python/proto/analyzers/EmbedWeighter_MC.py
+? python/proto/analyzers/JetWeighter.py.RIC
+? python/proto/analyzers/LeptonWeighter.py.RIC
+? python/proto/analyzers/__init__.py
+? python/proto/framework/__init__.py
+? python/proto/physicsobjects/__init__.py
+? python/proto/plotter/Comparator_OutDir_boh
+? python/proto/plotter/Comparator_OutDir_boh2
+? python/proto/plotter/Comparator_OutDir_boh3
+? python/proto/plotter/Comparator_OutDir_bugged
+? python/proto/plotter/Comparator_OutDir_et_jet30
+? python/proto/plotter/Comparator_OutDir_et_mit_imperial
+? python/proto/plotter/Comparator_OutDir_et_mit_imperial_jet30
+? python/proto/plotter/Comparator_OutDir_good
+? python/proto/plotter/Comparator_OutDir_mt
+? python/proto/plotter/Comparator_OutDir_mt_jet30
+? python/proto/plotter/Comparator_OutDir_mt_mit_imperial
+? python/proto/plotter/Comparator_OutDir_mt_mit_imperial_jet30
+? python/proto/plotter/Comparator_OutDir_tt
+? python/proto/plotter/Comparator_OutDir_tt2
+? python/proto/plotter/Comparator_OutDir_withCut
+? python/proto/plotter/__init__.py
+? python/proto/plotter/httSyncCompare.py.RIC
+? python/proto/samples/__init__.py
+? python/proto/samples/run2012/__init__.py
+? python/proto/samples/run2012/diTau_Colin_Feb8.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_down.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_nom.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_up.py
+? python/proto/samples/run2012/down.txt
+? python/proto/samples/run2012/ewk.py.RIC
+? python/proto/samples/run2012/nom.txt
+? python/proto/samples/run2012/samples_nom.txt
+? python/proto/samples/run2012/samples_pub_11aug.txt
+? python/proto/samples/run2012/up.txt
+? python/proto/statistics/__init__.py
+? python/proto/weights/__init__.py
+? python/skims/__init__.py
+? python/sources/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2/PAT_CMG_V2_3_0/__init__.py
+? python/tools/__init__.py
+? python/tools/jsonPick.py
+? python/tools/jsonPick.py.ric
+? python/tools/setupJSON.py.RIC
+cvs diff: Diffing .
+cvs diff: Diffing Colin
+cvs diff: Diffing Colin/PythonExamples
+cvs diff: Diffing data
+cvs diff: Diffing interface
+Index: interface/DiObjectUpdateFactory.h
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/interface/DiObjectUpdateFactory.h,v
+retrieving revision 1.3
+diff -r1.3 DiObjectUpdateFactory.h
+118c118
+<       // PDG Id: e 11, mu 13, tau 15, Z 23, h 25, H 35, A 35  
+---
+>       // PDG Id: e 11, mu 13, tau 15, Z 23, h 25, H 35, A 36  
+Index: interface/DiTauObjectFactory.h
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/interface/DiTauObjectFactory.h,v
+retrieving revision 1.1
+diff -r1.1 DiTauObjectFactory.h
+26,28c26,28
+<             leg1Label_(ps.getParameter<edm::InputTag>("leg1Collection")),
+<             leg2Label_(ps.getParameter<edm::InputTag>("leg2Collection")),
+<             metLabel_(ps.getParameter<edm::InputTag>("metCollection")),
+---
+>             leg1Label_  (ps.getParameter<edm::InputTag>("leg1Collection")),
+>             leg2Label_  (ps.getParameter<edm::InputTag>("leg2Collection")),
+>             metLabel_   (ps.getParameter<edm::InputTag>("metCollection")),
+Index: interface/DiTauWithSVFitProducer.h
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/interface/DiTauWithSVFitProducer.h,v
+retrieving revision 1.12
+diff -r1.12 DiTauWithSVFitProducer.h
+167d166
+< 	measuredTauLeptons.push_back(NSVfitStandalone::MeasuredTauLepton(leg2type, diTau.leg2().p4()));
+168a168
+> 	measuredTauLeptons.push_back(NSVfitStandalone::MeasuredTauLepton(leg2type, diTau.leg2().p4()));
+172c172,173
+<         algo.integrateMarkovChain();
+---
+>         //algo.integrateMarkovChain();
+>         algo.integrateVEGAS();
+Index: interface/TriggerEfficiency.h
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/interface/TriggerEfficiency.h,v
+retrieving revision 1.39
+diff -r1.39 TriggerEfficiency.h
+994c994
+<     return (abs(eta)<=2.1)*
+---
+>     return (fabs(eta)<=2.1)*
+1002c1002
+<     (abs(eta)>2.1)*
+---
+>     (fabs(eta)>2.1)*
+1089a1090,1126
+> // Tau Parked with HLT_DoubleMediumIsoPFTau35_Trk*_eta2p1_v*
+> //   double eff2012IsoParkedTau19fb_Simone(double pt, double eta){
+> // 
+> //     // for real Taus mT<20
+> //     if ( fabs(eta) < 1.4 )
+> //     {
+> //       return (  0.883869 * 0.5 * (TMath::Erf((pt-43.8723)/2./0.946593 /sqrt(pt))+1.) ) ;// 2012CD measured in one go, take this for all as of may 15
+> //               
+> //     }
+> //     
+> //     else
+> //     {
+> //       return (  0.798480 * 0.5 * (TMath::Erf((pt-43.1362)/2./1.04861  /sqrt(pt))+1.) ) ;// 2012CD measured in one go, take this for all as of may 15
+> //     }
+> //     
+> //   }
+> // 
+> // 
+> //   double eff2012IsoParkedTau19fbMC_Simone(double pt, double eta){
+> // 
+> //     // for real Taus using ggH120
+> //     if ( fabs(eta) < 1.4 )
+> //     {
+> //       return ( 0.814832 * 0.5 * (TMath::Erf((pt-40.1457)/2./0.856575  /sqrt(pt))+1.) ) ;
+> //     }
+> //     
+> //     else
+> //     {
+> //       return ( 0.661991 * 0.5 * (TMath::Erf((pt-38.0195)/2./0.833499 /sqrt(pt))+1.) ) ;
+> //     }
+> //     
+> //   }
+> 
+> 
+> 
+> 
+> 
+1092,1104c1129,1138
+< 
+<     // for real Taus mT<20
+<     if ( fabs(eta) < 1.4 )
+<     {
+<       return (  0.883869 * 0.5 * (TMath::Erf((pt-43.8723)/2./0.946593 /sqrt(pt))+1.) ) ;// 2012CD measured in one go, take this for all as of may 15
+<               
+<     }
+<     
+<     else
+<     {
+<       return (  0.798480 * 0.5 * (TMath::Erf((pt-43.1362)/2./1.04861  /sqrt(pt))+1.) ) ;// 2012CD measured in one go, take this for all as of may 15
+<     }
+<     
+---
+>     return (  0.826969 * 0.5 * (TMath::Erf((pt-42.2274)/2./0.783258 /sqrt(pt))+1.) ) ;// only one eta bin
+>     // to be moved
+>     // if (pt < 140.)   return (  0.826969 * 0.5 * (TMath::Erf((pt-42.2274)/2./0.783258 /sqrt(pt))+1.) ) ;// only one eta bin
+>     // else if (pt>400) return 2.03467;
+>     // else if (pt>300) return 1.31593;
+>     // else if (pt>250) return 1.25698;
+>     // else if (pt>200) return 1.18941;
+>     // else if (pt>180) return 1.17448;
+>     // else if (pt>160) return 1.0964 ;
+>     // else return 1.09279;
+1109,1120c1143,1152
+< 
+<     // for real Taus using ggH120
+<     if ( fabs(eta) < 1.4 )
+<     {
+<       return ( 0.814832 * 0.5 * (TMath::Erf((pt-40.1457)/2./0.856575  /sqrt(pt))+1.) ) ;
+<     }
+<     
+<     else
+<     {
+<       return ( 0.661991 * 0.5 * (TMath::Erf((pt-38.0195)/2./0.833499 /sqrt(pt))+1.) ) ;
+<     }
+<     
+---
+>     double data_plateau = 0.826969 ;
+>     if (pt < 140.)   return ( 0.813769 * 0.5 * (TMath::Erf((pt-39.9322)/2./0.819354  /sqrt(pt))+1.) ) ; // only one eta bin
+>     else if (pt>400) return data_plateau / 2.03467;
+>     else if (pt>300) return data_plateau / 1.31593;
+>     else if (pt>250) return data_plateau / 1.25698;
+>     else if (pt>200) return data_plateau / 1.18941;
+>     else if (pt>180) return data_plateau / 1.17448;
+>     else if (pt>160) return data_plateau / 1.0964 ;
+>     else             return data_plateau / 1.09279;
+>     // else          return 1. ;  // SF for efficiency drop at high pt, need to go together with data turn on
+cvs diff: Diffing json
+cvs diff: Diffing limits
+cvs diff: Diffing macros
+cvs diff: Diffing plugins
+cvs diff: cannot find plugins/BaseFlatNtp.cc
+Index: plugins/H2TauTauTools.cc
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/plugins/H2TauTauTools.cc,v
+retrieving revision 1.8
+diff -r1.8 H2TauTauTools.cc
+9a10
+> 
+13c14,15
+< DEFINE_FWK_MODULE(MuElePOProducer);
+---
+> // DEFINE_FWK_MODULE(MuElePOProducer);
+> 
+16c18
+< DEFINE_FWK_MODULE(MuEleUpdatePOProducer);
+---
+> // DEFINE_FWK_MODULE(MuEleUpdatePOProducer);
+Index: plugins/H2TauTauTools.h
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/plugins/H2TauTauTools.h,v
+retrieving revision 1.7
+diff -r1.7 H2TauTauTools.h
+15c15
+< typedef DiTauObjectFactory< cmg::MuEle::type1, cmg::MuEle::type2 > MuEleFactory;
+---
+> //typedef DiTauObjectFactory< cmg::MuEle::type1, cmg::MuEle::type2 > MuEleFactory;
+17c17
+< typedef DiObjectUpdateFactory< cmg::TauMu > TauMuUpdateFactory;
+---
+> typedef DiObjectUpdateFactory< cmg::TauMu  > TauMuUpdateFactory;
+19,20c19,20
+< typedef DiObjectUpdateFactory< cmg::MuEleDiTau > MuEleUpdateFactory;
+< typedef DiObjectUpdateFactory< cmg::DiTau > DiTauUpdateFactory;
+---
+> //typedef DiObjectUpdateFactory< cmg::MuEle  > MuEleUpdateFactory;
+> typedef DiObjectUpdateFactory< cmg::DiTau  > DiTauUpdateFactory;
+25c25
+< typedef PhysicsObjectProducer<cmg::MuEleFactory> MuElePOProducer;
+---
+> //typedef PhysicsObjectProducer<cmg::MuEleFactory> MuElePOProducer;
+29c29
+< typedef PhysicsObjectProducer<cmg::MuEleUpdateFactory> MuEleUpdatePOProducer;
+---
+> //typedef PhysicsObjectProducer<cmg::MuEleUpdateFactory> MuEleUpdatePOProducer;
+36c36
+< typedef DiTauWithSVFitProducer< cmg::MuEle > MuEleWithSVFitProducer;
+---
+> //typedef DiTauWithSVFitProducer< cmg::MuEle > MuEleWithSVFitProducer;
+cvs diff: cannot find plugins/TauEleFlatNtp.cc
+cvs diff: cannot find plugins/TauMuFlatNtp.cc
+cvs diff: Diffing prod
+Index: prod/h2TauTau_diTau_cfg.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/prod/h2TauTau_diTau_cfg.py,v
+retrieving revision 1.6
+diff -r1.6 h2TauTau_diTau_cfg.py
+3c3
+< from CMGTools.Common.Tools.cmsswRelease import cmsswIs44X,cmsswIs52X
+---
+> from CMGTools.Common.Tools.cmsswRelease import isNewerThan, cmsswIs44X,cmsswIs52X
+12d11
+< #process.maxEvents = cms.untracked.PSet( input = cms.untracked.int32(1000) )
+28a28,30
+> # increase to 1000 before running on the batch, to reduce size of log files
+> # on your account
+> reportInterval = 5000
+31,34c33,36
+< print 'channel', channel
+< print 'jet recalib', jetRecalib
+< print 'useCHS', useCHS
+< print 'newSVFit', newSVFit
+---
+> print 'channel'      , channel
+> print 'jet recalib'  , jetRecalib
+> print 'useCHS'       , useCHS
+> print 'newSVFit'     , newSVFit
+43,54c45,46
+< 
+< # process.setName_('H2TAUTAU')
+< 
+< dataset_user = 'cmgtools' 
+< #dataset_name = '/Tau/Run2012D-PromptReco-v1/AOD/PAT_CMG_V5_8_0'
+< # dataset_name = '/W2JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+< # dataset_name = '/DYJetsToLL_M-50_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+< # dataset_name = '/DY1JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+< #dataset_name = '/WH_ZH_TTH_HToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+< #dataset_name = '/DoubleMu/StoreResults-DoubleMu_Run2012B_13Jul2012_v4_embedded_trans1_tau132_pttau1_17had2_17_v1-f456bdbb960236e5c696adfe9b04eaae/USER/PAT_CMG_V5_8_0'
+< dataset_name = '/GluGluToHToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+< #dataset_name = '/SUSYBBHToTauTau_M-80_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_8_0'
+---
+> dataset_user  = 'cmgtools' 
+> dataset_name  = '/TauParked/Run2012D-22Jan2013-v1/AOD/PAT_CMG_V5_16_0'
+64a57,62
+> process.source.inputCommands=cms.untracked.vstring(
+>     'keep *',
+>     'drop cmgStructuredPFJets_cmgStructuredPFJetSel__PAT'
+>     )
+> 
+> 
+81,85c79,80
+<     from CMGTools.Common.Tools.applyJSON_cff import applyJSON
+<     json="/afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions12/8TeV/Prompt/Cert_190456-208686_8TeV_PromptReco_Collisions12_JSON.txt"
+<     #json="/afs/cern.ch/cms/CAF/CMSCOMM/COMM_DQM/certification/Collisions12/8TeV/Reprocessing/Cert_190456-196531_8TeV_13Jul2012ReReco_Collisions12_JSON_v2.txt"
+<     applyJSON(process, json )
+< 
+---
+>     from CMGTools.H2TauTau.tools.setupJSON import setupJSON
+>     json = setupJSON(process)
+94,96c89,94
+< from CMGTools.H2TauTau.tools.setupRecoilCorrection import setupRecoilCorrection,lookup,rootfile_dir
+< # WARNING DISABLING RECOIL CORRECTIONS FOR 2012!!!
+< setupRecoilCorrection( process, runOnMC, True, cmsswIs52X(), None, channel)
+---
+> from CMGTools.H2TauTau.tools.setupRecoilCorrection import setupRecoilCorrection
+> 
+> #recoilEnabled = True
+> recoilEnabled = False
+> setupRecoilCorrection( process, runOnMC,
+>                        enable=recoilEnabled, is53X=isNewerThan('CMSSW_5_2_X'))
+162,163c160
+< #process.cmgTauScaler.cfg.nSigma = tauScaling # old method
+< process.cmgDiTauCorPreSel.cfg.nSigma = tauScaling # new method
+---
+> process.cmgTauScaler.cfg.nSigma = tauScaling
+180c177
+< process.MessageLogger.cerr.FwkReport.reportEvery = 100
+---
+> process.MessageLogger.cerr.FwkReport.reportEvery = reportInterval
+197c194,195
+<         GT = 'START53_V10::All' # for 53X MC in >= 533
+---
+>         GT = 'START53_V15::All' # for 53X MC in >= 533
+>         # GT = 'START53_V10::All' # for 53X MC in >= 533
+201c199,200
+<         GT = 'GR_P_V41_AN1::All' # for 53X data in >= 533
+---
+>         GT = 'GR_P_V42_AN3::All' # for 53X data in >= 533
+>         # GT = 'GR_P_V41_AN1::All' # for 53X data in >= 533
+235c234
+<     process.cmgDiTauSVFit.SVFitVersion = 2
+---
+>     process.cmgDiTauCorSVFitPreSel.SVFitVersion = 2
+240c239,241
+<     process.cmgDiTauSVFit.SVFitVersion = 1
+---
+>     process.cmgDiTauCorSVFitPreSel.SVFitVersion = 1
+> 
+> # import pdb ; pdb.set_trace()
+242c243,246
+< # process.tauMu_fullsel_tree_CMG.SelectEvents = cms.untracked.PSet()
+---
+> process.cmgDiTau.cuts.baseline.tau1Leg.iso = cms.string('leg1().tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") < 15.')
+> process.cmgDiTau.cuts.baseline.tau2Leg.iso = cms.string('leg2().tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") < 15.')
+> process.cmgDiTau.cuts.baseline.tau1Leg.kinematics.pt = cms.string('leg1().pt()>35.')
+> process.cmgDiTau.cuts.baseline.tau2Leg.kinematics.pt = cms.string('leg2().pt()>35.')
+cvs diff: Diffing prod/Colin
+cvs diff: Diffing prod/samples
+cvs diff: Diffing prod/samples/common
+cvs diff: Diffing prod/samples/tauele
+cvs diff: Diffing prod/samples/tauele/2011
+cvs diff: Diffing prod/samples/taumu
+cvs diff: Diffing prod/samples/taumu/2011
+cvs diff: Diffing python
+Index: python/officialJSONS.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/officialJSONS.py,v
+retrieving revision 1.16
+diff -r1.16 officialJSONS.py
+2c2
+< # 2011
+---
+> # 2011 
+73,75c73
+<     '/Tau.*/Run2012C-24Aug2012-v1/AOD':aug24_2012,
+<     '/Tau.*/Run2012C-PromptReco-v2/AOD':pr2012,
+<     '/Tau.*/Run2012C-PromptReco-v1/AOD':pr2012, # Weird:  /Tau/Run2012C-PromptReco-v1/AOD still on the twiki.
+---
+>     '/Tau.*/Run2012C-13Jul2012-v1/AOD':jul13_2012,
+80c78
+<     '/Tau.*/Run2012D-PromptReco-v1/AOD':pr2012,
+---
+>     '/Tau.*/Run2012D-13Jul2012-v1/AOD':jul13_2012,
+100,103c98,108
+<         '/TauPlusX/Run2012B-13Jul2012-v1/AOD',
+<         '/TauPlusX/Run2012C-24Aug2012-v1/AOD',
+<         '/TauPlusX/Run2012C-PromptReco-v2/AOD',
+<         '/TauPlusX/Run2012D-PromptReco-v1/AOD',
+---
+> #         '/TauPlusX/Run2012B-13Jul2012-v1/AOD',
+> #         '/TauPlusX/Run2012C-24Aug2012-v1/AOD',
+> #         '/TauPlusX/Run2012C-PromptReco-v2/AOD',
+> #         '/TauPlusX/Run2012D-PromptReco-v1/AOD',
+> #         '/Tau/Run2012A-13Jul2012-v1/AOD',
+> #         '/Tau/Run2012B-13Jul2012-v1/AOD',
+> #         '/Tau/Run2012C-PromptReco-v1/AOD',
+> #         '/Tau/Run2012C-24Aug2012-v1/AOD',
+> #         '/Tau/Run2012D-PromptReco-v1/AOD',
+> #         '/TauPlusX/Run2012D-22Jan2013-v1/AOD/',
+> #         '/DoubleMuParked/StoreResults-Run2012D_22Jan2013_v1_RHembedded_trans1_tau116_ptmu1_16had1_18_v1-f456bdbb960236e5c696adfe9b04eaae/USER/V5_B'
+105,110c110,116
+<         '/Tau/Run2012B-13Jul2012-v1/AOD',
+<         '/Tau/Run2012C-PromptReco-v1/AOD',
+<         '/Tau/Run2012C-24Aug2012-v1/AOD',
+<         '/Tau/Run2012D-PromptReco-v1/AOD',
+<         '/TauPlusX/Run2012D-22Jan2013-v1/AOD/',
+<         '/DoubleMuParked/StoreResults-Run2012D_22Jan2013_v1_RHembedded_trans1_tau116_ptmu1_16had1_18_v1-f456bdbb960236e5c696adfe9b04eaae/USER/V5_B'
+---
+>         '/TauParked/Run2012B-13Jul2012-v1/AOD',
+>         '/TauParked/Run2012C-13Jul2012-v1/AOD',
+>         '/TauParked/Run2012D-13Jul2012-v1/AOD',
+>         '/DoubleMu/StoreResults-Run2012A_22Jan2013_v1_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER',
+>         '/DoubleMuParked/StoreResults-Run2012B_22Jan2013_v1_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER',
+>         '/DoubleMuParked/StoreResults-Run2012C_22Jan2013_v1_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER',
+>         '/DoubleMuParked/StoreResults-Run2012D_22Jan2013_v1_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER',
+cvs diff: Diffing python/eventContent
+Index: python/eventContent/diTau_cff.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/eventContent/diTau_cff.py,v
+retrieving revision 1.4
+diff -r1.4 diTau_cff.py
+91d90
+< diTau+=["keep *_mvaMETdiTau__H2TAUTAU"] 
+93a93
+> diTau+=['keep *_l1extraParticles_*_RECO']
+cvs diff: Diffing python/histograms
+cvs diff: Diffing python/macros
+cvs diff: Diffing python/macros/tests
+cvs diff: Diffing python/macros/tests/Template
+cvs diff: Diffing python/macros/tests/Template/DYJets
+cvs diff: Diffing python/macros/tests/Template/TTJets
+cvs diff: Diffing python/macros/tests/Template/WJets
+cvs diff: Diffing python/macros/tests/Template/data_03Oct2011
+cvs diff: Diffing python/macros/tests/Template/data_05Aug2011_v1
+cvs diff: Diffing python/macros/tests/Template/data_May10ReReco_v1
+cvs diff: Diffing python/macros/tests/Template/data_PromptReco_v4
+cvs diff: Diffing python/macros/tests/Template/embed_03Oct2011
+cvs diff: Diffing python/macros/tests/Template/embed_05Aug2011_v1
+cvs diff: Diffing python/macros/tests/Template/embed_May10ReReco_v1
+cvs diff: Diffing python/macros/tests/Template/embed_PromptReco_v4
+cvs diff: Diffing python/macros/toodeldo
+cvs diff: Diffing python/objects
+Index: python/objects/diTauObjectsMVAMET_cff.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/objects/diTauObjectsMVAMET_cff.py,v
+retrieving revision 1.8
+diff -r1.8 diTauObjectsMVAMET_cff.py
+3,5c3,8
+< from CMGTools.Common.diTau_cff import *
+< from CMGTools.H2TauTau.objects.diTauCuts_cff import * 
+< 
+---
+> from CMGTools.Common.Tools.cmsswRelease                             import cmsswIs44X,cmsswIs52X
+> from CMGTools.Common.diTau_cff                                      import *
+> from CMGTools.H2TauTau.objects.diTauCuts_cff                        import * 
+> from CMGTools.Common.factories.cmgDiTauCor_cfi                      import cmgDiTauCor 
+> from CMGTools.H2TauTau.objects.diTauSVFit_cfi                       import diTauSVFit 
+> from CMGTools.Common.eventCleaning.goodPVFilter_cfi                 import goodPVFilter
+7,12c10,11
+< from CMGTools.Common.factories.cmgTauScaler_cfi import  cmgTauScaler
+< from CMGTools.Common.factories.cmgDiTauCor_cfi import cmgDiTauCor 
+< from CMGTools.H2TauTau.objects.diTauSVFit_cfi import diTauSVFit 
+< from CMGTools.Common.Tools.cmsswRelease import cmsswIs44X,cmsswIs52X
+< 
+< 
+---
+> from CMGTools.Utilities.mvaMET.mvaMET_cff                           import *
+> from CMGTools.Common.factories.cmgBaseMETFromPFMET_cfi              import cmgBaseMETFromPFMET
+14d12
+< # no correction, no svfit ---------------------------------------------------
+16,17c14
+< # attaching the cuts defined in this module
+< # to the di-tau factory
+---
+> # build diTau ----------------------------------------------------------
+19,25c16
+< cmgDiTau.cfg.leg1Collection = 'cmgTauScaler'
+< cmgDiTau.cfg.leg2Collection = 'cmgTauScaler'
+< 
+< # preselection 
+< cmgDiTauPreSel = cmgDiTauSel.clone( cut = 'getSelection("cuts_baseline") && leg1().pt()>40 && leg2().pt()>40')
+< 
+< # Correct tau (+ MET) before MVA MET in di-tau channel
+---
+> cmgDiTau.cfg.metsigCollection = cms.InputTag('')
+27,34c18,26
+< cmgDiTauCorPreSel = cmgDiTauCor.clone()
+< # cmgDiTauCorPreSel.cfg.metCollection = 'mvaBaseMETDiTau'
+< cmgDiTauCorPreSel.cfg.diObjectCollection = 'cmgDiTauPreSel'
+< 
+< diTauStdSequence = cms.Sequence( cmgTauScaler +
+<                                  cmgDiTau +
+<                                  cmgDiTauPreSel +
+<                                  cmgDiTauCorPreSel
+---
+> # pT preselection ------------------------------------------------------
+> cmgDiTauPreSel = cmgDiTauSel.clone( 
+>  src = 'cmgDiTau',
+>  cut = 'leg1().pt()>38. && leg2().pt()>38. && leg1().tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") < 10. &&  leg2().tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") < 10.',
+>  )
+>  
+> # sequence -------------------------------------------------------------
+> diTauStdSequence = cms.Sequence( cmgDiTau       +
+>                                  cmgDiTauPreSel
+36a29,30
+> # mva MET --------------------------------------------------------------
+> mvaMETDiTau.recBosonSrc = 'cmgDiTauPreSel'
+38,48d31
+< # correction and svfit ------------------------------------------------------
+< 
+< # this is done for preselected di-taus
+< 
+< # mva MET
+< 
+< from CMGTools.Common.eventCleaning.goodPVFilter_cfi import goodPVFilter
+< 
+< from CMGTools.Utilities.mvaMET.mvaMET_cff import *
+< # from CMGTools.Common.factories.cmgBaseMETFromPFMET_cfi import cmgBaseMETFromPFMET
+< mvaMETDiTau.recBosonSrc = 'cmgDiTauCorPreSel'
+50,54c33,41
+< cmgDiTauMVAPreSel = cmgDiTauCor.clone()
+< # cmgDiTauMVAPreSel.cfg.metCollection = 'mvaBaseMETDiTau'
+< cmgDiTauMVAPreSel.cfg.diObjectCollection = 'cmgDiTauPreSel'
+< 
+< # recoil correction
+---
+> # correct TauES (after MVA MET according to current baseline) ----------
+> cmgDiTauCor = cmgDiTauCor.clone()
+> cmgDiTauCor.cfg.diObjectCollection = cms.InputTag('mvaMETDiTau')
+> 
+> # this selector goes after the TauES correction ------------------------
+> cmgDiTauPtSel = cmgDiTauSel.clone(
+>     src = cms.InputTag( "cmgDiTauCor" ),
+>     cut = cms.string( "leg1().pt()>45. && leg2().pt()>45." )
+>     )
+56,57c43
+< # metForRecoil = 'mvaMETDiTau'
+< diTausForRecoil = 'mvaMETDiTau'
+---
+> # recoil correction ----------------------------------------------------
+59,61c45
+<     recBosonSrc = diTausForRecoil
+<     # ,
+<     # metSrc = metForRecoil
+---
+>     recBosonSrc = 'cmgDiTauPtSel',
+64,79c48,53
+< # mvaBaseMETDiTau = cmgBaseMETFromPFMET.clone()
+< 
+< # SWITCH OFF RECOIL CORRECTIONS HERE
+< 
+< # mvaBaseMETDiTau.cfg.inputCollection = 'recoilCorMETDiTau'
+< #mvaBaseMETDiTau.cfg.inputCollection = 'mvaMETDiTau'
+< 
+< # sequence
+< 
+< mvaMETSequence = cms.Sequence( goodPVFilter + 
+<                                mvaMETDiTau +
+<                                recoilCorMETDiTau
+<                                # +
+<                                # mvaBaseMETDiTau
+<                                #    # +
+<                                #    # cmgDiTauMVAPreSel
+---
+> # sequence -------------------------------------------------------------
+> mvaMETSequence = cms.Sequence( goodPVFilter      + 
+>                                mvaMETDiTau       +
+>                                cmgDiTauCor       +
+>                                cmgDiTauPtSel     +
+>                                recoilCorMETDiTau 
+81a56,59
+> # SVFit ----------------------------------------------------------------
+> cmgDiTauCorSVFitPreSel = diTauSVFit.clone()
+> cmgDiTauCorSVFitPreSel.diTauSrc = cms.InputTag('recoilCorMETDiTau')
+> #cmgDiTauCorSVFitPreSel.verbose = True
+83,92c61
+< cmgDiTauCorPreSVFitSel = cmgDiTauSel.clone( src = 'recoilCorMETDiTau',
+<                                              cut = 'leg1().pt()>45 && leg2().pt()>45',
+<                                              ) 
+< 
+< # SVFit
+< 
+< cmgDiTauSVFit = diTauSVFit.clone()
+< cmgDiTauSVFit.diTauSrc = 'cmgDiTauCorPreSVFitSel'
+< # cmgDiTauSVFit.metsigSrc = 'mvaMETDiTau'
+< cmgDiTauCorSVFitFullSel = cmgDiTauSel.clone( src = 'cmgDiTauSVFit',
+---
+> cmgDiTauCorSVFitFullSel = cmgDiTauSel.clone( src = 'cmgDiTauCorSVFitPreSel',
+96,100c65,67
+< diTauCorSVFitSequence = cms.Sequence( #
+<     mvaMETSequence +
+<     # cmgDiTauCorPreSel +
+<     cmgDiTauCorPreSVFitSel +
+<     cmgDiTauSVFit +
+---
+> diTauCorSVFitSequence = cms.Sequence(
+>     mvaMETSequence          +
+>     cmgDiTauCorSVFitPreSel  +
+Index: python/objects/diTauSVFit_cfi.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/objects/diTauSVFit_cfi.py,v
+retrieving revision 1.6
+diff -r1.6 diTauSVFit_cfi.py
+9c9
+<     SVFitVersion =  cms.int32(1), # 1 for 2011 version , 2 for new 2012 (slow) version
+---
+>     SVFitVersion =  cms.int32(2), # 1 for 2011 version , 2 for new 2012 (slow) version
+Index: python/objects/tauCuts_cff.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/objects/tauCuts_cff.py,v
+retrieving revision 1.18
+diff -r1.18 tauCuts_cff.py
+11c11
+<         pt = cms.string('{leg}().pt()>{ptCut}'.format(leg=leg, ptCut=ptCut)),
+---
+>         pt  = cms.string('{leg}().pt()>{ptCut}'.format(leg=leg, ptCut=ptCut)),
+cvs diff: Diffing python/proto
+cvs diff: Diffing python/proto/Samples
+cvs diff: Diffing python/proto/analyzers
+Index: python/proto/analyzers/EmbedWeighter.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/EmbedWeighter.py,v
+retrieving revision 1.11
+diff -r1.11 EmbedWeighter.py
+27,28c27
+<         #import pdb ; pdb.set_trace()
+<         if self.cfg_comp.isEmbed:
+---
+>         if self.cfg_comp.isEmbed or self.cfg_comp.name == 'TTJets_emb' :
+40c39
+<                         'genParticles',
+---
+>                         ('genParticles','','EmbeddedRECO'),
+80c79,83
+<         isRHEmbedded = False
+---
+>         isRHEmbedded = self.cfg_ana.isRecHit
+>         if 'PFembedded' in self.cfg_comp.name and isRHEmbedded :
+>           'WARNING: in the cfg you set RecHit, but this appears to be PF embedded'
+>         if 'RHembedded' in self.cfg_comp.name and not isRHEmbedded :
+>           'WARNING: in the cfg you set PF, but this appears to be RecHit embedded'
+88c91
+<         if self.cfg_comp.isEmbed:
+---
+>         if self.cfg_comp.isEmbed or self.cfg_comp.name == 'TTJets_emb' :
+100c103
+<                 return False
+---
+>                 return False	
+112c115
+<             
+---
+> 
+128d130
+<                 # import pdb; pdb.set_trace()
+Index: python/proto/analyzers/H2TauTauSyncTreeTauTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/H2TauTauSyncTreeTauTau.py,v
+retrieving revision 1.2
+diff -r1.2 H2TauTauSyncTreeTauTau.py
+5,6d4
+< #import pdb ; pdb.set_trace()
+< 
+15,16c13,15
+< 
+<         var( tr, 'run', int)
+---
+>         var( tr, 'NUP' , int)
+>         
+>         var( tr, 'run' , int)
+18c17
+<         var( tr, 'evt', int)
+---
+>         var( tr, 'evt' , int)
+26a26
+>         var( tr, 'decaymodeweight')
+30c30
+<         var( tr, 'm_vis')
+---
+>         var( tr, 'mvis')
+54a55
+>         var( tr, 'againstMuonLoose_1')
+59a61
+>         var( tr, 'againstElectronNewLooseMVA3_1')
+81a84
+>         var( tr, 'againstMuonLoose_2')
+85a89
+>         var( tr, 'againstElectronNewLooseMVA3_2')
+147d150
+< 
+160a164,174
+>         ####### EMBEDDED WEIGHTS
+>         var( tr, 'genfilter')
+>         var( tr, 'tauspin'  )
+>         var( tr, 'zmumusel' )
+>         var( tr, 'muradcorr')
+>         var( tr, 'genTau2PtVsGenTau1Pt'    )
+>         var( tr, 'genTau2EtaVsGenTau1Eta'  )
+>         var( tr, 'genDiTauMassVsGenDiTauPt')
+> 
+> 
+> 
+174,182c188
+< #         import pdb ; pdb.set_trace()
+<         #COLIN : tau tau problem:
+<         # not event.thirdLeptonVeto or \
+<         # not event.leptonAccept:
+<         # len(event.muons)+len(event.electrons) > 0 or no need to apply it here, it is applied in TauTauAnalyzer.py
+<         if not event.isSignal or \
+<            (hasattr(event, 'thirdLeptonVeto') and not event.thirdLeptonVeto ) or \
+<            (hasattr(event, 'leptonAccept')    and not event.leptonAccept    ) :
+<             return False
+---
+>         
+184a191
+> 
+192,193c199
+<                 
+<         
+---
+>                         
+199a206
+>         fill( tr, 'NUP', event.NUP )
+201,202c208,209
+<         fill( tr, 'mcweight', event.eventWeight) 
+<         fill( tr, 'puweight', event.vertexWeight) #OK
+---
+>         #fill( tr, 'mcweight', event.eventWeight) 
+>         #fill( tr, 'puweight', event.vertexWeight) #OK
+204,206c211,224
+<         leg1 = event.diLepton.leg1()
+<         leg2 = event.diLepton.leg2()
+<         fill( tr, 'effweight', leg1.weight*leg2.weight) 
+---
+>         
+>         ### taus pt hierarchy can be swapped after TauES correction
+>         if event.diLepton.leg1().pt() >= event.diLepton.leg2().pt() :   
+>           leg1 = event.diLepton.leg1()
+>           leg2 = event.diLepton.leg2()
+>           fill( tr, 'mt_1', event.diLepton.mTLeg1())
+>           fill( tr, 'mt_2', event.diLepton.mTLeg2())
+>         if event.diLepton.leg1().pt() < event.diLepton.leg2().pt() :   
+>           leg2 = event.diLepton.leg1()
+>           leg1 = event.diLepton.leg2()
+>           fill( tr, 'mt_2', event.diLepton.mTLeg1())
+>           fill( tr, 'mt_1', event.diLepton.mTLeg2())
+>         
+>         #fill( tr, 'effweight', leg1.weight*leg2.weight) 
+209c227
+<         fill( tr, 'm_vis', event.diLepton.mass() )
+---
+>         fill( tr, 'mvis', event.diLepton.mass() )
+211c229
+<         fill( tr, 'm_sv_Up', -1) #? tau up 3%
+---
+>         fill( tr, 'm_sv_Up'  , -1) #? tau up 3%
+225d242
+<         fill( tr, 'mt_1', event.diLepton.mTLeg1())
+233a251
+>         fill( tr, 'againstMuonLoose_1'           , leg1.tauID("againstMuonLoose"))
+237a256
+>         fill( tr, 'againstElectronNewLooseMVA3_1', leg1.NewLooseAntiEleMVA3)
+239,245c258,264
+<         fill( tr, 'gen_pt_2', leg2.physObj.genJetp4().pt())
+<         fill( tr, 'pt_2', leg2.pt())
+<         fill( tr, 'phi_2', leg2.phi())
+<         fill( tr, 'eta_2', leg2.eta())
+<         fill( tr, 'm_2', leg2.mass())
+<         fill( tr, 'q_2', leg2.charge())
+<         fill( tr, 'iso_2', leg2.tauID("byRawIsoMVA"))
+---
+>         fill( tr, 'gen_pt_2' , leg2.physObj.genJetp4().pt())
+>         fill( tr, 'pt_2'     , leg2.pt())
+>         fill( tr, 'phi_2'    , leg2.phi())
+>         fill( tr, 'eta_2'    , leg2.eta())
+>         fill( tr, 'm_2'      , leg2.mass())
+>         fill( tr, 'q_2'      , leg2.charge())
+>         fill( tr, 'iso_2'    , leg2.tauID("byRawIsoMVA"))
+247c266
+<         fill( tr, 'passid_2',  1)
+---
+>         fill( tr, 'passid_2' , 1)
+249d267
+<         fill( tr, 'mt_2', event.diLepton.mTLeg1())
+251,252c269,270
+<         fill( tr, 'idweight_2', leg2.idWeight)
+<         fill( tr, 'isoweight_2', leg2.isoWeight)
+---
+>         fill( tr, 'idweight_2'  , leg2.idWeight)
+>         fill( tr, 'isoweight_2' , leg2.isoWeight)
+257a276
+>         fill( tr, 'againstMuonLoose_2'           , leg2.tauID("againstMuonLoose"))
+261a281
+>         fill( tr, 'againstElectronNewLooseMVA3_2', leg2.NewLooseAntiEleMVA3)
+271,278c291,307
+<         metsig = self.handles['pfmetsig'].product().significance()
+<         fill( tr, 'metcov00', metsig(0,0))
+<         fill( tr, 'metcov01', metsig(0,1))
+<         fill( tr, 'metcov10', metsig(1,0))
+<         fill( tr, 'metcov11', metsig(1,1))
+<         
+< #         import pdb ; pdb.set_trace()
+<         
+---
+>         fill( tr, 'mvacov00', event.diLepton.metSig().significance()(0,0))
+>         fill( tr, 'mvacov01', event.diLepton.metSig().significance()(0,1))
+>         fill( tr, 'mvacov10', event.diLepton.metSig().significance()(1,0))
+>         fill( tr, 'mvacov11', event.diLepton.metSig().significance()(1,1))
+> 
+>         fill( tr, 'metcov00', event.metsig.significance()(0,0))
+>         fill( tr, 'metcov01', event.metsig.significance()(0,1))
+>         fill( tr, 'metcov10', event.metsig.significance()(1,0))
+>         fill( tr, 'metcov11', event.metsig.significance()(1,1))
+> 
+> #         metsig = self.handles['pfmetsig'].product().significance()
+> #         fill( tr, 'metcov00', metsig(0,0))
+> #         fill( tr, 'metcov01', metsig(0,1))
+> #         fill( tr, 'metcov10', metsig(1,0))
+> #         fill( tr, 'metcov11', metsig(1,1))
+> #         
+> #         
+285,290c314,319
+<         if hasattr( event.diLepton, 'mvaMetSig'):
+<           mvametsig = event.diLepton.mvaMetSig.significance()
+<           fill( tr, 'mvacov00', mvametsig(0,0))
+<           fill( tr, 'mvacov01', mvametsig(0,1))
+<           fill( tr, 'mvacov10', mvametsig(1,0))
+<           fill( tr, 'mvacov11', mvametsig(1,1))
+---
+> #         if hasattr( event.diLepton, 'mvaMetSig'):
+> #           mvametsig = event.diLepton.mvaMetSig.significance()
+> #           fill( tr, 'mvacov00', mvametsig(0,0))
+> #           fill( tr, 'mvacov01', mvametsig(0,1))
+> #           fill( tr, 'mvacov10', mvametsig(1,0))
+> #           fill( tr, 'mvacov11', mvametsig(1,1))
+333,335c362,364
+<             fill( tr, 'jdphi', abs(vbf.dphi))
+<             fill( tr, 'dijetpt', vbf.dijetpt)
+<             fill( tr, 'dijetphi', vbf.dijetphi)
+---
+>             fill( tr, 'jdphi'    , abs(vbf.dphi))
+>             fill( tr, 'dijetpt'  , vbf.dijetpt)
+>             fill( tr, 'dijetphi' , vbf.dijetphi)
+338c367
+<             fill( tr, 'ptvis', vbf.ptvis)
+---
+>             fill( tr, 'ptvis'    , vbf.ptvis)
+345,346c374,375
+<           fill( tr, 'l1TrigMatched_diTau' , 0)
+<           fill( tr, 'l2TrigMatched_diTau' , 0)
+---
+>           fill( tr, 'l1TrigMatched_diTau' , -1)
+>           fill( tr, 'l2TrigMatched_diTau' , -1)
+354,356c383,385
+<           fill( tr, 'l1TrigMatched_diTauJet' , 0)
+<           fill( tr, 'l2TrigMatched_diTauJet' , 0)
+<           fill( tr, 'jetTrigMatched_diTauJet', 0)
+---
+>           fill( tr, 'l1TrigMatched_diTauJet' , -1)
+>           fill( tr, 'l2TrigMatched_diTauJet' , -1)
+>           fill( tr, 'jetTrigMatched_diTauJet', -1)
+364,366c393,395
+<           fill( tr, 'triggerWeight_diTauJet' ,0)
+<           fill( tr, 'triggerEffMC_diTauJet'  ,0)
+<           fill( tr, 'triggerEffData_diTauJet',0)
+---
+>           fill( tr, 'triggerWeight_diTauJet' ,1)
+>           fill( tr, 'triggerEffMC_diTauJet'  ,1)
+>           fill( tr, 'triggerEffData_diTauJet',1)
+374,376c403,405
+<           fill( tr, 'triggerWeight_diTau' ,0)
+<           fill( tr, 'triggerEffMC_diTau'  ,0)
+<           fill( tr, 'triggerEffData_diTau',0)
+---
+>           fill( tr, 'triggerWeight_diTau' ,1)
+>           fill( tr, 'triggerEffMC_diTau'  ,1)
+>           fill( tr, 'triggerEffData_diTau',1)
+395a425,444
+>         ####### EMBEDDED WEIGHTS
+>         fill( tr, 'genfilter'               , event.genfilter                )
+>         fill( tr, 'tauspin'                 , event.tauspin                  )
+>         fill( tr, 'zmumusel'                , event.zmumusel                 )
+>         fill( tr, 'muradcorr'               , event.muradcorr                )
+>         fill( tr, 'genTau2PtVsGenTau1Pt'    , event.genTau2PtVsGenTau1Pt     )
+>         fill( tr, 'genTau2EtaVsGenTau1Eta'  , event.genTau2EtaVsGenTau1Eta   )
+>         fill( tr, 'genDiTauMassVsGenDiTauPt', event.genDiTauMassVsGenDiTauPt )
+>         
+>         ### MY WEIGTHS
+>         fill( tr, 'effweight'       , event.triggerWeight_diTau )
+>         fill( tr, 'puweight'        , event.vertexWeight        )
+>         fill( tr, 'mcweight'        , 1./event.ntot             )  
+>         DMweight = 1.
+>         if leg1.decayMode()==0 :
+>           DMweight *= 0.88 
+>         if leg2.decayMode()==0 :
+>           DMweight *= 0.88 
+>         fill( tr, 'decaymodeweight' , DMweight)
+> 
+Index: python/proto/analyzers/H2TauTauTreeProducerTauTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/H2TauTauTreeProducerTauTau.py,v
+retrieving revision 1.12
+diff -r1.12 H2TauTauTreeProducerTauTau.py
+9a10,11
+> 
+> 
+16a19,24
+> def deltaR(eta1, phi1, eta2, phi2) :
+>     deta = eta1-eta2
+>     dphi = deltaPhi(phi1,phi2)
+>     return sqrt(deta*deta + dphi*dphi)
+> 
+> 
+31,42c39,75
+<             var('{pName}Px'.format(pName=pName))
+<             var('{pName}Py'.format(pName=pName))
+<             var('{pName}Pz'.format(pName=pName))
+<             var('{pName}E'.format(pName=pName))
+<             var('{pName}Pt'.format(pName=pName))
+<             var('{pName}Eta'.format(pName=pName))
+<             var('{pName}Phi'.format(pName=pName))
+<             var('{pName}Charge'.format(pName=pName))
+<             var('{pName}Mass'.format(pName=pName))
+<             #var('{pName}Iso'.format(pName=pName))
+<             #var('{pName}Id'.format(pName=pName))
+<             
+---
+>             var('{pName}Px'.format(pName=pName)                         )
+>             var('{pName}Py'.format(pName=pName)                         )
+>             var('{pName}Pz'.format(pName=pName)                         )
+>             var('{pName}E'.format(pName=pName)                          )
+>             var('{pName}Pt'.format(pName=pName)                         )
+>             var('{pName}Eta'.format(pName=pName)                        )
+>             var('{pName}Phi'.format(pName=pName)                        )
+>             var('{pName}Charge'.format(pName=pName)                     )
+>             var('{pName}Mass'.format(pName=pName)                       )            
+>             if not ('diTau' in pName or 'jet' in pName or 'L1' in pName):
+>               var('{pName}DecayMode'.format(pName=pName)                  )
+>               var('{pName}RawDB3HIso'.format(pName=pName)                 )
+>               var('{pName}LooseDB3HIso'.format(pName=pName)               )
+>               var('{pName}MediumDB3HIso'.format(pName=pName)              )
+>               var('{pName}TightDB3HIso'.format(pName=pName)               )
+>               var('{pName}LooseEle'.format(pName=pName)                   )
+>               var('{pName}MedEle'.format(pName=pName)                     )
+>               var('{pName}MVAEle'.format(pName=pName)                     )
+>               var('{pName}LooseMu'.format(pName=pName)                    )
+>               var('{pName}jetMass'.format(pName=pName)                    )
+>               var('{pName}jetPt'.format(pName=pName)                      )
+>               var('{pName}againstElectronMVA3raw'.format(pName=pName)     )
+>               #var('{pName}againstElectronLooseMVA3'.format(pName=pName)   )
+>               #var('{pName}againstElectronMediumMVA3'.format(pName=pName)  )
+>               #var('{pName}againstElectronTightMVA3'.format(pName=pName)   )
+>               var('{pName}againstElectronVTightMVA3'.format(pName=pName)  )
+>               var('{pName}againstElectronMVA3category'.format(pName=pName))
+>               var('{pName}againstElectronNewLooseMVA3'.format(pName=pName))
+>               var('{pName}againstMuonLoose2'.format(pName=pName)          )
+>               var('{pName}againstMuonMedium2'.format(pName=pName)         )
+>               var('{pName}againstMuonTight2'.format(pName=pName)          )
+>               var('{pName}VertexZ'.format(pName=pName)                    )
+>               var('{pName}GenPdgId'.format(pName=pName)                   )
+>               var('{pName}GenPt'.format(pName=pName)                      )
+>               var('{pName}GenEta'.format(pName=pName)                     )
+>               var('{pName}GenPhi'.format(pName=pName)                     )
+>               var('{pName}GenMass'.format(pName=pName)                    )
+44,45c77,78
+<         varInt('run')
+<         varInt('lumi')
+---
+>         varInt('run'  )
+>         varInt('lumi' )
+48c81,83
+<         var('visMass')
+---
+> 	varInt('isRealTau')
+> 	
+>         var('visMass'  )
+51a87,88
+>         var('l1Radius')
+>         var('l2Radius')
+53a91,94
+>         var('mvacov00')
+>         var('mvacov01')
+>         var('mvacov10')
+>         var('mvacov11')
+65,66c106,107
+< 	var('dPhittjj')
+< 	var('dEtattjj')
+---
+> # 	var('dPhittjj')
+> # 	var('dEtattjj')
+68c109
+< 	var('vbfMVA')
+---
+> # 	var('vbfMVA')
+70a112
+>         var('dRttL1')
+78,155c120,150
+<         var('l1DecayMode')
+<         varInt('l1LooIso')
+<         varInt('l1MedIso')
+<         varInt('l1TigIso')
+<         var('l1RawMVAIso')
+<         var('l1RawMVA2Iso')
+<         var('l1RawDB3HIso')
+<         varInt('l1MedMVAIso')
+<         varInt('l1TigMVAIso')
+<         varInt('l1LooseDB3HIso')
+<         varInt('l1MediumDB3HIso')
+<         varInt('l1TightDB3HIso')
+<         varInt('l1LooseEle')
+<         varInt('l1MedEle')
+<         varInt('l1MVAEle')
+<         varInt('l1LooseMu')
+<         var('l1jetMass')
+<         var('l1jetPt')
+<         var('l1jetWidth')
+<         var('l1jetBtag')
+<         var('l1againstElectronMVA3raw')
+<         var('l1againstElectronLooseMVA3')
+<         var('l1againstElectronMediumMVA3')
+<         var('l1againstElectronTightMVA3')
+<         var('l1againstElectronVTightMVA3')
+<         var('l1againstMuonLoose2')
+<         var('l1againstMuonMedium2')
+<         var('l1againstMuonTight2')
+< 
+<         var('l2DecayMode')
+<         varInt('l2LooIso')
+<         varInt('l2MedIso')
+<         varInt('l2TigIso')
+<         var('l2RawMVAIso')
+<         var('l2RawMVA2Iso')
+<         var('l2RawDB3HIso')
+<         varInt('l2MedMVAIso')
+<         varInt('l2TigMVAIso')
+<         varInt('l2LooseDB3HIso')
+<         varInt('l2MediumDB3HIso')
+<         varInt('l2TightDB3HIso')
+<         
+<         
+<         varInt('l2LooseEle')
+<         varInt('l2MedEle')
+<         varInt('l2MVAEle')
+<         varInt('l2LooseMu')
+<         var('l2jetMass')
+<         var('l2jetPt')
+<         var('l2jetWidth')
+<         var('l2jetBtag')
+<         var('l2againstElectronMVA3raw')
+<         var('l2againstElectronLooseMVA3')
+<         var('l2againstElectronMediumMVA3')
+<         var('l2againstElectronTightMVA3')
+<         var('l2againstElectronVTightMVA3')
+< 
+<         var('l2againstMuonLoose2')
+<         var('l2againstMuonMedium2')
+<         var('l2againstMuonTight2')
+< 
+< 
+<         var('l1match')
+<         var('l2match')
+<         var('l1VertexZ')
+<         var('l2VertexZ')
+< 
+<         var('genMass')
+<         var('genMassSmeared')
+<         var('svfitMassSmeared')
+<         var('l1JetInvMass')
+<         var('l2JetInvMass')
+<         varInt('l1TrigMatched')
+<         varInt('l2TrigMatched')
+<         varInt('jetTrigMatched')
+< 
+<         #var('genTauVisMass')
+<         #var('genJetVisMass')
+---
+> #         var('l1jetMass')
+> #         var('l1jetPt')
+> #         var('l1jetWidth')
+> #         var('l1jetBtag')
+> # 
+> #         var('l2jetMass')
+> #         var('l2jetPt')
+> #         var('l2jetWidth')
+> #         var('l2jetBtag')
+> # 
+> #         var('l1match')
+> #         var('l2match')
+> # 
+> #         var('l1JetInvMass')
+> #         var('l2JetInvMass')
+> 
+>         ####### TRIGGER MATCHING
+>         varInt( 'l1TrigMatched_diTau'    )
+>         varInt( 'l2TrigMatched_diTau'    )
+>         varInt( 'l1TrigMatched_diTauJet' )
+>         varInt( 'l2TrigMatched_diTauJet' )
+>         varInt( 'jetTrigMatched_diTauJet')
+> 
+>         ####### TRIGGER WEIGHTS
+>         var( 'triggerWeight_diTauJet' )
+>         var( 'triggerEffMC_diTauJet'  )
+>         var( 'triggerEffData_diTauJet')
+> 
+>         var( 'triggerWeight_diTau' )
+>         var( 'triggerEffMC_diTau'  )
+>         var( 'triggerEffData_diTau')
+156a152
+>         ####### JETS VARIABLES
+164,167c160,161
+<         ## Riccardo
+<         var('sumJetPt')
+<         var('allJetPt')
+< 
+---
+>         #var('sumJetPt')
+>         #var('allJetPt')
+171,173c165,166
+<         ## Riccardo
+<         var('sumbJetPt')
+<         var('allbJetPt')
+---
+>         #var('sumbJetPt')
+>         #var('allbJetPt')
+174a168
+>         ####### WEIGHTS AND VERTICES
+181d174
+<         
+182a176,196
+> 
+>         ####### L1 MATCHING PARTICLES
+>         var('l1L1Px'    )
+>         var('l1L1Py'    )
+>         var('l1L1Pz'    )
+>         var('l1L1E'     )
+>         var('l1L1Pt'    )
+>         var('l1L1Eta'   )
+>         var('l1L1Phi'   )
+>         var('l1L1Charge')
+>         var('l1L1Mass'  )
+>         
+>         var('l2L1Px'    )
+>         var('l2L1Py'    )
+>         var('l2L1Pz'    )
+>         var('l2L1E'     )
+>         var('l2L1Pt'    )
+>         var('l2L1Eta'   )
+>         var('l2L1Phi'   )
+>         var('l2L1Charge')
+>         var('l2L1Mass'  )
+183a198
+>         ####### GENERATOR VARIABLES
+185,186c200,207
+<         varInt('isFake')
+<         varInt('isPhoton')
+---
+>         varInt('isFake'    )
+>         varInt('isZtt'     )
+>         varInt('isZee'     )
+>         varInt('isZmm'     )
+>         varInt('isZj'      )
+>         varInt('isZttj'    )
+>         varInt('isZttll'   )
+>         varInt('isPhoton'  )
+188,191c209,214
+<         varInt('isMuon')
+< 
+<         varInt('hasW')
+<         varInt('hasZ')
+---
+>         varInt('isMuon'    )
+>         varInt('hasW'      )
+>         varInt('hasZ'      )
+>         var('genMass'      )
+>         #var('genMassSmeared'  )
+>         #var('svfitMassSmeared')
+193,194c216,217
+<         var('electron1Pt')
+<         var('muon1Pt')
+---
+>         ####### THIRD LEPTON VETO
+>         var('electron1Pt' )
+196d218
+<         var('muon1Eta')
+197a220,221
+>         var('muon1Pt' )
+>         var('muon1Eta')
+199c223,238
+< 
+---
+>         
+>         ####### HIGGS PT WEIGHTS
+>         var('higgsPtWeightNom')
+>         var('higgsPtWeightUp')
+>         var('higgsPtWeightDown')
+> 
+>         ####### EMBEDDED WEIGHTS
+>         var('genfilter'               )
+>         var('tauspin'                 )
+>         var('zmumusel'                )
+>         var('muradcorr'               )
+>         var('genTau2PtVsGenTau1Pt'    )
+>         var('genTau2EtaVsGenTau1Eta'  )
+>         var('genDiTauMassVsGenDiTauPt')
+>         
+>         ####### NUM OF GEN JETS FOR STITCHING
+202,204c241,242
+< 	self.triggers=['HLT_LooseIsoPFTau35_Trk20_Prong1_v6',
+<          'HLT_LooseIsoPFTau35_Trk20_Prong1_MET70_v6',
+<          'HLT_LooseIsoPFTau35_Trk20_Prong1_MET75_v6',
+---
+> 	self.triggers=[
+> 	 'HLT_LooseIsoPFTau35_Trk20_Prong1_v6',
+208c246,254
+<          'HLT_DoubleMediumIsoPFTau35_Trk5_eta2p1_Prong1_v6']
+---
+>          'HLT_DoubleMediumIsoPFTau35_Trk5_eta2p1_Prong1_v6',
+>          'HLT_Mu17_Mu8_v16',
+>          'HLT_Mu17_Mu8_v17',
+>          'HLT_Mu17_Mu8_v18',
+>          'HLT_Mu17_Mu8_v19',
+>          'HLT_Mu17_Mu8_v21',
+>          'HLT_Mu17_Mu8_v21',
+>          'HLT_Mu17_Mu8_v22',
+>          ]
+215a262,265
+>         #if event.eventId in notPassed :
+>         #  print 'WEIRD!! I have this event'
+>         #  import pdb ; pdb.set_trace()
+> 
+222,230c272,303
+<             fill('{pName}Px'.format(pName=pName)    , particle.px()*scale     )
+<             fill('{pName}Py'.format(pName=pName)    , particle.py()*scale     )
+<             fill('{pName}Pz'.format(pName=pName)    , particle.pz()*scale     )
+<             fill('{pName}E'.format(pName=pName)     , particle.energy()*scale )
+<             fill('{pName}Pt'.format(pName=pName)    , particle.pt()*scale     )
+<             fill('{pName}Eta'.format(pName=pName)   , particle.eta()          )
+<             fill('{pName}Phi'.format(pName=pName)   , particle.phi()          )
+<             fill('{pName}Charge'.format(pName=pName), particle.charge()       )
+<             fill('{pName}Mass'.format(pName=pName)  , particle.mass()*scale   )
+---
+>             fill('{pName}Px'.format(pName=pName)     , particle.px()*scale     )
+>             fill('{pName}Py'.format(pName=pName)     , particle.py()*scale     )
+>             fill('{pName}Pz'.format(pName=pName)     , particle.pz()*scale     )
+>             fill('{pName}E'.format(pName=pName)      , particle.energy()*scale )
+>             fill('{pName}Pt'.format(pName=pName)     , particle.pt()*scale     )
+>             fill('{pName}Eta'.format(pName=pName)    , particle.eta()          )
+>             fill('{pName}Phi'.format(pName=pName)    , particle.phi()          )
+>             fill('{pName}Charge'.format(pName=pName) , particle.charge()       )
+>             fill('{pName}Mass'.format(pName=pName)   , particle.mass()*scale   )
+>             if not ('diTau' in pName or 'jet' in pName or 'L1' in pName):
+>               fill('{pName}DecayMode'.format(pName=pName)                  , particle.decayMode()                                         )
+>               fill('{pName}RawDB3HIso'.format(pName=pName)                 , particle.tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits")   )
+>               fill('{pName}LooseDB3HIso'.format(pName=pName)               , particle.tauID("byLooseCombinedIsolationDeltaBetaCorr3Hits") )
+>               fill('{pName}MediumDB3HIso'.format(pName=pName)              , particle.tauID("byMediumCombinedIsolationDeltaBetaCorr3Hits"))
+>               fill('{pName}TightDB3HIso'.format(pName=pName)               , particle.tauID("byTightCombinedIsolationDeltaBetaCorr3Hits") )
+>               fill('{pName}LooseEle'.format(pName=pName)                   , particle.tauID("againstElectronLoose")                       )
+>               fill('{pName}MedEle'.format(pName=pName)                     , particle.tauID("againstElectronMedium")                      )
+>               fill('{pName}MVAEle'.format(pName=pName)                     , particle.tauID("againstElectronMVA")                         )
+>               fill('{pName}LooseMu'.format(pName=pName)                    , particle.tauID("againstMuonLoose")                           )
+>               fill('{pName}jetMass'.format(pName=pName)                    , particle.jetRefp4().mass()                                   )
+>               fill('{pName}jetPt'.format(pName=pName)                      , particle.jetRefp4().pt()                                     )
+>               fill('{pName}againstElectronMVA3raw'.format(pName=pName)     , particle.tauID("againstElectronMVA3raw")                     )
+>               fill('{pName}againstElectronLooseMVA3'.format(pName=pName)   , particle.tauID("againstElectronLooseMVA3")                   )
+>               fill('{pName}againstElectronMediumMVA3'.format(pName=pName)  , particle.tauID("againstElectronMediumMVA3")                  )
+>               fill('{pName}againstElectronTightMVA3'.format(pName=pName)   , particle.tauID("againstElectronTightMVA3")                   )
+>               fill('{pName}againstElectronVTightMVA3'.format(pName=pName)  , particle.tauID("againstElectronVTightMVA3")                  )
+>               fill('{pName}againstElectronMVA3category'.format(pName=pName), particle.tauID("againstElectronMVA3category")                )
+>               fill('{pName}againstElectronNewLooseMVA3'.format(pName=pName), particle.NewLooseAntiEleMVA3                                 )
+>               fill('{pName}againstMuonLoose2'.format(pName=pName)          , particle.tauID("againstMuonLoose2")                          )
+>               fill('{pName}againstMuonMedium2'.format(pName=pName)         , particle.tauID("againstMuonMedium2")                         )
+>               fill('{pName}againstMuonTight2'.format(pName=pName)          , particle.tauID("againstMuonTight2")                          )
+>               fill('{pName}VertexZ'.format(pName=pName)                    , particle.tau.vz()                                            )
+233c306
+<             fill('run', event.run)
+---
+>           fill('run', event.run)
+235c308
+<             fill('lumi', event.lumi)
+---
+>           fill('lumi', event.lumi)
+237c310
+<             fill('event', event.eventId)
+---
+>           fill('event', event.eventId)
+238a312,314
+>         if hasattr(event,"isRealTau"):
+>           fill('isRealTau', event.isRealTau)
+>           
+244,245d319
+<         fill('mt1'      , event.diLepton.mTLeg1()*scale)
+<         fill('mt2'      , event.diLepton.mTLeg2()*scale)
+249,262c323,395
+<         #fill( tr, 'mvacov00', mvametsig(0,0))
+<         #fill( tr, 'mvacov01', mvametsig(0,1))
+<         #fill( tr, 'mvacov10', mvametsig(1,0))
+<         #fill( tr, 'mvacov11', mvametsig(1,1))
+<         fill('metPhi', event.diLepton.met().phi()*scale)
+<         fill('mex'   , event.diLepton.met().px()*scale)
+<         fill('mey'   , event.diLepton.met().py()*scale)
+<         fill('met'   , event.diLepton.met().pt()*scale)
+<         fill('rawMET', event.rawMET[0].pt())
+<         fill('dRtt'  , sqrt(pow(deltaPhi(event.diLepton.leg1().phi(),event.diLepton.leg2().phi()),2)+pow(fabs(event.diLepton.leg1().eta()-event.diLepton.leg2().eta()),2)))
+<         fill('dPhitt', deltaPhi(event.diLepton.leg1().phi(),event.diLepton.leg2().phi()))
+<         fill('dEtatt', fabs(event.diLepton.leg1().eta()-event.diLepton.leg2().eta()))
+<             
+<         fParticleVars('diTau', event.diLepton)
+---
+>         fill('mvacov00', event.diLepton.metSig().significance()(0,0))
+>         fill('mvacov01', event.diLepton.metSig().significance()(0,1))
+>         fill('mvacov10', event.diLepton.metSig().significance()(1,0))
+>         fill('mvacov11', event.diLepton.metSig().significance()(1,1))
+>         fill('metPhi'  , event.diLepton.met().phi()*scale)
+>         fill('mex'     , event.diLepton.met().px()*scale)
+>         fill('mey'     , event.diLepton.met().py()*scale)
+>         fill('met'     , event.diLepton.met().pt()*scale)
+>         fill('rawMET'  , event.rawMET[0].pt())
+>         fill('dRtt'    , sqrt(pow(deltaPhi(event.diLepton.leg1().phi(),event.diLepton.leg2().phi()),2)+pow(fabs(event.diLepton.leg1().eta()-event.diLepton.leg2().eta()),2)))
+>         fill('dPhitt'  , deltaPhi(event.diLepton.leg1().phi(),event.diLepton.leg2().phi()))
+>         fill('dEtatt'  , fabs(event.diLepton.leg1().eta()-event.diLepton.leg2().eta()))
+> 
+>         if hasattr(event.leg1,"L1particle") and hasattr(event.leg2,"L1particle") :
+>           fill('dRttL1'  , sqrt(pow(deltaPhi(event.leg1.L1particle.phi(),event.leg2.L1particle.phi()),2)+pow(fabs(event.leg1.L1particle.eta()-event.leg2.L1particle.eta()),2)))
+> 
+>           fill('l1L1Px'    , event.leg1.L1particle.px()    )
+>           fill('l1L1Py'    , event.leg1.L1particle.py()    )
+>           fill('l1L1Pz'    , event.leg1.L1particle.pz()    )
+>           fill('l1L1E'     , event.leg1.L1particle.energy())
+>           fill('l1L1Pt'    , event.leg1.L1particle.pt()    )
+>           fill('l1L1Eta'   , event.leg1.L1particle.eta()   )
+>           fill('l1L1Phi'   , event.leg1.L1particle.phi()   )
+>           fill('l1L1Charge', event.leg1.L1particle.charge())
+>           fill('l1L1Mass'  , event.leg1.L1particle.mass()  )
+>           
+>           fill('l2L1Px'    , event.leg2.L1particle.px()    )
+>           fill('l2L1Py'    , event.leg2.L1particle.py()    )
+>           fill('l2L1Pz'    , event.leg2.L1particle.pz()    )
+>           fill('l2L1E'     , event.leg2.L1particle.energy())
+>           fill('l2L1Pt'    , event.leg2.L1particle.pt()    )
+>           fill('l2L1Eta'   , event.leg2.L1particle.eta()   )
+>           fill('l2L1Phi'   , event.leg2.L1particle.phi()   )
+>           fill('l2L1Charge', event.leg2.L1particle.charge())
+>           fill('l2L1Mass'  , event.leg2.L1particle.mass()  )
+>           #fParticleVars('l1L1', event.leg1.L1particle)
+>           #fParticleVars('l2L1', event.leg2.L1particle)
+> 
+>         ### taus pt hierarchy can be swapped after TauES correction
+>         if event.diLepton.leg1().pt() >= event.diLepton.leg2().pt() :   
+>           leg1 = event.diLepton.leg1()
+>           leg2 = event.diLepton.leg2()
+>           fill('mt1', event.diLepton.mTLeg1()*scale)
+>           fill('mt2', event.diLepton.mTLeg2()*scale)
+>         elif event.diLepton.leg1().pt() < event.diLepton.leg2().pt() :   
+>           leg2 = event.diLepton.leg1()
+>           leg1 = event.diLepton.leg2()
+>           fill('mt2', event.diLepton.mTLeg1()*scale)
+>           fill('mt1', event.diLepton.mTLeg2()*scale)
+> 	
+> 	## tau1 radius
+> 	eta = []
+> 	phi = []
+> 	for sigCand in event.diLepton.leg1().physObj.signalPFCands() :
+> 	  eta.append(sigCand.eta())
+> 	  phi.append(sigCand.phi())
+>         dR = 0.
+>         for i in range(len(eta)) :
+> 	  if deltaR(leg1.eta(), leg1.phi(), eta[i], phi[i]) > dR :
+>             dR = deltaR(leg1.eta(), leg1.phi(), eta[i], phi[i])
+> 	fill('l1Radius', dR)
+> 
+> 	## tau2 radius
+> 	eta = []
+> 	phi = []
+> 	for sigCand in event.diLepton.leg2().physObj.signalPFCands() :
+> 	  eta.append(sigCand.eta())
+> 	  phi.append(sigCand.phi())
+>         dR = 0.
+>         for i in range(len(eta)) :
+> 	  if deltaR(leg2.eta(), leg2.phi(), eta[i], phi[i]) > dR :
+>             dR = deltaR(leg2.eta(), leg2.phi(), eta[i], phi[i])
+> 	fill('l2Radius', dR)
+264,265c397
+<         leg1=event.diLepton.leg1()
+<         leg2=event.diLepton.leg2()
+---
+> 	
+273,294d404
+<         fill('l1DecayMode', leg1.decayMode() )
+<         fill('l1LooIso'    , leg1.tauID("byLooseCombinedIsolationDeltaBetaCorr") )
+<         fill('l1MedIso'    , leg1.tauID("byMediumCombinedIsolationDeltaBetaCorr") )
+<         fill('l1TigIso'    , leg1.tauID("byTightCombinedIsolationDeltaBetaCorr") )
+< 
+< 
+<         fill('l1RawMVAIso' , leg1.tauID("byRawIsoMVA") )
+<         fill('l1RawMVA2Iso', leg1.tauID("byIsolationMVA2raw") )
+<         fill('l1RawDB3HIso', leg1.tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") )
+<         fill('l1MedMVAIso' , leg1.tauID("byMediumIsoMVA") )
+<         fill('l1TigMVAIso' , leg1.tauID("byTightIsoMVA") )
+<         fill('l1LooseDB3HIso' , leg1.tauID("byLooseCombinedIsolationDeltaBetaCorr3Hits"))
+<         fill('l1MediumDB3HIso', leg1.tauID("byMediumCombinedIsolationDeltaBetaCorr3Hits"))
+<         fill('l1TightDB3HIso' , leg1.tauID("byTightCombinedIsolationDeltaBetaCorr3Hits"))
+< 
+< 
+<         fill('l1LooseEle'  , leg1.tauID("againstElectronLoose") )
+<         fill('l1MedEle'    , leg1.tauID("againstElectronMedium") )
+<         fill('l1MVAEle'    , leg1.tauID("againstElectronMVA") )
+<         fill('l1LooseMu'   , leg1.tauID("againstMuonLoose2") )
+<         fill('l1jetMass'   , leg1.jetRefp4().mass() )
+<         fill('l1jetPt'     , leg1.jetRefp4().pt() )
+298,329c408
+<         fill('l1againstElectronMVA3raw'   , leg1.tauID("againstElectronMVA3raw"))
+<         fill('l1againstElectronLooseMVA3' , leg1.tauID("againstElectronLooseMVA3"))
+<         fill('l1againstElectronMediumMVA3', leg1.tauID("againstElectronMediumMVA3"))
+<         fill('l1againstElectronTightMVA3' , leg1.tauID("againstElectronTightMVA3"))
+<         fill('l1againstElectronVTightMVA3', leg1.tauID("againstElectronVTightMVA3"))
+<         fill('l1againstMuonLoose2'        , leg1.tauID("againstMuonLoose2"))
+<         fill('l1againstMuonMedium2'       , leg1.tauID("againstMuonMedium2"))
+<         fill('l1againstMuonTight2'        , leg1.tauID("againstMuonTight2"))
+<         
+< #         import pdb ; pdb.set_trace()
+< 
+< 
+<         fill('l2DecayMode', leg2.decayMode() )
+<         fill('l2LooIso'   , leg2.tauID("byLooseCombinedIsolationDeltaBetaCorr") )
+<         fill('l2MedIso'   , leg2.tauID("byMediumCombinedIsolationDeltaBetaCorr") )
+<         fill('l2TigIso'   , leg2.tauID("byTightCombinedIsolationDeltaBetaCorr") )
+<         
+<         fill('l2RawMVAIso'    , leg2.tauID("byRawIsoMVA") )
+<         fill('l2RawMVA2Iso'   , leg2.tauID("byIsolationMVA2raw") )
+<         fill('l2RawDB3HIso'   , leg2.tauID("byCombinedIsolationDeltaBetaCorrRaw3Hits") )        
+<         fill('l2MedMVAIso'    , leg2.tauID("byMediumIsoMVA") )
+<         fill('l2TigMVAIso'    , leg2.tauID("byTightIsoMVA") )
+<         fill('l2LooseDB3HIso' , leg2.tauID("byLooseCombinedIsolationDeltaBetaCorr3Hits"))
+<         fill('l2MediumDB3HIso', leg2.tauID("byMediumCombinedIsolationDeltaBetaCorr3Hits"))
+<         fill('l2TightDB3HIso' , leg2.tauID("byTightCombinedIsolationDeltaBetaCorr3Hits"))
+< 
+<         fill('l2LooseEle', leg2.tauID("againstElectronLoose") )
+<         fill('l2MedEle'  , leg2.tauID("againstElectronMedium") )
+<         fill('l2MVAEle'  , leg2.tauID("againstElectronMVA") )
+<         fill('l2LooseMu' , leg2.tauID("againstMuonLoose2") )
+<         fill('l2jetMass' , leg2.jetRefp4().mass() )
+<         fill('l2jetPt'   , leg2.jetRefp4().pt() )
+---
+>         
+334,345d412
+<         fill('l2againstElectronMVA3raw'   , leg2.tauID("againstElectronMVA3raw"))
+<         fill('l2againstElectronLooseMVA3' , leg2.tauID("againstElectronLooseMVA3"))
+<         fill('l2againstElectronMediumMVA3', leg2.tauID("againstElectronMediumMVA3"))
+<         fill('l2againstElectronTightMVA3' , leg2.tauID("againstElectronTightMVA3"))
+<         fill('l2againstElectronVTightMVA3', leg2.tauID("againstElectronVTightMVA3"))
+<         fill('l2againstMuonLoose2'        , leg2.tauID("againstMuonLoose2"))
+<         fill('l2againstMuonMedium2'       , leg2.tauID("againstMuonMedium2"))
+<         fill('l2againstMuonTight2'        , leg2.tauID("againstMuonTight2"))
+< 
+<         fill('l1VertexZ', leg1.tau.vz() )
+<         fill('l2VertexZ', leg2.tau.vz() )
+< 
+366,367c433,436
+< 	if hasattr(event,"l1TrigMatched"):
+<             fill('l1TrigMatched', event.l1TrigMatched )
+---
+>         # trigger matching for diTau trigger present in parked dataset 
+> 	if hasattr(event,"l1TrigMatched_diTau") and hasattr(event,"l2TrigMatched_diTau") :
+>           fill( 'l1TrigMatched_diTau' , event.l1TrigMatched_diTau )
+>           fill( 'l2TrigMatched_diTau' , event.l2TrigMatched_diTau )
+369c438,439
+<             fill('l1TrigMatched', -1 )
+---
+>           fill( 'l1TrigMatched_diTau' , -1)
+>           fill( 'l2TrigMatched_diTau' , -1)
+371,372c441,445
+< 	if hasattr(event,"l2TrigMatched"):
+<             fill('l2TrigMatched', event.l2TrigMatched )
+---
+>         # trigger matching for diTauJet trigger 
+> 	if hasattr(event,"l1TrigMatched_diTauJet") and hasattr(event,"l2TrigMatched_diTauJet") and hasattr(event,"jetTrigMatched_diTauJet"):
+>           fill( 'l1TrigMatched_diTauJet' , event.l1TrigMatched_diTauJet )
+>           fill( 'l2TrigMatched_diTauJet' , event.l2TrigMatched_diTauJet )
+>           fill( 'jetTrigMatched_diTauJet', event.jetTrigMatched_diTauJet)
+374,395c447,469
+<             fill('l2TrigMatched', -1 )
+< 
+< 	if hasattr(event,"jetTrigMatched"):
+<             fill('jetTrigMatched', event.jetTrigMatched )
+< 	else:
+<             fill('jetTrigMatched', -1 )
+< 
+<         #if event.diLepton.leg1().genTaup4() and event.diLepton.leg2().genTaup4():
+<         #  fill('genTauVisMass', sqrt(
+< 	#   pow(event.diLepton.leg1().genTaup4().energy()+event.diLepton.leg2().genTaup4().energy(),2)
+< 	#   -pow(event.diLepton.leg1().genTaup4().px()+event.diLepton.leg2().genTaup4().px(),2)
+< 	#   -pow(event.diLepton.leg1().genTaup4().py()+event.diLepton.leg2().genTaup4().py(),2)
+< 	#   -pow(event.diLepton.leg1().genTaup4().pz()+event.diLepton.leg2().genTaup4().pz(),2)
+< 	#   ))
+< 
+<         #if event.diLepton.leg1().genJetp4() and event.diLepton.leg2().genJetp4():
+<         #  fill('genJetVisMass', sqrt(
+< 	#   pow(event.diLepton.leg1().genJetp4().energy()+event.diLepton.leg2().genJetp4().energy(),2)
+< 	#   -pow(event.diLepton.leg1().genJetp4().px()+event.diLepton.leg2().genJetp4().px(),2)
+< 	#   -pow(event.diLepton.leg1().genJetp4().py()+event.diLepton.leg2().genJetp4().py(),2)
+< 	#   -pow(event.diLepton.leg1().genJetp4().pz()+event.diLepton.leg2().genJetp4().pz(),2)
+< 	#   ))
+---
+>           fill( 'l1TrigMatched_diTauJet' , -1)
+>           fill( 'l2TrigMatched_diTauJet' , -1)
+>           fill( 'jetTrigMatched_diTauJet', -1)
+> 
+> 
+> 	if hasattr(event,"triggerWeight_diTauJet") and hasattr(event,"triggerEffMC_diTauJet") and hasattr(event,"triggerEffData_diTauJet"):
+>           fill( 'triggerWeight_diTauJet' ,event.triggerWeight_diTauJet )
+>           fill( 'triggerEffMC_diTauJet'  ,event.triggerEffMC_diTauJet  )
+>           fill( 'triggerEffData_diTauJet',event.triggerEffData_diTauJet)
+>         else :
+>           fill( 'triggerWeight_diTauJet' ,1)
+>           fill( 'triggerEffMC_diTauJet'  ,1)
+>           fill( 'triggerEffData_diTauJet',1)
+> 
+> 
+> 	if hasattr(event,"triggerWeight_diTau") and hasattr(event,"triggerEffMC_diTau") and hasattr(event,"triggerEffData_diTau"):
+>           fill( 'triggerWeight_diTau' ,event.triggerWeight_diTau )
+>           fill( 'triggerEffMC_diTau'  ,event.triggerEffMC_diTau  )
+>           fill( 'triggerEffData_diTau',event.triggerEffData_diTau)
+>         else :
+>           fill( 'triggerWeight_diTau' ,1)
+>           fill( 'triggerEffMC_diTau'  ,1)
+>           fill( 'triggerEffData_diTau',1)
+440,442d513
+<         
+<           
+< 
+463c534,550
+< 
+---
+>         
+>         if hasattr( event, 'isZtt') and hasattr( event, 'isZee') and hasattr( event, 'isZmm') and hasattr( event, 'isZj') and hasattr( event, 'isZttll') and hasattr( event, 'isZttj') : 
+>           fill('isZtt'  , event.isZtt   )
+>           fill('isZee'  , event.isZee   )
+>           fill('isZmm'  , event.isZmm   )
+>           fill('isZj'   , event.isZj    )
+>           fill('isZttll', event.isZttll )
+>           fill('isZttj' , event.isZttj  )
+>         else :
+>           fill('isZtt'  , -1 )
+>           fill('isZee'  , -1 )
+>           fill('isZmm'  , -1 )
+>           fill('isZj'   , -1 )
+>           fill('isZttll', -1 )
+>           fill('isZttj' , -1 )
+>         
+>         
+487a575,598
+>         if hasattr(leg1,'genl') :
+>           fill('l1GenPdgId', leg1.genl.pdgId())
+>           fill('l1GenPt'   , leg1.genl.pt()   )
+>           fill('l1GenEta'  , leg1.genl.eta()  )
+>           fill('l1GenPhi'  , leg1.genl.phi()  )
+>           fill('l1GenMass' , leg1.genl.mass() )
+>         else :
+>           fill('l1GenPt'  , -1. )
+>           fill('l1GenEta' , -99.)
+>           fill('l1GenPhi' , -99.)
+>           fill('l1GenMass', -1. )
+>         
+>         if hasattr(leg2,'genl') :
+>           fill('l2GenPdgId', leg2.genl.pdgId())
+>           fill('l2GenPt'   , leg2.genl.pt()  )
+>           fill('l2GenEta'  , leg2.genl.eta() )
+>           fill('l2GenPhi'  , leg2.genl.phi() )
+>           fill('l2GenMass' , leg2.genl.mass())
+>         else :
+>           fill('l2GenPt'  , -1. )
+>           fill('l2GenEta' , -99.)
+>           fill('l2GenPhi' , -99.)
+>           fill('l2GenMass', -1. )
+> 
+505a617,629
+>         fill('higgsPtWeightNom' ,event.higgsPtWeightNom )
+>         fill('higgsPtWeightUp'  ,event.higgsPtWeightUp  )
+>         fill('higgsPtWeightDown',event.higgsPtWeightDown)
+> 
+>         ####### EMBEDDED WEIGHTS
+>         fill( 'genfilter'               , event.genfilter                )
+>         fill( 'tauspin'                 , event.tauspin                  )
+>         fill( 'zmumusel'                , event.zmumusel                 )
+>         fill( 'muradcorr'               , event.muradcorr                )
+>         fill( 'genTau2PtVsGenTau1Pt'    , event.genTau2PtVsGenTau1Pt     )
+>         fill( 'genTau2EtaVsGenTau1Eta'  , event.genTau2EtaVsGenTau1Eta   )
+>         fill( 'genDiTauMassVsGenDiTauPt', event.genDiTauMassVsGenDiTauPt )
+> 
+Index: python/proto/analyzers/JetWeighter.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/JetWeighter.py,v
+retrieving revision 1.2
+diff -r1.2 JetWeighter.py
+40a41
+> 	#import pdb ; pdb.set_trace()
+48,49c49,50
+<             self.jet1.triggerEffData = self.trigEff.lepEff( self.jet1.pt(),
+<                                                               self.jet1.eta() )
+---
+>             #import pdb ; pdb.set_trace()
+>             self.jet1.triggerEffData = self.trigEff.lepEff( self.jet1.pt(), self.jet1.eta() )
+52,55c53,55
+<             if self.trigEff.lepEffMC is not None and \
+<                    len(self.cfg_comp.triggers)>0:
+<                 self.jet1.triggerEffMC = self.trigEff.lepEffMC( self.jet1.pt(),
+<                                                                   self.jet1.eta() )
+---
+>             #import pdb ; pdb.set_trace()
+>             if self.trigEff.lepEffMC is not None and len(self.cfg_comp.triggers)>0:
+>                 self.jet1.triggerEffMC = self.trigEff.lepEffMC( self.jet1.pt(), self.jet1.eta() )
+60a61,62
+>         #import pdb ; pdb.set_trace()
+> 
+74a77,87
+> 
+> ######## commented for now, need to change the variables names
+> #         event.eventWeight *= self.jet1.weight
+> # 	if not hasattr(event,"triggerWeight") : event.triggerWeight  = 1.0
+> # 	event.triggerWeight  *= self.jet1.triggerWeight
+> # 	if not hasattr(event,"triggerEffMC")  : event.triggerEffMC   = 1.0
+> #         event.triggerEffMC   *= self.jet1.triggerEffMC
+> # 	if not hasattr(event,"triggerEffData"): event.triggerEffData = 1.0
+> #         event.triggerEffData *= self.jet1.triggerEffData
+> 
+> 
+76,77c89,97
+< 	if not hasattr(event,"triggerWeight"): event.triggerWeight=1.0
+< 	event.triggerWeight *= self.jet1.triggerWeight
+---
+> 	if not hasattr(event,"triggerWeight_diTauJet") : event.triggerWeight_diTauJet  = 1.0
+> 	event.triggerWeight_diTauJet  *= self.jet1.triggerWeight
+> 	if not hasattr(event,"triggerEffMC_diTauJet")  : event.triggerEffMC_diTauJet   = 1.0
+>         event.triggerEffMC_diTauJet   *= self.jet1.triggerEffMC
+> 	if not hasattr(event,"triggerEffData_diTauJet"): event.triggerEffData_diTauJet = 1.0
+>         event.triggerEffData_diTauJet *= self.jet1.triggerEffData
+> 
+> 
+> 
+Index: python/proto/analyzers/LeptonWeighter.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/LeptonWeighter.py,v
+retrieving revision 1.20
+diff -r1.20 LeptonWeighter.py
+20,24c20,22
+<         if (self.cfg_comp.isMC or self.cfg_comp.isEmbed) and \
+<                not ( hasattr(self.cfg_ana,'disable') and self.cfg_ana.disable is True ):
+<                 self.trigEff = TriggerEfficiency()
+<                 self.trigEff.lepEff = getattr( self.trigEff,
+<                                                self.cfg_ana.effWeight )
+---
+>         if (self.cfg_comp.isMC or self.cfg_comp.isEmbed) and not ( hasattr(self.cfg_ana,'disable') and self.cfg_ana.disable is True ):
+>                 self.trigEff          = TriggerEfficiency()
+>                 self.trigEff.lepEff   = getattr( self.trigEff, self.cfg_ana.effWeight )
+27,28c25
+<                     self.trigEff.lepEffMC = getattr( self.trigEff,
+<                                                      self.cfg_ana.effWeightMC )
+---
+>                   self.trigEff.lepEffMC = getattr( self.trigEff,self.cfg_ana.effWeightMC )
+34c31
+<         self.averages.add('weight', Average('weight') )
+---
+>         self.averages.add('weight'       , Average('weight') )
+36,40c33,37
+<         self.averages.add('eff_data', Average('eff_data') )
+<         self.averages.add('eff_MC', Average('eff_MC') )
+<         self.averages.add('recEffWeight', Average('recEffWeight') )
+<         self.averages.add('idWeight', Average('idWeight') )
+<         self.averages.add('isoWeight', Average('isoWeight') )
+---
+>         self.averages.add('eff_data'     , Average('eff_data') )
+>         self.averages.add('eff_MC'       , Average('eff_MC') )
+>         self.averages.add('recEffWeight' , Average('recEffWeight') )
+>         self.averages.add('idWeight'     , Average('idWeight') )
+>         self.averages.add('isoWeight'    , Average('isoWeight') )
+46,47c43,44
+<         lep.weight = 1
+<         lep.triggerWeight = 1
+---
+>         lep.weight         = 1
+>         lep.triggerWeight  = 1
+49,54c46,51
+<         lep.triggerEffMC = 1 
+<         lep.recEffWeight = 1
+<         lep.idWeight = 1
+<         lep.isoWeight = 1 
+<         if (self.cfg_comp.isMC or self.cfg_comp.isEmbed) and \
+<            not ( hasattr(self.cfg_ana,'disable') and self.cfg_ana.disable is True ):
+---
+>         lep.triggerEffMC   = 1 
+>         lep.recEffWeight   = 1
+>         lep.idWeight       = 1
+>         lep.isoWeight      = 1 
+> 
+>         if (self.cfg_comp.isMC or self.cfg_comp.isEmbed) and not ( hasattr(self.cfg_ana,'disable') and self.cfg_ana.disable is True ):
+56,63c53,59
+<             lep.triggerEffData = self.trigEff.lepEff( lep.pt(),
+<                                                       lep.eta() )
+<             lep.triggerWeight = lep.triggerEffData
+< 
+<             if self.trigEff.lepEffMC is not None and \
+<                    len(self.cfg_comp.triggers)>0:
+<                 lep.triggerEffMC = self.trigEff.lepEffMC( lep.pt(),
+<                                                           lep.eta() )
+---
+> 
+>             lep.triggerEffData = self.trigEff.lepEff( lep.pt(), lep.eta() )
+>             lep.triggerWeight  = lep.triggerEffData
+> 
+>             if self.trigEff.lepEffMC is not None and len(self.cfg_comp.triggers)>0:
+>                 lep.triggerEffMC = self.trigEff.lepEffMC( lep.pt(), lep.eta() )
+>                 
+79c75,76
+< 
+---
+>             
+>             #### these are == 1. for tautau
+85,86c82,107
+<         lep.recEffWeight = lep.idWeight * lep.isoWeight
+<         lep.weight = lep.triggerWeight * lep.recEffWeight
+---
+>         lep.recEffWeight = lep.idWeight      * lep.isoWeight
+>         lep.weight       = lep.triggerWeight * lep.recEffWeight
+> 
+>         #### fill variables for diTauJet
+>         if self.cfg_ana.effWeightMC == 'eff2012IsoTau19fbMC_Simone' :        
+> 
+> 	  if not hasattr(event,"triggerWeight_diTauJet") : event.triggerWeight_diTauJet = 1.0
+> 	  if not hasattr(event,"triggerEffMC_diTauJet")  : event.triggerEffMC_diTauJet  = 1.0
+> 	  if not hasattr(event,"triggerEffData_diTauJet"): event.triggerEffData_diTauJet= 1.0
+> 
+>           event.eventWeight             *= lep.weight
+>           event.triggerWeight_diTauJet  *= lep.triggerWeight
+>           event.triggerEffMC_diTauJet   *= lep.triggerEffMC
+>           event.triggerEffData_diTauJet *= lep.triggerEffData
+> 
+>         #### fill variables for diTau
+>         if self.cfg_ana.effWeightMC == 'eff2012IsoParkedTau19fbMC_Simone' :        
+> 
+> 	  if not hasattr(event,"triggerWeight_diTau") : event.triggerWeight_diTau = 1.0
+> 	  if not hasattr(event,"triggerEffMC_diTau")  : event.triggerEffMC_diTau  = 1.0
+> 	  if not hasattr(event,"triggerEffData_diTau"): event.triggerEffData_diTau= 1.0
+> 
+>           event.eventWeight          *= lep.weight
+>           event.triggerWeight_diTau  *= lep.triggerWeight
+>           event.triggerEffMC_diTau   *= lep.triggerEffMC
+>           event.triggerEffData_diTau *= lep.triggerEffData
+88,90d108
+<         event.eventWeight *= lep.weight
+< 	if not hasattr(event,"triggerWeight"): event.triggerWeight=1.0
+<         event.triggerWeight *= lep.triggerWeight
+Index: python/proto/analyzers/NJetsAnalyzer.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/NJetsAnalyzer.py,v
+retrieving revision 1.1
+diff -r1.1 NJetsAnalyzer.py
+60a61
+>             #import pdb ; pdb.set_trace()
+Index: python/proto/analyzers/TauTauAnalyzer.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/TauTauAnalyzer.py,v
+retrieving revision 1.22
+diff -r1.22 TauTauAnalyzer.py
+21a22,23
+> 
+>  
+32,41c34,44
+<         #self.handles['diLeptons']      = AutoHandle( 'cmgDiTauCorSVFitFullSel'  , 'std::vector<cmg::DiObject<cmg::Tau,cmg::Tau> >'   ) ## old object
+<         self.handles['diLeptons']      = AutoHandle( 'cmgDiTauCorSVFitFullSel'  , 'std::vector<cmg::DiTauObject<cmg::Tau,cmg::Tau> >')  ## new object by Jan
+<         self.handles['rawMET']         = AutoHandle( 'cmgPFMETRaw'              , 'std::vector<cmg::BaseMET>'                        )
+<         self.handles['jets']           = AutoHandle( 'cmgPFJetSel'              , 'std::vector<cmg::PFJet>'                          )
+<         self.handles['electrons']      = AutoHandle( 'cmgElectronSel'           , 'std::vector<cmg::Electron>'                       )
+<         self.handles['muons']          = AutoHandle( 'cmgMuonSel'               , 'std::vector<cmg::Muon>'                           )
+<         self.handles['triggerResults'] = AutoHandle( ('TriggerResults','','HLT'), 'edm::TriggerResults'                              )
+<         self.handles['metSig']         = AutoHandle( 'pfMetSignificance'        , 'cmg::METSignificance'                             )
+<         #self.handles['mvametsigs']     = AutoHandle( 'mvaMETDiTau'              , 'std::vector<cmg::METSignificance>'                )
+< 
+---
+>         #self.handles['diLeptons']      = AutoHandle( 'cmgDiTauCorSVFitFullSel'            , 'std::vector<cmg::DiObject<cmg::Tau,cmg::Tau> >'   ) ## old object
+>         #self.handles['mvametsigs']     = AutoHandle( 'mvaMETDiTau'                        , 'std::vector<cmg::METSignificance>'                )
+>         self.handles['diLeptons']      = AutoHandle( 'cmgDiTauCorSVFitFullSel'            , 'std::vector<cmg::DiTauObject<cmg::Tau,cmg::Tau> >')  ## new object by Jan
+>         self.handles['rawMET']         = AutoHandle( 'cmgPFMETRaw'                        , 'std::vector<cmg::BaseMET>'                        )
+>         self.handles['jets']           = AutoHandle( 'cmgPFJetSel'                        , 'std::vector<cmg::PFJet>'                          )
+>         self.handles['electrons']      = AutoHandle( 'cmgElectronSel'                     , 'std::vector<cmg::Electron>'                       )
+>         self.handles['muons']          = AutoHandle( 'cmgMuonSel'                         , 'std::vector<cmg::Muon>'                           )
+>         self.handles['triggerResults'] = AutoHandle( ('TriggerResults','','HLT')          , 'edm::TriggerResults'                              )
+>         self.handles['metSig']         = AutoHandle( 'pfMetSignificance'                  , 'cmg::METSignificance'                             )
+>         self.handles['L1JetsCentral']  = AutoHandle( ('l1extraParticles','Central','RECO'), 'vector<l1extra::L1JetParticle>'                   )
+>         self.handles['L1JetsTau']      = AutoHandle( ('l1extraParticles','Tau'    ,'RECO'), 'vector<l1extra::L1JetParticle>'                   )
+43,45c46,47
+< 
+<         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name or "TTJets" in self.cfg_comp.name or "Higgs" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name):
+<             self.mchandles['genParticles'] = AutoHandle( 'genParticlesPruned','std::vector<reco::GenParticle>' )
+---
+>         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name or ("TTJets" in self.cfg_comp.name and 'emb' not in self.cfg_comp.name ) or "Higgs" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name):
+>             self.mchandles['genParticles']     = AutoHandle( 'genParticlesPruned','std::vector<reco::GenParticle>' )
+47,50c49,55
+<             self.mchandles['generator'] = AutoHandle( 'generator','GenEventInfoProduct' )
+<         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name) :
+<             self.mchandles['source'] =  AutoHandle('source','LHEEventProduct')
+< 
+---
+>             self.mchandles['generator']        = AutoHandle( 'generator','GenEventInfoProduct' )
+>         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name and not "_new" in self.cfg_comp.name) :
+>             self.mchandles['source']           =  AutoHandle('source','LHEEventProduct')
+>         #if self.cfg_comp.isEmb or self.cfg_comp.name == "TTJets_emb" :
+>         if 'emb' in self.cfg_comp.name :
+>             self.embhandles['genParticlesEmb'] = AutoHandle( ('genParticles','','EmbeddedRECO'),'std::vector<reco::GenParticle>' )
+>               
+113c118,120
+< 
+---
+>         
+>         if 'TTJets_emb' in self.cfg_comp.name :
+>           self.cfg_comp.isEmbed = True
+117,121c124
+< 
+<         #if event.eventId in notPassed :
+<         #  print 'before anything'
+<         #  import pdb ; pdb.set_trace()
+<           
+---
+>         
+132,133d134
+<  
+< 	result = self.selectionSequence(event, fillCounter=True)
+138a140
+> 	#event.hltPath = []
+144a147
+>                 #event.hltPath.append(trig) 
+145a149,150
+>  
+> 	result = self.selectionSequence(event, fillCounter=True)
+147d151
+< 	  	  
+190a195
+>         #import pdb ; pdb.set_trace()
+192c197,201
+<         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name) :
+---
+>         if self.cfg_comp.isEmbed or "TTJets_emb" in self.cfg_comp.name :
+>             genParticles = self.embhandles['genParticlesEmb'].product()
+>             self.splitDYJets( event, genParticles, event.diLepton, require_status=False)
+> 
+>         if self.cfg_comp.isMC and ("DY" in self.cfg_comp.name or "W" in self.cfg_comp.name and not "WW" in self.cfg_comp.name and not "WZ" in self.cfg_comp.name and not "_new" in self.cfg_comp.name) :
+200a210,211
+>             
+>             # useless now
+202,205c213,216
+< 	    event.leg1DeltaR=leg1DeltaR
+<             event.leg2DeltaR=leg2DeltaR
+<             if leg1DeltaR>-1 and leg1DeltaR < 0.1 and \
+<                leg2DeltaR>-1 and leg2DeltaR < 0.1:
+---
+> 	    event.leg1DeltaR = leg1DeltaR
+>             event.leg2DeltaR = leg2DeltaR
+>             if leg1DeltaR>-1 and leg1DeltaR < 0.3 and \
+>                leg2DeltaR>-1 and leg2DeltaR < 0.3 :
+208a220,222
+>           
+>             self.splitDYJets( event, genParticles, event.diLepton)
+>                         
+218,223c232,234
+<                 if abs(gen.pdgId()) in [23, 25, 35, 36, 37]:
+<                     event.genMass=gen.mass()
+<                 if abs(gen.pdgId()) in [23]:
+<                     event.hasW=True
+<                 if abs(gen.pdgId()) in [24]:
+<                     event.hasZ=True
+---
+>         
+>         #import pdb ; pdb.set_trace()
+> 
+267c278,279
+<         if self.cfg_comp.isMC and "TTJets" in self.cfg_comp.name:
+---
+>         #import pdb ; pdb.set_trace()
+>         if self.cfg_comp.isMC and "TTJets_emb" not in self.cfg_comp.name:
+316a329
+>         #import pdb ; pdb.set_trace()
+336c349
+<         if len(event.muons)>0+len(event.electrons) > 0: ## FOR SYNCHING!!!
+---
+>         if len(event.muons)+len(event.electrons)> 0: 
+339c352
+<         if "DY" in self.cfg_comp.name or "Higgs" in self.cfg_comp.name or self.cfg_comp.isEmbed:
+---
+>         if ("DY" in self.cfg_comp.name and event.isZtt) or "Higgs" in self.cfg_comp.name or (self.cfg_comp.isEmbed and event.isZtt):
+346c359,372
+<         
+---
+>         #import pdb ; pdb.set_trace()
+> 
+> 
+>         if ("DY" in self.cfg_comp.name and event.isZtt) or "Higgs" in self.cfg_comp.name or (self.cfg_comp.isEmbed and event.isZtt):
+>           if event.leg1.decayMode() == 0 :
+>             event.leg1.prongWeight = 0.88
+>           else :
+>             event.leg1.prongWeight = 1.
+>           if event.leg2.decayMode() == 0 :
+>             event.leg2.prongWeight = 0.88
+>           else :
+>             event.leg2.prongWeight = 1.
+>         #import pdb ; pdb.set_trace()
+> 
+350a377,405
+>    
+>         event.ntot = 1.
+> #         ngenevts = { 'W1Jets'         : 23141598.* 1.0           ,
+> #                      'W2Jets'         : 34044921.* 1.0           ,
+> #                      'W3Jets'         : 15539503.* 0.997191011236,
+> #                      'W4Jets'         : 13382803.* 0.996168582375,
+> #                      #'WJets'         : 18393090 * 1.0           ,
+> #                      'WJets'          : 57709905.* 1.0           ,
+> #                      'HiggsGGH125'    : 968134.  * 1.0           ,
+> #                      'HiggsVBF125'    : 998836.  * 1.0           ,
+> #                      'TTJetsFullLept' : 12011428 * 1.0           ,
+> #                      'TTJetsHadronic' : 31223821 * 1.0           ,
+> #                      'TTJetsSemiLept' : 24953451 * 1.0           ,
+> #                      'DYJets'         : 30459503 * 1.0           ,
+> #                      'HiggsSUSYBB'    : 999976   * 1.0           ,
+> #                      'HiggsSUSYGluGlu': 981688   * 1.0           ,
+> #                      'HiggsSUSYBB'    : 996960   * 1.0           ,
+> #                      'HiggsSUSYGluGlu': 985800   * 1.0           ,
+> #                    }
+>         
+>         ngenevts = { 
+>                      'HiggsSUSYGluGlu110': 1000348 * 0.990003 ,
+>                    }
+>         
+>         #import pdb ; pdb.set_trace()
+>         for name in ngenevts.keys() :
+>           if name in self.cfg_comp.name :   
+>             event.ntot = ngenevts[name]
+> 
+368d422
+<         ## for embedded no hltPaths (for now)
+371a426,427
+>         #import pdb ; pdb.set_trace() 
+>         
+420d475
+<               
+467c522,539
+<         
+---
+>         # match with L1 particles, whether Central Jets or Taus
+>         L1Taus = self.handles['L1JetsTau'].product()
+>         L1Jets = self.handles['L1JetsCentral'].product()
+>         L1dR1T, L1dR2T, index1T, index2T = self.match(event.diLepton, L1Taus)
+>         L1dR1J, L1dR2J, index1J, index2J = self.match(event.diLepton, L1Jets)
+>         if L1dR1T < L1dR1J and L1dR1T<=0.5 :
+>           if L1Taus[index1T].pt()>44. and abs(L1Taus[index1T].eta())<2.1 :
+>             event.leg1.L1particle = L1Taus[index1T]
+>         if L1dR1J < L1dR1T and L1dR1J<=0.5 :
+>           if L1Jets[index1J].pt()>64. :
+>             event.leg1.L1particle = L1Jets[index1J]
+>         if L1dR2T < L1dR2J and L1dR2T<=0.5 :
+>           if L1Taus[index2T].pt()>44. and abs(L1Taus[index2T].eta())<2.1 :
+>             event.leg2.L1particle = L1Taus[index2T]
+>         if L1dR2J < L1dR2T and L1dR2J<=0.5 :
+>           if L1Jets[index2J].pt()>64. :
+>             event.leg2.L1particle = L1Jets[index2J]
+> 
+469a542
+>           #if len(event.hltPath)==0 : return False
+472,480d544
+<         if "DY" in self.cfg_comp.name or "Higgs" in self.cfg_comp.name or self.cfg_comp.isEmbed:
+<           if event.leg1.decayMode() == 0 :
+<             event.leg1.prongWeight = 0.88
+<           else :
+<             event.leg1.prongWeight = 1.
+<           if event.leg2.decayMode() == 0 :
+<             event.leg2.prongWeight = 0.88
+<           else :
+<             event.leg2.prongWeight = 1.
+499,500c563,564
+< 	        leg.tauID("againstElectronLoose")  > -0.5     and \
+< 	        leg.tauID("againstMuonLoose")      > -0.5)
+---
+> 	        leg.tauID("againstElectronLoose")  > 0.5     and \
+> 	        leg.tauID("againstMuonLoose")      > 0.5)
+517,518c581,582
+< 	        leg.tauID("againstElectronLoose")  > -0.5     and \
+< 	        leg.tauID("againstMuonLoose")      > -0.5)
+---
+> 	        leg.tauID("againstElectronLoose")  > 0.5     and \
+> 	        leg.tauID("againstMuonLoose")      > 0.5)
+521d584
+<     
+642a706,818
+> 
+>     def match(self, myPair, genParticles):
+>       
+>       dR2leg1Min = 999.
+>       dR2leg2Min = 999.
+>       dR2leg1 = 999.
+>       dR2leg2 = 999.
+>       index1  = -99
+>       index2  = -99
+>       
+>       for index, genPart in enumerate(genParticles) :
+>         dR2leg1 = deltaR2(myPair.leg1().eta(), myPair.leg1().phi(), genPart.eta(), genPart.phi() )
+>         dR2leg2 = deltaR2(myPair.leg2().eta(), myPair.leg2().phi(), genPart.eta(), genPart.phi() )
+>         if dR2leg1 <  dR2leg1Min: 
+>           dR2leg1Min = dR2leg1
+>           index1     = index
+>         if dR2leg2 <  dR2leg2Min: 
+>           dR2leg2Min = dR2leg2
+>           index2     = index
+> 
+>       self.leg1DeltaR = math.sqrt( dR2leg1Min )
+>       self.leg2DeltaR = math.sqrt( dR2leg2Min )
+>       self.index1     = index1
+>       self.index2     = index2
+>       return (self.leg1DeltaR, self.leg2DeltaR, self.index1, self.index2)        
+> 
+>     def splitDYJets( self, event, genParticles, myPair, require_status = True, bosons = [23,25,35,36]) : 
+>       
+>       ## require_status: yes, status==3 for MCs, but status may vary for emb, therefore it is switched off
+>       ## PDG Id: e 11, mu 13, tau 15, Z 23, h 25, H 35, A 36, H+ 37  
+>       ## DYJets sample gets split by gen matching and
+>       ## Higgs samples are given a flag (isZtt) to require reco taus matched to gen taus
+>       	    
+>       ## flag to split DYJets into ZTT, ZL, ZJ
+>       event.isZtt   = False  ## two taus gen matched
+>       event.isZttj  = False  ## two taus that fail the matching
+>       event.isZee   = False  ## two electrons, both fake taus
+>       event.isZmm   = False  ## two muons, both fake taus
+>       event.isZttll = False  ## ZTT->LL, both lepton fake taus
+>       event.isZj    = False  ## whatever else
+>       
+>       ## lists with the index of Z boson's daughters
+>       genTausFromZ       = []
+>       genMuonsFromZ      = []
+>       genElectronsFromZ  = []
+>       genLeptonsFromTaus = []
+>                         
+>       for index, gen in enumerate(genParticles):
+>         
+>         status   = gen.status()
+>         id       = gen.pdgId()
+>         motherId = 0
+>         if gen.numberOfMothers()>0 :
+>           motherId = gen.mother().pdgId()
+>         
+>         if ((not require_status) or status==3) and abs(id)==15 and abs(motherId) in bosons : genTausFromZ.append(index)
+>         if ((not require_status) or status==3) and abs(id)==13 and abs(motherId) in bosons : genMuonsFromZ.append(index)
+>         if ((not require_status) or status==3) and abs(id)==11 and abs(motherId) in bosons : genElectronsFromZ.append(index)
+>         if ((not require_status) or status==3) and abs(id)==11 and abs(motherId)==15 : genLeptonsFromTaus.append(index)
+>         if ((not require_status) or status==3) and abs(id)==13 and abs(motherId)==15 : genLeptonsFromTaus.append(index)
+>     
+>         if abs(gen.pdgId()) in [23] : event.hasW = True
+>         if abs(gen.pdgId()) in [24] : event.hasZ = True
+>     
+>         if abs(gen.pdgId()) in [23, 25, 35, 36, 37] : event.genMass = gen.mass()
+>       
+>       
+>       if   len(genTausFromZ)      == 2 : 
+>         ##### we don't match the embedded and therefore we don't match the DY->TT
+>         #event.isZtt = True
+>         ##### now we do 26/8/2013
+>         leg1TauDR, leg2TauDR, dummy, dummy = self.match( myPair, [ genParticles[genTausFromZ[0]],genParticles[genTausFromZ[1]] ] )
+> 
+>         if leg1TauDR < 0.3 : myPair.leg1().genl = genParticles[genTausFromZ[0]] 
+>         if leg2TauDR < 0.3 : myPair.leg2().genl = genParticles[genTausFromZ[1]] 
+> 
+>         if leg1TauDR < 0.3 and leg2TauDR < 0.3 :
+>           event.isZtt = True   
+>         else :
+>           event.isZttj = True   
+>       
+>       elif len(genMuonsFromZ)     == 2 : 
+>         leg1MuDR, leg2MuDR, dummy, dummy   = self.match( myPair, [ genParticles[genMuonsFromZ[0]],genParticles[genMuonsFromZ[1]] ] )
+> 
+>         if leg1MuDR < 0.3 : myPair.leg1().genl = genParticles[genMuonsFromZ[0]] 
+>         if leg2MuDR < 0.3 : myPair.leg2().genl = genParticles[genMuonsFromZ[1]] 
+> 
+>         if leg1MuDR < 0.3  and leg2MuDR < 0.3 :
+>           event.isZmm = True    
+>       
+>       elif len(genElectronsFromZ) == 2 : 
+>         leg1ElDR, leg2ElDR, dummy, dummy   = self.match( myPair, [ genParticles[genElectronsFromZ[0]],genParticles[genElectronsFromZ[1]] ] )              
+> 
+>         if leg1ElDR < 0.3 : myPair.leg1().genl = genParticles[genElectronsFromZ[0]] 
+>         if leg2ElDR < 0.3 : myPair.leg2().genl = genParticles[genElectronsFromZ[1]] 
+> 
+>         if leg1ElDR < 0.3  and leg2ElDR < 0.3 :
+>           event.isZee = True  
+> 
+>       elif len(genLeptonsFromTaus) == 2 : 
+>         leg1LepDR, leg2LepDR, dummy, dummy   = self.match( myPair, [ genParticles[genLeptonsFromTaus[0]],genParticles[genLeptonsFromTaus[1]] ] )              
+> 
+>         if leg1LepDR < 0.3 : myPair.leg1().genl = genParticles[genLeptonsFromTaus[0]] 
+>         if leg2LepDR < 0.3 : myPair.leg2().genl = genParticles[genLeptonsFromTaus[1]] 
+> 
+>         if leg1LepDR < 0.3  and leg2LepDR < 0.3 :
+>           event.isZttll = True
+>       
+>       ## needs to be rerun with all samples
+>       #if not(event.isZtt or event.isZee or event.isZmm or event.isZttll or event.isZttj) :
+>       if not(event.isZtt or event.isZee or event.isZmm) :
+>         event.isZj  = True
+>         
+Index: python/proto/analyzers/VBFAnalyzer.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/VBFAnalyzer.py,v
+retrieving revision 1.26
+diff -r1.26 VBFAnalyzer.py
+39d38
+<         # import pdb; pdb.set_trace()
+73a73
+>         event.looseJets = []
+94a95,96
+>             if self.testJetLoose( jet ):
+>                 event.looseJets.append(jet)
+116d117
+<         
+117a119,123
+>         event.cleanJetsLoose, dummy = cleanObjectCollection( event.looseJets,
+>                                                         masks = [leg1,
+>                                                                  leg2 ],
+>                                                         deltaRMin = 0.5 )
+>         
+208d213
+< 
+222a228,233
+>     def testJetLoose( self, jet ):
+>         # 2 is loose pile-up jet id
+>         return jet.pt() > self.cfg_ana.looseJetPt and \
+>                abs( jet.eta() ) < self.cfg_ana.jetEta and \
+>                self.testJetID(jet)
+>                # jet.passPuJetId('full', 2)
+cvs diff: Diffing python/proto/framework
+cvs diff: Diffing python/proto/physicsobjects
+cvs diff: Diffing python/proto/plotter
+Index: python/proto/plotter/DYEstimate_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/DYEstimate_diTau.py,v
+retrieving revision 1.3
+diff -r1.3 DYEstimate_diTau.py
+8,10c8,10
+< antiLeptons  = ' && l2againstElectronLooseMVA3>0.5 '
+< antiLeptons += ' && l1LooseEle>0.5 && l2LooseEle>0.5'
+< antiLeptons += ' && l1againstMuonLoose2>0.5 && l2againstMuonLoose2>0.5'
+---
+> antiLeptons  = ' & l2againstElectronNewLooseMVA3>0.5 '
+> antiLeptons += ' & l1LooseEle>0.5  & l2LooseEle>0.5  '
+> antiLeptons += ' & l1LooseMu >0.5  & l2LooseMu >0.5  '
+11a12,18
+> def embeddedScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, prong, trigMatch=True, susy=False):
+>     
+>     cut    = ' l1Pt>45 & l2Pt>45 & abs(l1Eta)<2.1 & abs(l2Eta)<2.1 & diTauCharge==0'
+>     cut   += ' & l1RawDB3HIso<1.0 & l2RawDB3HIso<1.0'
+>     cut   += antiLeptons
+>     cut   += ' & muon1Pt == -1 & electron1Pt == -1 '
+>     #cut   += ' & nbJets == 0 '
+12a20,29
+>     cutDY  = cut 
+>     cutEmb = cut
+>     
+>     cutDY  += '& isZtt'
+>     cutEmb += '& isZtt'
+>     if trigMatch and susy:
+>       cutDY += ' & (l1TrigMatched_diTau > 0.5 & l2TrigMatched_diTau > 0.5)'
+>     if trigMatch and not susy:
+>       cutDY += ' & ((l1TrigMatched_diTau > 0.5  & l2TrigMatched_diTau   >0.5) || \
+>                     (l1TrigMatched_diTauJet>0.5 & l2TrigMatched_diTauJet>0.5  &  jetTrigMatched_diTauJet>0.5 & jet1Pt>50 & abs(jet1Eta)<3.0) )'
+14,44d30
+< def embeddedScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, prong, trigMatch=True):
+<     if trigMatch :
+<       ### mva
+<       #cutDY = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l2MVAEle>0.5 && l1MedMVAIso>0.5 && l2MedMVAIso>0.5 && (l1TrigMatched==1 && l2TrigMatched==1 && jetTrigMatched!=0)'
+< #       cutDY = 'l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l1MedMVAIso>0.5 && l2MedMVAIso>0.5 && (l1TrigMatched==1 && l2TrigMatched==1)'
+<       ### mva2
+<       #cutDY = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l2MVAEle>0.5 && l1RawMVA2Iso>0.9 && l2RawMVA2Iso>0.9 && (l1TrigMatched==1 && l2TrigMatched==1 && jetTrigMatched!=0)'
+<       ### db3h
+<       #cutDY = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l2MVAEle>0.5 && l1RawDB3HIso<1.0 && l2RawDB3HIso<1.0 && (l1TrigMatched==1 && l2TrigMatched==1 && jetTrigMatched!=0)'
+<       cutDY = ' l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l1RawDB3HIso<1.0 && l2RawDB3HIso<1.0 && (l1TrigMatched==1 && l2TrigMatched==1)'+ antiLeptons
+<     else:
+<       cutDY = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && isFake==0 && isElectron==0 && l2MVAEle>0.5 && l1MedMVAIso>0.5 && l2MedMVAIso>0.5 '
+<     if prong :
+<       cutDY += ' && l1DecayMode<3  && l2DecayMode<3'
+<       cutDY.replace('abs(jet1Eta)<3.0 && jet1Pt>50.','')
+<     inclusiveForEmbeddedNormalizationDY    = H2TauTauDataMC('svfitMass', anaDir, selCompsNoSignal, weightsNoSignal,
+<      			    #50,0,500,
+<      			    30,0,300,
+<      			    cut    = cutDY, 
+<      			    #weight = 'weight/triggerWeight',
+<      			    weight = 'weight',
+<      			    embed  = False)
+<     
+<     ### mva
+<     #cutEmb = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l2MVAEle>0.5 && l1MedMVAIso>0.5 && l2MedMVAIso>0.5 '
+< #     cutEmb = 'l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l1MedMVAIso>0.5 && l2MedMVAIso>0.5 '
+<     ### mva2
+<     #cutEmb = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l2MVAEle>0.5 && l1RawMVA2Iso>0.9  && l2RawMVA2Iso>0.9 '
+<     ### db3h
+<     #cutEmb = 'abs(jet1Eta)<3.0 && jet1Pt>50. && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l2MVAEle>0.5 && l1RawDB3HIso<1.0  && l2RawDB3HIso<1.0 '
+<     cutEmb = ' l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l1RawDB3HIso<1.0  && l2RawDB3HIso<1.0 '
+46,53c32,69
+<       cutEmb += ' && l1DecayMode<3  && l2DecayMode<3'
+<       cutEmb.replace('abs(jet1Eta)<3.0 && jet1Pt>50.','')
+<     inclusiveForEmbeddedNormalizationEmbed = H2TauTauDataMC('svfitMass', anaDir, selCompsNoSignal, weightsNoSignal,
+<      			    #50,0,500,
+<      			    30,0,300,
+<      			    cut    = cutEmb, 
+<      			    weight = 'weight',
+<      			    embed  = False)
+---
+>       cutDY  += ' & l1DecayMode<3  & l2DecayMode<3'
+>       cutEmb += ' & l1DecayMode<3  & l2DecayMode<3'
+>       cutDY.replace( 'abs(jet1Eta)<3.0 & jet1Pt>50.','')
+>       cutEmb.replace('abs(jet1Eta)<3.0 & jet1Pt>50.','')
+> 
+>     ## if diTau is matched, apply diTau data/MC correction factor 
+>     weight  = '   ( ((l1TrigMatched_diTau>0.5) && (l2TrigMatched_diTau>0.5))*triggerWeight_diTau +\
+>                     ((l1TrigMatched_diTau<0.5) || (l2TrigMatched_diTau<0.5))                     ) '
+>     ## if diTauJet is matched, apply diTau data/MC correction factor 
+>     weight += ' * ( ((l1TrigMatched_diTauJet>0.5) && (l2TrigMatched_diTauJet>0.5) && (jetTrigMatched_diTauJet)>0.5)*triggerWeight_diTauJet +\
+>                     ((l1TrigMatched_diTauJet<0.5) || (l2TrigMatched_diTauJet<0.5) || (jetTrigMatched_diTauJet)<0.5)                        ) '
+>     ## apply the diTau data turn on on embed sample
+>     weight += ' * ( (embedWeight == 1) + (embedWeight != 1)*triggerEffData_diTau )'
+>     ## stitching weight
+>     weight += ' * ( weight * (1/(triggerWeight_diTau*triggerWeight_diTauJet)) )'
+>     ## scale down real taus with decay mode 1 prong no pi zero by 0.88
+>     weight += ' * ( ((isRealTau==1) * ((l1DecayMode==0)*0.88 + (l1DecayMode!=0))) + (isRealTau==0) ) ' 
+>     weight += ' * ( ((isRealTau==1) * ((l2DecayMode==0)*0.88 + (l2DecayMode!=0))) + (isRealTau==0) ) ' 
+> 
+>     inclusiveForEmbeddedNormalizationDY    = H2TauTauDataMC('svfitMass', 
+>                                                             anaDir, 
+>                                                             selCompsNoSignal, 
+>                                                             weightsNoSignal ,
+>      			                                    35,0,350,
+>      			                                    cut    = cutDY  , 
+>      			                                    weight = weight ,
+>      			                                    embed  = False  ,
+>      			                                    susy   = susy )
+>     
+>     inclusiveForEmbeddedNormalizationEmbed = H2TauTauDataMC('svfitMass', 
+>                                                             anaDir, 
+>                                                             selCompsNoSignal, 
+>                                                             weightsNoSignal ,
+>      			                                    35,0,350        ,
+>      			                                    cut    = cutEmb , 
+>      			                                    weight = weight ,
+>      			                                    embed  = False  ,
+>      			                                    susy   = susy )
+64,66c80,84
+<     print "lumi                        ", inclusiveForEmbeddedNormalizationDY.intLumi
+<     print "DY events in inclusive      ", inclusiveForEmbeddedNormalizationDY.Hist("DYJets").Integral()
+<     print "Embedded events in inclusive", embeddedHist.Integral()
+---
+>     print "lumi                         ", inclusiveForEmbeddedNormalizationDY.intLumi
+>     print "DY events in inclusive       ", inclusiveForEmbeddedNormalizationDY.Hist("DYJets").weighted.Integral(0,35)
+>     print "DY entries in inclusive      ", inclusiveForEmbeddedNormalizationDY.Hist("DYJets").weighted.GetEntries()
+>     print "Embedded events in inclusive ", embeddedHist.weighted.Integral(0,35)
+>     print "Embedded entries in inclusive", embeddedHist.weighted.GetEntries()
+68c86
+<     embeddedScaleFactor = inclusiveForEmbeddedNormalizationDY.Hist("DYJets").Integral()/embeddedHist.Integral()
+---
+>     embeddedScaleFactor = inclusiveForEmbeddedNormalizationDY.Hist("DYJets").weighted.Integral(0,35)/embeddedHist.weighted.Integral(0,35)
+91c109
+< def zeeScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, embed):
+---
+> def zeeScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, embed, susy=False):
+94c112
+<     inclusiveForEmbeddedNormalizationZeeBB = H2TauTauDataMC('l1Pt', anaDir, selCompsNoSignal, weightsNoSignal,
+---
+>     inclusiveForEmbeddedNormalizationZeeBB = H2TauTauDataMC('visMass', anaDir, selCompsNoSignal, weightsNoSignal,
+96,100c114,120
+<      			    40,40,80,
+<      			    cut = 'abs(l1Eta)<1.5 && abs(l2Eta)<1.5 && l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 && l1RawDB3HIso<1.0 && l2RawDB3HIso<1.0 && l1againstElectronLooseMVA3<0.5 && l2againstElectronLooseMVA3<0.5', weight=weight,
+<      			    embed=embed)
+<     print "Data events in boosted ee", inclusiveForEmbeddedNormalizationZeeBB.Hist("Data").weighted.Integral()
+<     print "DYJets events in boosted ee", (inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").weighted.Integral()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_Electron").weighted.Integral())
+---
+>      			    50,70,120,
+>      			    cut    = 'isZee & abs(l1Eta)<1.5 & abs(l2Eta)<1.5 & l1Pt>45 & l2Pt>45 & abs(l1Eta)<2.1 & abs(l2Eta)<2.1 & diTauCharge==0 & l1RawDB3HIso<1.0 & l2RawDB3HIso<1.0 & l1againstElectronNewLooseMVA3<0.5 & l2againstElectronNewLooseMVA3<0.5', 
+>      			    weight = weight,
+>      			    embed  = embed,
+>      			    susy   = susy)
+>     print "Data events in boosted ee"  , inclusiveForEmbeddedNormalizationZeeBB.Hist("Data").weighted.Integral()
+>     print "DYJets events in boosted ee", (inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").weighted.Integral()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_ZL").weighted.Integral())
+103c123,126
+<         (inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").weighted.Integral()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_Electron").weighted.Integral())
+---
+>         (inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").weighted.Integral()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_ZL").weighted.Integral())
+>     
+>     #zeeScaleFactor = 1.
+>     
+106c129
+<     ymax = max(inclusiveForEmbeddedNormalizationZeeBB.Hist("Data").GetMaximum(),(inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").GetMaximum()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_Electron").GetMaximum()))*1.5
+---
+>     ymax = max(inclusiveForEmbeddedNormalizationZeeBB.Hist("Data").GetMaximum(),(inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets").GetMaximum()+inclusiveForEmbeddedNormalizationZeeBB.Hist("DYJets_ZL").GetMaximum()))*1.5
+Index: python/proto/plotter/H2TauTauDataMC_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/H2TauTauDataMC_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 H2TauTauDataMC_diTau.py
+48c48
+< 
+---
+>         
+89c89,93
+<             my_cut = self.cut
+---
+>             my_cut       = self.cut
+>             my_evtweight = self.eventWeight
+>             # not needed
+>             #if 'Higgs' in compName :
+>             #  self.cut += ' & isZtt'
+94a99,101
+> 
+>             if comp.isEmbed and not comp.isMC :
+>               self.cut += ' & isZtt'
+99a107,108
+>               ## once I'll have the new samples
+>               #self._BuildHistogram(tree, comp, 'DYJets_ZJ', self.varName, self.cut + ' & (isZj || isZttll || isZttj)', layer)
+103,105c112,116
+<               self._BuildHistogram(tree, comp, compName           , self.varName, self.cut + ' * higgsPtWeightNom  ', layer)
+<               self._BuildHistogram(tree, comp, compName+'_pthUp'  , self.varName, self.cut + ' * higgsPtWeightUp   ', layer)
+<               self._BuildHistogram(tree, comp, compName+'_pthDown', self.varName, self.cut + ' * higgsPtWeightDown ', layer)
+---
+>               self.eventWeight = my_evtweight + ' * higgsPtWeightNom  '
+>               self._BuildHistogram(tree, comp, compName           , self.varName, self.cut, layer)
+> 
+>               self.eventWeight = my_evtweight + ' * higgsPtWeightUp   '
+>               self._BuildHistogram(tree, comp, compName+'_pthUp'  , self.varName, self.cut, layer)
+106a118,120
+> 
+>               self.eventWeight = my_evtweight + ' * higgsPtWeightDown '            
+>               self._BuildHistogram(tree, comp, compName+'_pthDown', self.varName, self.cut, layer)              
+107a122,126
+>             
+>             elif compName == 'TTJets_emb':
+>               self.eventWeight = my_evtweight + ' * (-1.) '            
+>               self._BuildHistogram(tree, comp, compName, self.varName, self.cut, layer)              
+>             
+111c130,131
+<             self.cut = my_cut
+---
+>             self.cut         = my_cut
+>             self.eventWeight = my_evtweight
+Index: python/proto/plotter/PrepareDictionaries_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/PrepareDictionaries_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 PrepareDictionaries_diTau.py
+17,18c17,36
+<   if susy : bkg    = ['DYJets','WJets','WW','WZ','ZZ','TTJets','T_tW','Tbar_tW','HiggsGGH125','HiggsVBF125','HiggsVH125']
+<   else    : bkg    = ['DYJets','WJets','WW','WZ','ZZ','TTJets','T_tW','Tbar_tW']
+---
+>   bkg = ['DYJets'         ,
+>          'WJets'          ,
+>          'Tbar_tW'        ,
+>          'T_tW'           ,
+>          'TTJetsFullLept' ,
+>          'TTJetsSemiLept' ,
+>          'TTJetsHadronic' ,
+>          'WWJetsTo2L2Nu'  ,
+>          'WZJetsTo2L2Q'   ,
+>          'WZJetsTo3LNu'   ,
+>          'ZZJetsTo4L'     ,
+>          'ZZJetsTo2L2Nu'  ,
+>          'ZZJetsTo2L2Q'   ,
+>          #'HiggsGGHtoWW125',
+>          #'HiggsVBFtoWW125',
+>          #'HiggsVHtoWW125' ,
+>         ]   #,'TTJets','WW','WZ','ZZ'
+>   
+>   if susy : bkg.extend(['HiggsGGH125','HiggsVBF125','HiggsVH125','TTJets_emb']) 
+>   else    : pass                                      
+21,22c39,40
+<   data2012  = ['data_Run2012A_22Jan2013_v1', 'data_Run2012B_22Jan2013_v1','data_Run2012C_22Jan2013_v1','data_Run2012D_22Jan2013_v1']
+<   embed2012 = ['embed_Run2012A_13Jul2012_v1','embed_Run2012A_recover_06Aug2012_v1','embed_Run2012B_13Jul2012_v4','embed_Run2012C_24Aug2012_v1','embed_Run2012C_PromptReco_v2','embed_2012D_PromptReco_v1'  ]
+---
+>   data2012  = ['data_Run2012A_22Jan2013_v1' , 'data_Run2012B_22Jan2013_v1' , 'data_Run2012C_22Jan2013_v1' , 'data_Run2012D_22Jan2013_v1' ]
+>   embed2012 = ['embed_Run2012A_22Jan2013_v1', 'embed_Run2012B_22Jan2013_v1', 'embed_Run2012C_22Jan2013_v1', 'embed_Run2012D_22Jan2013_v1']
+25,26c43,44
+<   else       : masses = [110,115,120,125,130,135,140,145]
+<   if susy    : masses = [80,90,100,110,120,130,140,160,180,200,250,300,350,400,450,500,600,700,800,1000]
+---
+>   else       : masses = [90,95,100,105,110,115,120,125,130,135,140,145,150,155,160]
+>   if susy    : masses = [80,90,100,110,120,130,140,160,180,200,250,300,350,400,450,500,600,700,800,900,1000]
+55c73
+<     
+---
+> 
+62c80
+<     
+---
+>   
+113d130
+<    
+Index: python/proto/plotter/QCDEstimation_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/QCDEstimation_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 QCDEstimation_diTau.py
+8,9c8,9
+<       QCDtightSS.Add(plotVarDataSS.Hist("DYJets"),-1)
+<       QCDtightSS.Add(plotVarDataSS.Hist("DYJets_Fakes"),-1)
+---
+>       QCDtightSS.Add(plotVarDataSS.Hist("DYJets")   ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("DYJets_ZJ"),-1)
+11,12c11,12
+<       QCDtightSS.Add(plotVarDataSS.Hist("DYJets_Electron"),-1)
+<       QCDtightSS.Add(plotVarDataSS.Hist("WJets"),-1)
+---
+>       QCDtightSS.Add(plotVarDataSS.Hist("DYJets_ZL"),-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("WJets")    ,-1)
+14,17c14,32
+<       QCDtightSS.Add(plotVarDataSS.Hist("WW"),-1)
+<       QCDtightSS.Add(plotVarDataSS.Hist("WZ"),-1)
+<       QCDtightSS.Add(plotVarDataSS.Hist("ZZ"),-1)
+<       QCDtightSS.Add(plotVarDataSS.Hist("TTJets"),-1)
+---
+>       #QCDtightSS.Add(plotVarDataSS.Hist("WW"),-1)
+>       #QCDtightSS.Add(plotVarDataSS.Hist("WZ"),-1)
+>       #QCDtightSS.Add(plotVarDataSS.Hist("ZZ"),-1)
+>       #QCDtightSS.Add(plotVarDataSS.Hist("TTJets"),-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("TTJetsFullLept"),-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("TTJetsSemiLept"),-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("TTJetsHadronic"),-1)
+>       try :
+>         QCDtightSS.Add(plotVarDataSS.Hist("TTJets_emb")    ,-1)
+>       except :
+>         pass
+>       QCDtightSS.Add(plotVarDataSS.Hist('WWJetsTo2L2Nu') ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist('WZJetsTo2L2Q')  ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist('WZJetsTo3LNu')  ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist('ZZJetsTo4L')    ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist('ZZJetsTo2L2Nu') ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist('ZZJetsTo2L2Q')  ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("Tbar_tW")       ,-1)
+>       QCDtightSS.Add(plotVarDataSS.Hist("T_tW")          ,-1)
+Index: python/proto/plotter/SaveHistograms_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/SaveHistograms_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 SaveHistograms_diTau.py
+11,12c11,29
+<     TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('ZZ'))
+<     TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('WZ'))
+---
+>     #TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('ZZ'))
+>     #TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('WZ'))
+> 
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('WZJetsTo2L2Q'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('WZJetsTo3LNu'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo4L'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo2L2Nu'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo2L2Q'))
+> 
+>     ## we add single top to dibosons
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('T_tW'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('Tbar_tW'))
+>     #TightIsoOS.Hist('T_tW').Add(TightIsoOS.Hist('Tbar_tW'))
+> 
+>     TightIsoOS.Hist('TTJetsFullLept').Add(TightIsoOS.Hist('TTJetsSemiLept'))
+>     TightIsoOS.Hist('TTJetsFullLept').Add(TightIsoOS.Hist('TTJetsHadronic'))
+>     
+>     if susy :
+>       TightIsoOS.Hist('DYJets').Add(TightIsoOS.Hist('TTJets_emb'))
+15,22c32,45
+<         'DYJets'            :'ZTT',
+<         'DYJets_Electron'   :'ZL',
+<         'DYJets_Fakes'      :'ZJ',
+<         'WJets'             :'W',
+<         'TTJets'            :'TT',
+<         'WW'                :'VV',
+<         'QCDdata'           :'QCD',
+<         'Data'              :'data_obs'        
+---
+>         'DYJets'          :'ZTT',
+>         'DYJets_ZL'       :'ZL',
+>         'DYJets_ZJ'       :'ZJ',
+>         'WJets'           :'W',
+>         #'TTJets'        :'TT',
+>         'TTJetsFullLept'  :'TT',
+>         #'T_tW'          :'T',
+>         #'WW'            :'VV',
+>         'WWJetsTo2L2Nu'   :'VV',
+>         'QCDdata'         :'QCD',
+>         'Data'            :'data_obs'        
+>         #'HiggsGGHtoWW125' :'ggH_hww_SM125',
+>         #'HiggsVBFtoWW125' :'qqH_hww_SM125',
+>         #'HiggsVHtoWW125'  :'VH_hww_SM125' ,
+26,28d48
+<       TightIsoOS.Hist('HiggsGGH125').Add(TightIsoOS.Hist('HiggsVBF125')) ## adding SM Higgs as a bkg
+<       TightIsoOS.Hist('HiggsGGH125').Add(TightIsoOS.Hist('HiggsVH125'))  ## adding SM Higgs as a bkg
+<       noscomp.update({'HiggsGGH125':'ggH_SM125+qqH_SM125+VH_SM125'})
+32a53,55
+>       noscomp.update({'HiggsGGH125':'ggH_SM125'})
+>       noscomp.update({'HiggsVBF125':'qqH_SM125'})
+>       noscomp.update({'HiggsVH125' :'VH_SM125' })
+37a61,63
+>           'HiggsGGH'+str(mass)+'_pthUp'  :'ggH'+str(mass)+'_QCDscale_ggH1inUp'  ,
+>           #'HiggsGGH'+str(mass)+'_pthNom' :'ggH'+str(mass)+'_QCDscale_ggH1inNom' ,
+>           'HiggsGGH'+str(mass)+'_pthDown':'ggH'+str(mass)+'_QCDscale_ggH1inDown',
+54c80
+<               
+---
+>              
+61a88
+>         print TightIsoOS.histos
+78c105
+<           if comp in alreadyIn : pass
+---
+>           if allcomp[comp] in alreadyIn : pass
+81c108,109
+<         gDirectory.cd('..')
+---
+>                 
+>         gDirectory.cd('..')    
+87,88c115,133
+<     TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('ZZ'))
+<     TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('WZ'))
+---
+>     #TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('ZZ'))
+>     #TightIsoOS.Hist('WW').Add(TightIsoOS.Hist('WZ'))
+> 
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('WZJetsTo2L2Q'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('WZJetsTo3LNu'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo4L'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo2L2Nu'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('ZZJetsTo2L2Q'))
+> 
+>     ## we add single top to dibosons
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('T_tW'))
+>     TightIsoOS.Hist('WWJetsTo2L2Nu').Add(TightIsoOS.Hist('Tbar_tW'))
+>     #TightIsoOS.Hist('T_tW').Add(TightIsoOS.Hist('Tbar_tW'))
+> 
+>     TightIsoOS.Hist('TTJetsFullLept').Add(TightIsoOS.Hist('TTJetsSemiLept'))
+>     TightIsoOS.Hist('TTJetsFullLept').Add(TightIsoOS.Hist('TTJetsHadronic'))
+> 
+> #     if susy :
+> #       TightIsoOS.Hist('DYJets').Add(TightIsoOS.Hist('TTjets_emb')
+91,98c136,146
+<         'DYJets'            :'ZTT',
+<         'DYJets_Electron'   :'ZL',
+<         'DYJets_Fakes'      :'ZJ',
+<         'WJets'             :'W',
+<         'TTJets'            :'TT',
+<         'WW'                :'VV',
+<         'QCDdata'           :'QCD',
+<         'Data'              :'data_obs'        
+---
+>         'DYJets'        :'ZTT',
+>         'DYJets_ZL'     :'ZL',
+>         'DYJets_ZJ'     :'ZJ',
+>         'WJets'         :'W',
+>         #'TTJets'        :'TT',
+>         'TTJetsFullLept':'TT',
+>         #'T_tW'          :'T',
+>         #'WW'            :'VV',
+>         'WWJetsTo2L2Nu' :'VV',
+>         'QCDdata'       :'QCD',
+>         'Data'          :'data_obs'        
+Index: python/proto/plotter/binning.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/binning.py,v
+retrieving revision 1.3
+diff -r1.3 binning.py
+6,7c6,8
+< binning_svfitMass_mssm       = array([0., 20., 40., 60., 80., 100., 120., 140., 160., 180., 200., 250., 300., 350., 400., 500., 700., 1000., 1500])
+< binning_svfitMass_finer_mssm = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 500., 700., 1000., 1500])
+---
+> # HCP
+> # binning_svfitMass_mssm       = array([0., 20., 40., 60., 80., 100., 120., 140., 160., 180., 200., 250., 300., 350., 400., 500., 700., 1000., 1500])
+> # binning_svfitMass_finer_mssm = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 500., 700., 1000., 1500])
+8a10,12
+> # for the PAPER
+> binning_svfitMass_mssm       = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 450., 500., 550., 600., 650., 700., 750., 800., 850., 900., 950., 1000., 1100., 1200., 1300., 1400., 1500., 1600., 1800., 2000.])
+> binning_svfitMass_finer_mssm = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 450., 500., 550., 600., 650., 700., 750., 800., 850., 900., 950., 1000., 1100., 1200., 1300., 1400., 1500., 1600., 1800., 2000.])
+9a14,20
+> ## DATACARD SYNCH
+> # binning_svfitMass_mssm       = array([0., 20., 40., 60., 80., 100., 120., 140., 160., 180., 200., 250., 300., 350., 400.])
+> # binning_svfitMass_finer_mssm = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400.])
+> 
+> # chopped binning up to 700
+> # binning_svfitMass_mssm       = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 450., 500., 550., 600., 650., 700.])
+> # binning_svfitMass_finer_mssm = array([0., 10., 20., 30., 40., 50., 60., 70., 80., 90., 100., 110., 120., 130., 140., 150., 160., 170., 180., 190., 200., 225., 250., 275., 300., 325., 350., 400., 450., 500., 550., 600., 650., 700.])
+Index: python/proto/plotter/cuts_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/cuts_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 cuts_diTau.py
+17c17
+< gStyle.SetTitleX(0.125)
+---
+> gStyle.SetTitleX(0.14) ## to be changed to 0.15
+22,23c22,23
+< #gStyle.SetLabelFont(42, 'xy')
+< #gStyle.SetTitleFont(42, 'xy')
+---
+> gStyle.SetLabelFont(42, 'xy')
+> gStyle.SetTitleFont(42, 'xy')
+28c28
+< baseline           =  ' l1Pt>35 && l2Pt>35 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge==0 '
+---
+> baseline           =  ' l1Pt>45 && l2Pt>45 && abs(l1Eta)<2.1 && abs(l2Eta)<2.1 && diTauCharge!=0 '
+31,33c31,33
+< baseline           += ' && l2againstElectronLooseMVA3>0.5 '
+< baseline           += ' && l1LooseEle>0.5 && l2LooseEle>0.5'
+< baseline           += ' && l1againstMuonLoose2>0.5 && l2againstMuonLoose2>0.5'
+---
+> baseline           += ' && l1LooseEle>0.5  && l2LooseEle>0.5 '
+> baseline           += ' && l1LooseMu >0.5  && l2LooseMu >0.5 '
+> baseline           += ' && l2againstElectronNewLooseMVA3>0.5 '
+36c36
+< 
+---
+> # baseline           += ' && nbJets == 0'
+38c38,52
+< baseline           += ' && (l1TrigMatched!=0 && l2TrigMatched!=0 && jetTrigMatched!=0) '
+---
+> # baseline           += ' && jet1Pt>30. && abs(jet1Eta)<4.7 '
+> 
+> ###### MSSM or INCLUSIVE ######
+> ## trigger matching or embedded
+> baseline           += ' && ( (l1TrigMatched_diTau>0.5 && l2TrigMatched_diTau>0.5) || embedWeight != 1 )'
+> 
+> 
+> ###### SM ######
+> ## trigger matching or embedded
+> # baseline           += ' && ( (l1TrigMatched_diTau>0.5 && l2TrigMatched_diTau>0.5)                                      || \
+> #                              (l1TrigMatched_diTauJet>0.5 && l2TrigMatched_diTauJet>0.5 && jetTrigMatched_diTauJet>0.5) || \
+> #                               embedWeight != 1 )'
+> ## different jet cut depending on the trigger fired
+> # baseline           += ' && ( (l1TrigMatched_diTauJet>0.5 && l2TrigMatched_diTauJet>0.5 && jetTrigMatched_diTauJet>0.5 && jet1Pt>50. && abs(jet1Eta)<3.0) || \
+> #                              (l1TrigMatched_diTauJet<0.5 || l2TrigMatched_diTauJet<0.5 || jetTrigMatched_diTauJet<0.5) )'
+40d53
+< baselineSS = baseline.replace('diTauCharge==0','diTauCharge!=0')
+42,45d54
+< isolationLL4       =  ' && l1RawDB3HIso<2.5    && l2RawDB3HIso<2.5   '
+< isolationLL        =  ' && l1LooseDB3HIso>0.5   && l2LooseDB3HIso>0.5 '
+< isolationMM        =  ' && l1MediumDB3HIso>0.5  && l2MediumDB3HIso>0.5'
+< isolationTT        =  ' && l1TightDB3HIso>0.5   && l2TightDB3HIso>0.5 '
+48,49d56
+< # isolationLL4       =  ' && l1RawMVAIso<0.5  && l2RawMVAIso<0.5    '
+< # isolationMM        =  ' && l1MedMVAIso>0.5  && l1MedMVAIso>0.5'
+51,52d57
+< #isolationMM        =  ' && l1RawDB3HIso<1.0  && l2RawDB3HIso<1.0'
+< #isolationTT        =  ' && l1RawDB3HIso<0.8  && l2RawDB3HIso<0.8'
+54,55c59,65
+< Jet0               =  ' && jet1Pt<50.'	
+< BOOSTED            =  ' && jet1Pt>50.'
+---
+> 
+> baselineSS = baseline.replace('diTauCharge==0','diTauCharge!=0')
+> 
+> isolationLL4       =  ' && l1RawDB3HIso    < 10. && l2RawDB3HIso    < 10. '
+> isolationLL        =  ' && l1LooseDB3HIso  > 0.5 && l2LooseDB3HIso  > 0.5 '
+> isolationMM        =  ' && l1MediumDB3HIso > 0.5 && l2MediumDB3HIso > 0.5 '
+> isolationTT        =  ' && l1TightDB3HIso  > 0.5 && l2TightDB3HIso  > 0.5 '
+76a87
+>       #binning = binning_svfitMass_finer_mssm
+81a93,94
+>   #binning_superfine = array([60.,63.,66.,69.,72.,75.,78.,81.,84.,87.,90.,93.,96.,99.,102.,105.,108.,111.,114.,117.,120.,123.,126.,129.,132.,135.,138.,141.,144.,147.,150.,153.,156.,159.,162.,165.,168.,171.,174.,177.,180.,183.,186.,189.,192.,195.,198.,201.,204.,207.,210.])  
+> 
+83,84c96,100
+<     ('svfitMass'     ,len(binning) , binning  ),
+< #     ('visMass'    ,len(binning) , binning ),
+---
+>     ('l1DecayMode',12           , 0 , 12     ),
+>     ('l2DecayMode',12           , 0 , 12     ),
+> #     ('dRtt'	       ,int(20/rebin), 0 , 2 	),
+> #     ('visMass'     ,len(binning) , binning ),
+> #     ('svfitMass'   ,len(binning) , binning  ),
+88,98c104,115
+< #     ('dRtt'	  ,int(20/rebin), 0 , 5      ),
+< #     ('nJets'      ,10           , 0 , 10     ),
+< #     ('nbJets'     ,10           , 0 , 10     ),
+< #     ('mjj'        ,20           , 0 , 200    ),
+< #     ('dEtajj'     ,int(18/rebin), -6, 6      ),
+< #     ('dPhittjj'   ,int(16/rebin), 0 , 3.2    ),
+< #     ('dEtattjj'   ,int(20/rebin), 0 , 4      ),
+< #     ('mttj'       ,int(40/rebin), 0 , 1000   ),
+< #     ('pThiggs'    ,int(30/rebin), 0 , 300    ),
+< #     ('jet1Pt'     ,int(30/rebin), 0 , 600    ),
+< #     ('jet2Pt'     ,int(25/rebin), 0 , 500    ),
+---
+>     ('l1DecayMode',12           , 0 , 12     ),
+>     ('l2DecayMode',12           , 0 , 12     ),
+> #     ('nJets'      ,8            , 0 , 8      ),
+> #     ('nbJets'     ,5            , 0 , 5      ),
+> #     ('l1Pt'       ,int(32/rebin), 40, 200    ),    
+> #     ('l2Pt'       ,int(16/rebin), 40, 120    ),   
+> #     ('l1Eta'      ,int(30/rebin), -3, 3      ),   
+> #     ('l2Eta'      ,int(30/rebin), -3, 3      ),   
+> #     ('met'        ,int(20/rebin), 0 , 100    ),
+> #     ('pThiggs'    ,int(25/rebin), 0 , 250    ),
+> #     ('jet1Pt'     ,int(20/rebin), 0 , 400    ),
+> #     ('jet2Pt'     ,int(15/rebin), 0 , 300    ),
+105c122
+< #     ('met'        ,int(25/rebin), 0 , 200    ),
+---
+> #     ('mjj'        ,20           , 0 , 1000   ),
+107,110c124,127
+< #     ('l1Pt'       ,int(60/rebin), 0 , 300    ),    
+< #     ('l2Pt'       ,int(40/rebin), 0 , 200    ),   
+< #     ('l1Eta'      ,int(30/rebin), -3, 3      ),   
+< #     ('l2Eta'      ,int(30/rebin), -3, 3      ),   
+---
+> #     ('dEtajj'     ,int(18/rebin), -6, 6      ),
+> #     ('abs(dEtajj)',int(12/rebin), 0 , 6      ),
+> #     ('jet1Btag'   ,int(25/rebin), 0, 1       ),
+> #     ('jet2Btag'   ,int(25/rebin), 0, 1       ),
+113,116c130,131
+< #     ('sumJetPt'   ,50           , 0 , 500    ),
+< #     ('allJetPt'   ,50           , 0 , 500    ),
+< #     ('sumbJetPt'  ,50           , 0 , 500    ),
+< #     ('allbJetPt'  ,50           , 0 , 500    ),
+---
+> #     ('mt1'        ,int(25/rebin), 0 , 200    ),
+> #     ('mt2'        ,int(25/rebin), 0 , 200    ),
+118a134,141
+> #     ('dRtt'	  ,int(20/rebin), 0 , 5      ),
+>     #('dPhittjj'   ,int(16/rebin), 0 , 3.2    ),
+>     #('dEtattjj'   ,int(20/rebin), 0 , 4      ),
+>     #('mttj'       ,int(40/rebin), 0 , 1000   ),
+>     #('sumJetPt'   ,50           , 0 , 500    ),
+>     #('allJetPt'   ,50           , 0 , 500    ),
+>     #('sumbJetPt'  ,50           , 0 , 500    ),
+>     #('allbJetPt'  ,50           , 0 , 500    ),
+Index: python/proto/plotter/plot_H2TauTauDataMC_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/plot_H2TauTauDataMC_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 plot_H2TauTauDataMC_diTau.py
+29c29
+<   contributions = ["Data" ,"TTJets" ,"DYJets" ,"DYJets_Electron" ,"DYJets_Fakes", "WJets", "WW", 'ZZ', 'WZ'] ## , "WJets_Fakes"
+---
+>   contributions = ["Data" ,"DYJets" ,"DYJets_ZL" ,"DYJets_ZJ", "WJets",'Tbar_tW','T_tW','TTJetsFullLept','TTJetsSemiLept','TTJetsHadronic','WWJetsTo2L2Nu','WZJetsTo2L2Q','WZJetsTo3LNu','ZZJetsTo4L','ZZJetsTo2L2Nu','ZZJetsTo2L2Q'] ## , "WJets_Fakes","TTJets" , "WW", 'ZZ', 'WZ'
+34c34
+<     contributions.extend(['HiggsGGH125','HiggsVBF125','HiggsVH125'])
+---
+>     contributions.extend(['HiggsGGH125','HiggsVBF125','HiggsVH125','TTJets_emb'])
+53a54,77
+>   
+>   dic = { 'A':['embed_Run2012A_22Jan2013_v1'],
+>           'B':['embed_Run2012B_22Jan2013_v1'],
+>           'C':['embed_Run2012C_22Jan2013_v1'],
+>           'D':['embed_Run2012D_22Jan2013_v1'] }
+> 
+>   if abcd == '' : 
+>     return selComps, weights
+>   else :
+>     for i in dic.keys() :
+>       if i in abcd :
+>         for l in dic[i] :
+>           selComps = removekey(selComps, l)
+>           weights  = removekey(weights , l)
+>     return selComps, weights
+> 
+> def shrinkData(selComps, weights, abcd='') :
+>   '''
+>   pass the name of the sample to be dropped
+>   A ==> remove data_Run2012A_22Jan2013_v1
+>   B ==> remove data_Run2012B_22Jan2013_v1
+>   C ==> remove data_Run2012C_22Jan2013_v1
+>   D ==> remove data_Run2012D_22Jan2013_v1
+>   '''
+55,59c79,82
+< #   dic = { 'A':['embed_Run2012A_13Jul2012_v1','embed_Run2012A_recover_06Aug2012_v1'],
+<   dic = { 'A':['embed_Run2012A_13Jul2012_v1'],
+<           'B':['embed_Run2012B_13Jul2012_v4'],
+<           'C':['embed_Run2012C_24Aug2012_v1','embed_Run2012C_PromptReco_v2'],
+<           'D':['embed_2012D_PromptReco_v1'] }
+---
+>   dic = { 'A':['data_Run2012A_22Jan2013_v1'],
+>           'B':['data_Run2012B_22Jan2013_v1'],
+>           'C':['data_Run2012C_22Jan2013_v1'],
+>           'D':['data_Run2012D_22Jan2013_v1'] }
+82,84c105,106
+<   selComps = dict( [ (comp.name, comp) for comp in config.components ])
+<   weights  = dict( [ (comp.name,comp.getWeight()) \
+<                       for comp in selComps.values() ] )
+---
+>   selComps = dict( [ (comp.name, comp)            for comp in config.components ])
+>   weights  = dict( [ (comp.name,comp.getWeight()) for comp in selComps.values() ] )
+93,98c115,124
+< run2012  = True
+< blinding = True
+< just125  = True
+< embZtt   = True
+< datacard = 'svfitMass'  ## 'visMass'
+< logVars  = []  ##["svfitMass","visMass","nJets","nbJets","sumJetPt","allJetPt","sumbJetPt","allbJetPt","jet1Pt","jet2Pt","l1Pt","l2Pt"]
+---
+> run2012       = True
+> blinding      = True
+> just125       = True
+> embZtt        = True
+> scale_1pb     = True ## leave this always true, is turns of when running susy
+> final         = True
+> remove_signal = True
+> post_fit      = True
+> datacards     = ['svfitMass','visMass']
+> logVars       = ["nJets","nbJets"]#,"jet1Pt","jet2Pt","l1Pt","l2Pt","pThiggs","met"]#"svfitMass","visMass"
+134d159
+<   weight   = 'weight'
+138,139c163,176
+<   weight  += "*( (triggerWeight<=0 || embedWeight!=1) + (triggerWeight>0 && embedWeight==1)/triggerWeight )"
+<   
+---
+>   ## if diTau is matched, apply diTau data/MC correction factor 
+>   weight  = '   ( ((l1TrigMatched_diTau>0.5) && (l2TrigMatched_diTau>0.5))*triggerWeight_diTau +\
+>                   ((l1TrigMatched_diTau<0.5) || (l2TrigMatched_diTau<0.5))                     ) '
+>   ## if diTauJet is matched, apply diTau data/MC correction factor 
+>   weight += ' * ( ((l1TrigMatched_diTauJet>0.5) && (l2TrigMatched_diTauJet>0.5) && (jetTrigMatched_diTauJet)>0.5)*triggerWeight_diTauJet +\
+>                   ((l1TrigMatched_diTauJet<0.5) || (l2TrigMatched_diTauJet<0.5) || (jetTrigMatched_diTauJet)<0.5)                        ) '
+>   ## apply the diTau data turn on on embed sample
+>   weight += ' * ( (embedWeight == 1) + (embedWeight != 1)*triggerEffData_diTau )'
+>   ## stitching weight
+>   weight += ' * ( weight * (1/(triggerWeight_diTau*triggerWeight_diTauJet)) )'
+>   ## scale down real taus with decay mode 1 prong no pi zero by 0.88
+>   weight += ' * ( ((isRealTau==1) * ((l1DecayMode==0)*0.88 + (l1DecayMode!=0))) + (isRealTau==0) ) ' 
+>   weight += ' * ( ((isRealTau==1) * ((l2DecayMode==0)*0.88 + (l2DecayMode!=0))) + (isRealTau==0) ) ' 
+>  
+152c189,195
+< 
+---
+>   if susy : scale_1pb = False
+>   if susy :
+>     ##################################################
+>     ##         PASS THE PERIOD(S) TO DROP           ##
+>     ##################################################
+>     selComps, weights = shrinkData( selComps, weights, abcd='A') ## remove 2012A as no suitable trigger was there
+>     selComps, weights = shrinkEmbed(selComps, weights, abcd='A') ## remove 2012A as no suitable trigger was there
+159,162d201
+<   ##################################################
+<   ##         PASS THE PERIOD(S) TO DROP           ##
+<   ##################################################
+<   if embZtt : selComps, weights = shrinkEmbed(selComps, weights, 'A')          
+168a208,211
+> 
+>   ##################################################
+>   ##        COMPUTE EMBEDDED NORMALIZATION        ##
+>   ##################################################
+171c214,217
+<       embeddedScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, options.prong)
+---
+>     embedSF = True
+>     embeddedScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, options.prong, susy=susy)
+>   else : 
+>     embedSF = False
+173,174c219,220
+<       zeeScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, options.embed)
+<   
+---
+>     zeeScaleFactor(anaDir, selCompsNoSignal, weightsNoSignal, selCompsDataMass, weightsDataMass, weight, embed=False, susy=False)
+>     
+185,228c231,250
+< 
+<   cuts=[  
+< #       ("CMS_2012_incl_again_control_BOOSTED", baseline , ['45','45'], '', isolationMM , 5 ),
+< #       ("CMS_2012_bt_l1Pt45_l2Pt45_BOOSTED"  , baseline , ['45','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt50_l2Pt45_BOOSTED"  , baseline , ['50','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt55_l2Pt45_BOOSTED"  , baseline , ['55','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt60_l2Pt45_BOOSTED"  , baseline , ['60','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt65_l2Pt45_BOOSTED"  , baseline , ['65','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt70_l2Pt45_BOOSTED"  , baseline , ['70','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt90_l2Pt45_BOOSTED"  , baseline , ['90','45'], ' && nbJets > 0' , isolationMM , 5 ),
+<       ("CMS_2012_bt_l1Pt100_l2Pt45_BOOSTED"  , baseline , ['100','45'], ' && nbJets > 0' , isolationMM , 5 ),
+< 
+< 
+< 
+< 
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met10_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>10', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met20_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>20', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met30_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>30', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met40_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>40', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met50_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>50', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met60_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>60', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met70_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>70', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met80_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>80', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_met100_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0 && met>100', isolationMM , 5 ),
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+< 
+< #       ("CMS_2012_nobt_l1Pt45_l2Pt45_BOOSTED"  , baseline , ['45','45'], ' && nbJets == 0', isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt50_l2Pt45_BOOSTED"  , baseline , ['50','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt55_l2Pt45_BOOSTED"  , baseline , ['55','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt60_l2Pt45_BOOSTED"  , baseline , ['60','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt65_l2Pt45_BOOSTED"  , baseline , ['65','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt70_l2Pt45_BOOSTED"  , baseline , ['70','45'], ' && nbJets == 0' , isolationMM , 5 ),
+<      #("CMS_2012_nobt_l1Pt75_l2Pt45_BOOSTED"  , baseline , ['75','45'], ' && nbJets == 0' , isolationMM , 5 ),
+<      #("CMS_2012_nobt_l1Pt80_l2Pt45_BOOSTED"  , baseline , ['80','45'], ' && nbJets == 0' , isolationMM , 5 ),
+<      #("CMS_2012_nobt_l1Pt85_l2Pt45_BOOSTED"  , baseline , ['85','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt90_l2Pt45_BOOSTED"  , baseline , ['90','45'], ' && nbJets == 0' , isolationMM , 5 ),
+<      #("CMS_2012_nobt_l1Pt95_l2Pt45_BOOSTED"  , baseline , ['95','45'], ' && nbJets == 0' , isolationMM , 5 ),
+< #       ("CMS_2012_nobt_l1Pt100_l2Pt45_BOOSTED" , baseline , ['100','45'], ' && nbJets == 0' , isolationMM , 5 ),
+---
+>   
+>   cuts=[    
+>       ("CMS_2012_incl_SS_massl100_mssm_BOOSTED", baseline , ['45','45'], ' & svfitMass<100.'                         , isolationMM , 5 ),
+>       ("CMS_2012_incl_SS_mssm_BOOSTED", baseline , ['45','45'], ''                         , isolationMM , 5 ),
+> #       ("CMS_2012_nobtag_BOOSTED"   , baseline , ['45','45'], '&& nbJets == 0'           , isolationMM , 5 ),
+> #       ("CMS_2012_btag_BOOSTED"     , baseline , ['45','45'], '&& nbJets  > 0 & nJets<2' , isolationMM , 5 ),
+> 
+> #       ("CMS_2012_fb_incl_mssm_BOOSTED", baseline , ['45','45'], ''                         , isolationMM , 5 ),
+> #       ("CMS_2012_fb_nobtag_BOOSTED"   , baseline , ['45','45'], '&& nbJets == 0'           , isolationMM , 5 ),
+> #       ("CMS_2012_fb_btag_BOOSTED"     , baseline , ['45','45'], '&& nbJets  > 0 & nJets<2' , isolationMM , 5 ),
+> 
+> 
+> ### check the name otherwise normalization gets screwed
+> #       ("CMS_2012_incl_sm_BOOSTED"        , baseline                , ['45','45'], ''                                                                          , isolationMM , 5 ),
+> #       ("CMS_2012_pth100_170_low_BOOSTED" , baseline + NOVBFstandard, ['45','45'], ' & jet1Pt>30. & abs(jet1Eta)<4.7 & nbJets == 0 & pThiggs>100 & pThiggs<170', isolationMM , 5 ),
+> #       ("CMS_2012_pth170_high_BOOSTED"    , baseline + NOVBFstandard, ['45','45'], ' & jet1Pt>30. & abs(jet1Eta)<4.7 & nbJets == 0 & pThiggs>170'              , isolationMM , 5 ),
+> #       ("CMS_2012_VBF"                    , baseline +   VBFstandard, ['45','45'], ' & jet1Pt>30. & abs(jet1Eta)<4.7 & nbJets == 0 & pThiggs>100'              , isolationMM , 5 ),
+> #       ("CMS_2012_dataTurnOn_pth170_high_BOOSTED"    , baseline + NOVBFstandard, ['45','45'], ' & pThiggs>170'              , isolationMM , 5 ),
+> #       ("CMS_2012_dataTurnOn_pth100_170_low_BOOSTED" , baseline + NOVBFstandard, ['45','45'], ' & pThiggs>100 & pThiggs<170', isolationMM , 5 ),
+> #       ("CMS_2012_dataTurnOn_VBF"                    , baseline +   VBFstandard, ['45','45'], ' & pThiggs>100'              , isolationMM , 5 ),
+235c257
+<         
+---
+>             
+240c262
+<     if str(prefix).find("VBF") > 0 :
+---
+>     if 'VBF' in prefix or '_btag' in prefix :
+250a273,280
+> #     #####################################################
+> #     ##   IF INCLUSIVE REMOVE BJET VETO AND EXTRA JET   ##
+> #     #####################################################
+> #     #import pdb ; pdb.set_trace()
+> #     if 'incl' in prefix :
+> #       cut.replace(' && nbJets == 0','')
+> #       cut.replace(' && jet1Pt>30. && abs(jet1Eta)<4.7 ','')
+> 
+255,257c285,288
+<     if susy :
+<       variables.append(('svfitMass' ,150 , 0 , 1500))
+<       #variables.append(('svfitMass' ,150 , 0 , 600))
+---
+>     if susy and final:
+>       #variables.append(('svfitMass' ,300 , 0 , 1500))
+>       #variables.append(('svfitMass' ,400 , 0 , 2000))
+>       variables.append(('svfitMass' ,140 , 0 , 700))
+267c298
+<  
+---
+>       
+278d308
+<                                        
+298a329,333
+>       if susy or 'incl' in prefix and '_btag' not in prefix :
+>         isolationLL4 =  ' && l1RawDB3HIso < 2. && l2RawDB3HIso < 2. '
+>       if susy and '_btag' in prefix :
+>         isolationLL4 =  ' && l1RawDB3HIso < 4. && l2RawDB3HIso < 4. '
+> 
+310,313c345,351
+<          cutLooseOS      = cut   + antiqcdcut + looseisocut + relaxedVBF  ## we take the shape from this
+<          cutLooseSS      = cutSS + antiqcdcut + looseisocut + relaxedVBF  ## for normalization
+<          cutTightSS      = cutSS + antiqcdcut + isocut      + relaxedVBF  ## cutTightSS/cutLooseSS     gives iso/!iso norm factor
+<          cutTightSS_VBF  = cutSS + antiqcdcut + looseisocut               ## cutTightSS_VBF/cutLooseSS gives vbf/!vbf norm factor
+---
+>          cutLooseIsoOS_VBF     = cut                           + antiqcdcut + looseisocut               
+>          cutLooseIsoSS_VBF     = cutSS                         + antiqcdcut + looseisocut               
+>          cutLooseIsoOS_relVBF  = cut.replace(VBFstandard,'')   + antiqcdcut + looseisocut + relaxedVBF  
+>          cutLooseIsoSS_relVBF  = cutSS.replace(VBFstandard,'') + antiqcdcut + looseisocut + relaxedVBF  
+>          cutTightIsoOS_relVBF  = cut.replace(VBFstandard,'')   + antiqcdcut +      isocut + relaxedVBF  
+>          cutTightIsoSS_relVBF  = cutSS.replace(VBFstandard,'') + antiqcdcut +      isocut + relaxedVBF  
+> 
+323,346d360
+<       TightIsoSS   = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,  
+<                                     cut    = cutTightSS, 
+<                                     weight = weight,                 
+<                                     embed  = options.embed)
+<                  
+<       LooseIsoSS   = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                              
+<                                     cut    = cutLooseSS,
+<                                     weight = weight,#+"*weightQCD_nVert(nVert)*weightQCD_HpT(pThiggs)",                     
+<                                     embed  = options.embed) 
+<                         
+<       LooseIsoOS   = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+<                                     cut    = cutLooseOS, 
+<                                     #weight=weight+"*weightQCD_nVert(nVert)",                   
+<                                     #weight=weight+"*weightQCD_nVert(nVert)*weightQCD_l1jetPt(l1jetPt)",                   
+<                                     weight = weight,                   
+<                                     embed  = options.embed)
+< 
+<       # for the QCD estimation MC contributions are subtracted in the consistent region NO NEED TO APPLY THE WEIGHT ON THEM
+<       LooseIsoOSMC = LooseIsoOS
+<       #LooseIsoOSMC = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+<       #                              cut    = cutLooseOS, 
+<       #                              weight = weight,                  
+<       #                              embed  = options.embed)
+< 
+348,352c362,391
+<         TightIsoSS_VBF = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,  
+<                                         cut    = cutSS + ptCutString + antiqcdcut + looseisocut, 
+<                                         weight = weight,                 
+<                                         embed  = options.embed)
+<                  
+---
+>         LooseIsoOS_VBF    = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutLooseIsoOS_VBF    , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+>         LooseIsoSS_VBF    = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutLooseIsoSS_VBF    , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+>         LooseIsoOS_relVBF = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutLooseIsoOS_relVBF , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+>         LooseIsoSS_relVBF = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutLooseIsoSS_relVBF , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+>         TightIsoOS_relVBF = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutTightIsoOS_relVBF , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+>         TightIsoSS_relVBF = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                            cut    = cutTightIsoSS_relVBF , 
+>                                            weight = weight               ,                   
+>                                            embed  = embedSF              ,
+>                                            susy   = susy                 )
+354,357c393,396
+<                                                                                                                 TightIsoSS_VBF, 
+<                                                                                                                 LooseIsoOS, 
+<                                                                                                                 LooseIsoOSMC, 
+<                                                                                                                 LooseIsoSS, 
+---
+>                                                                                                                 LooseIsoSS_VBF, 
+>                                                                                                                 LooseIsoOS_relVBF, 
+>                                                                                                                 LooseIsoOS_relVBF, 
+>                                                                                                                 LooseIsoSS_relVBF, 
+359a399,415
+>         TightIsoSS = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,  
+>                                     cut    = cutTightSS, 
+>                                     weight = weight    ,                 
+>                                     embed  = embedSF   ,
+>                                     susy   = susy      )
+>                    
+>         LooseIsoSS = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                              
+>                                     cut    = cutLooseSS,
+>                                     weight = weight    ,#+"*weightQCD_nVert(nVert)*weightQCD_HpT(pThiggs)",                     
+>                                     embed  = embedSF   , 
+>                                     susy   = susy      )
+>                         
+>         LooseIsoOS = H2TauTauDataMC(var, anaDir, selCompsNoSignal, weightsNoSignal, nx, xmin, xmax,                             
+>                                     cut    = cutLooseOS, 
+>                                     weight = weight    ,                   
+>                                     embed  = embedSF   ,
+>                                     susy   = susy      )
+369,370c425,427
+<         else       : massesRange = [125,110,115,120,130,135,140,145]
+<         if susy    : massesRange = [80,90,100,110,120,130,140,160,180,200,250,300,350,400,450,500,600,700,800,1000]
+---
+>         else       : massesRange = [90,95,100,105,110,115,120,125,130,135,140,145,150,155,160]
+> #         if susy    : massesRange = [80,90,100,110,120,130,140,160,180,200,250,300,350,400,450,500,600,700,800,900,1000]
+>         if susy    : massesRange = [160]
+376a434
+>           #massesRange = [160]
+382a441,445
+>       #import pdb ; pdb.set_trace()
+>       if 'VBF' in prefix :
+>         TightIsoSS = TightIsoSS_relVBF
+>         LooseIsoOS = LooseIsoOS_relVBF
+>         LooseIsoSS = LooseIsoSS_relVBF
+386c449
+<                                                                                             LooseIsoOSMC, 
+---
+>                                                                                             LooseIsoOS, 
+388,389c451
+<                                                                                             log )
+<       
+---
+>                                                                                             log )      
+395c457
+<       print "QCDShape yield", QCDShape.Integral()
+---
+>       print "QCDShape yield"        , QCDShape.Integral()
+400c462,475
+<       if yields:
+---
+>       if 'VBF' in prefix and yields : 
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_LooseIsoOS_VBF_"+var+".txt","w")
+>         printYields('LooseIsoOS_VBF', LooseIsoOS_VBF, fileout=Yields_dump, susy=susy)       
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_LooseIsoSS_VBF_"+var+".txt","w")
+>         printYields('LooseIsoSS_VBF', LooseIsoSS_VBF, fileout=Yields_dump, susy=susy)       
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_LooseIsoOS_relVBF_"+var+".txt","w")
+>         printYields('LooseIsoOS_relVBF', LooseIsoOS_relVBF, fileout=Yields_dump, susy=susy)       
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_LooseIsoSS_relVBF_"+var+".txt","w")
+>         printYields('LooseIsoSS_relVBF', LooseIsoSS_relVBF, fileout=Yields_dump, susy=susy)       
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_TightIsoOS_relVBF_"+var+".txt","w")
+>         printYields('TightIsoOS_relVBF', TightIsoOS_relVBF, fileout=Yields_dump, susy=susy)       
+>         Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_TightIsoSS_relVBF_"+var+".txt","w")
+>         printYields('TightIsoSS_relVBF', TightIsoSS_relVBF, fileout=Yields_dump, susy=susy)       
+>       elif yields:
+407,409d481
+<         if 'VBF' in prefix : 
+<           Yields_dump = open(os.getcwd()+"/"+prefix+"/Yields_SS_VBF_tight"+var+".txt","w")
+<           printYields('SS vbf tight', TightIsoSS_VBF, fileout=Yields_dump, susy=susy)       
+419,421c491,494
+<                                     weight = weight,
+<                                     embed  = options.embed)
+< 
+---
+>                                     weight = weight ,
+>                                     embed  = embedSF,
+>                                     susy   = susy   )
+>         
+426,427c499,504
+<         if 'VBF'     in prefix : scaleFromMuTau  = 1.06  # for 2012D by Jose          
+<         if 'BOOSTED' in prefix : scaleFromMuTau  = 0.65  # for 2012D by Jose
+---
+>         if '_VBF'          in prefix : scaleFromMuTau = 1.03 # by Aram        #1.06  # for 2012D by Jose          
+>         if '_incl'         in prefix : scaleFromMuTau = 0.73 # by Aram        #0.65  # for 2012D by Jose
+>         if '_low_BOOSTED'  in prefix : scaleFromMuTau = 0.87 # by Aram        #0.65  # for 2012D by Jose
+>         if '_high_BOOSTED' in prefix : scaleFromMuTau = 0.76 # by Aram        #0.65  # for 2012D by Jose
+>         if '_nobtag'       in prefix : scaleFromMuTau = 0.73 # by Aram        #0.65  # for 2012D by Jose
+>         if '_btag'         in prefix : scaleFromMuTau = 1.50 # by Aram        #0.65  # for 2012D by Jose
+429,441c506,541
+<         WJetsShape        = deepcopy(LooseIsoOSMC.Hist("WJets"))
+<         WJetsShapeSS      = deepcopy(LooseIsoSS.Hist("WJets"))
+<         
+<         WJetsScale        = scaleFromMuTau * TightIsoOS.Hist('WJets').Integral() / LooseIsoOSMC.Hist('WJets').Integral()
+<         WJetsScaleSS      = scaleFromMuTau * TightIsoSS.Hist('WJets').Integral() / LooseIsoSS.Hist('WJets').Integral()
+<   
+<         TightIsoOS.Hist("WJets").obj      = WJetsShape.obj
+<         TightIsoOS.Hist("WJets").weighted = WJetsShape.weighted
+<         TightIsoOS.Hist("WJets").Scale(WJetsScale)
+<   
+<         TightIsoSS.Hist('WJets').obj      = WJetsShapeSS.obj
+<         TightIsoSS.Hist('WJets').weighted = WJetsShapeSS.weighted
+<         TightIsoSS.Hist('WJets').Scale(WJetsScaleSS)
+---
+>         #if 'incl' in prefix or 'btag' in prefix :
+>         if susy :
+>           WJetsScale    = scaleFromMuTau  
+>           WJetsScaleSS  = scaleFromMuTau 
+>           TightIsoOS.Hist("WJets").Scale(WJetsScale)
+>           TightIsoSS.Hist('WJets').Scale(WJetsScaleSS)
+>         
+>         else : 
+>   
+>           if 'VBF' in prefix :
+>             WJetsShape        = deepcopy(LooseIsoOS_relVBF.Hist("WJets"))
+>             WJetsShapeSS      = deepcopy(LooseIsoSS_relVBF.Hist("WJets"))          
+>             try :                                             
+>               ##              scale factor   * vbf / !vbf                                                                    * iso / !iso
+>               WJetsScale    = scaleFromMuTau * LooseIsoOS_VBF.Hist('WJets').Integral() / LooseIsoOS_relVBF.Hist('WJets').Integral() * TightIsoOS_relVBF.Hist('WJets').Integral() / LooseIsoOS_relVBF.Hist('WJets').Integral() 
+>               WJetsScaleSS  = scaleFromMuTau * LooseIsoSS_VBF.Hist('WJets').Integral() / LooseIsoSS_relVBF.Hist('WJets').Integral() * TightIsoSS_relVBF.Hist('WJets').Integral() / LooseIsoSS_relVBF.Hist('WJets').Integral() 
+>             except : 
+>               WJetsScale    = 1.e-7
+>               WJetsScaleSS  = 1.e-7
+>           else :
+>             WJetsShape        = deepcopy(LooseIsoOS.Hist("WJets"))
+>             WJetsShapeSS      = deepcopy(LooseIsoSS.Hist("WJets"))          
+>             try :
+>               WJetsScale    = scaleFromMuTau * TightIsoOS.Hist('WJets').Integral() / LooseIsoOS.Hist('WJets').Integral()
+>               WJetsScaleSS  = scaleFromMuTau * TightIsoSS.Hist('WJets').Integral() / LooseIsoSS.Hist('WJets').Integral()
+>             except : 
+>               WJetsScale    = 1.e-7
+>               WJetsScaleSS  = 1.e-7
+>                         
+>           TightIsoOS.Hist("WJets").obj      = WJetsShape.obj
+>           TightIsoOS.Hist("WJets").weighted = WJetsShape.weighted
+>           TightIsoOS.Hist("WJets").Scale(WJetsScale)
+> 
+>           TightIsoSS.Hist('WJets').obj      = WJetsShapeSS.obj
+>           TightIsoSS.Hist('WJets').weighted = WJetsShapeSS.weighted
+>           TightIsoSS.Hist('WJets').Scale(WJetsScaleSS)
+447a548,561
+>         
+>         if susy or 'incl' in prefix  :
+>           bin_min = 0
+>           bin_max = 0
+>           if var == 'svfitMass' :
+>             bin_min = 100
+>             bin_max = 150
+>           if var == 'visMass' :
+>             bin_min = 80
+>             bin_max = 130
+>           for bin in range(qcdshape.GetNbinsX()):
+>             if ( qcdshape.GetBinCenter(bin+1)>bin_min and qcdshape.GetBinCenter(bin+1)<bin_max ):
+>               if qcdshape.GetBinError(bin+1) < 0.1001*qcdshape.GetBinContent(bin+1) :
+>                 qcdshape.SetBinError(bin+1,0.1001*qcdshape.GetBinContent(bin+1))
+457c571
+< 
+---
+>         
+459,464c573,616
+<           DYJetsScale = TightIsoOS.Hist("DYJets").Integral() / LooseIsoOS.Hist("DYJets").Integral()
+<           myDY = {'DYJets':DYJetsScale,'DYJets_Electron':tightLoose,'DYJets_Fakes':tightLoose}
+<           for sample in myDY.keys() :
+<             TightIsoOS.Hist(sample).obj      = LooseIsoOS.Hist(sample).obj
+<             TightIsoOS.Hist(sample).weighted = LooseIsoOS.Hist(sample).weighted
+<             TightIsoOS.Hist(sample).Scale(myDY[sample])
+---
+>         
+>           ## take ZTT from relaxed VBF full iso
+>           for dy in ['DYJets'] :
+>             DYJetsShape = deepcopy(TightIsoOS_relVBF.Hist(dy))
+>             if TightIsoOS.Hist(dy).Integral() > 0 :
+>               DYJetsScale = TightIsoOS.Hist(dy).Integral() / TightIsoOS_relVBF.Hist(dy).Integral()
+>             else : 
+>               DYJetsScale = 1.e-7
+>             TightIsoOS.Hist(dy).obj      = DYJetsShape.obj
+>             TightIsoOS.Hist(dy).weighted = DYJetsShape.weighted
+>             TightIsoOS.Hist(dy).Scale(DYJetsScale)
+> 
+>           ## take ZL & ZJ from relaxed VBF loose iso
+>           for dy in ['DYJets_ZL','DYJets_ZJ'] :
+>             DYJetsShape = deepcopy(LooseIsoOS_relVBF.Hist(dy))
+>             if TightIsoOS.Hist(dy).Integral() > 0 :
+>               DYJetsScale = TightIsoOS.Hist(dy).Integral() / LooseIsoOS.Hist(dy).Integral()
+>             else : 
+>               DYJetsScale = 1.e-7 / LooseIsoOS.Hist(dy).Integral()
+>             TightIsoOS.Hist(dy).obj      = DYJetsShape.obj
+>             TightIsoOS.Hist(dy).weighted = DYJetsShape.weighted
+>             TightIsoOS.Hist(dy).Scale(DYJetsScale)
+> 
+>           ## take VV from relaxed VBF full iso
+>           for vv in ['Tbar_tW','T_tW','WWJetsTo2L2Nu','WZJetsTo2L2Q','WZJetsTo3LNu','ZZJetsTo4L','ZZJetsTo2L2Nu','ZZJetsTo2L2Q'] :
+>             VVJetsShape = deepcopy(TightIsoOS_relVBF.Hist(vv))
+>             if TightIsoOS.Hist(vv).Integral() > 0 :
+>               VVJetsScale = TightIsoOS.Hist(vv).Integral() / TightIsoOS_relVBF.Hist(vv).Integral()
+>             else : 
+>               VVJetsScale = 1.e-7
+>             TightIsoOS.Hist(vv).obj      = VVJetsShape.obj
+>             TightIsoOS.Hist(vv).weighted = VVJetsShape.weighted
+>             TightIsoOS.Hist(vv).Scale(VVJetsScale)
+> 
+>           ## take TT from relaxed VBF full iso
+>           for tt in ['TTJetsFullLept','TTJetsSemiLept','TTJetsHadronic'] :
+>             TTJetsShape = deepcopy(TightIsoOS_relVBF.Hist(tt))
+>             if TightIsoOS.Hist(tt).Integral() > 0 :
+>               TTJetsScale = TightIsoOS.Hist(tt).Integral() / TightIsoOS_relVBF.Hist(tt).Integral()
+>             else : 
+>               TTJetsScale = 1.e-7
+>             TightIsoOS.Hist(tt).obj      = TTJetsShape.obj
+>             TightIsoOS.Hist(tt).weighted = TTJetsShape.weighted
+>             TightIsoOS.Hist(tt).Scale(TTJetsScale)
+473c625
+<                              
+---
+>         
+477,481d628
+< 	
+<         if datacard in var and (isinstance(nx, numpy.ndarray) or susy) and 'VBF'     in prefix :
+<           saveForLimit(deepcopy(TightIsoOS),prefix,mIndex,datacard,not isinstance(nx, numpy.ndarray),"vbf"  ,susy)
+<         if datacard in var and (isinstance(nx, numpy.ndarray) or susy) and 'BOOSTED' in prefix :
+<           saveForLimit(deepcopy(TightIsoOS),prefix,mIndex,datacard,not isinstance(nx, numpy.ndarray),"boost",susy)
+482a630,668
+>         if scale_1pb :
+>           for h in TightIsoOS.histos :
+>             if 'Higgs' in h.name :
+>               if susy and '125' in h.name :
+>                 continue 
+>               comp_name = deepcopy(h.name)
+>               comp_name = comp_name.replace('_pthUp','')
+>               comp_name = comp_name.replace('_pthNom','')
+>               comp_name = comp_name.replace('_pthDown','')
+>               print comp_name
+>               print 'scaling Higgs to 1pb xSection', h.name, 'integral before', h.Integral(), 'xSection',selCompsDataMass[mIndex][comp_name].xSection
+>               h.Scale(1./selCompsDataMass[mIndex][comp_name].xSection)
+>               print 'scaling Higgs to 1pb xSection', h.name, 'integral after', h.Integral()
+> 
+>         for dc in datacards :
+>           if dc in var and (isinstance(nx, numpy.ndarray) or susy) and 'VBF'     in prefix :
+>             saveForLimit(deepcopy(TightIsoOS),prefix,mIndex,dc,not isinstance(nx, numpy.ndarray),"vbf"  ,susy)
+>           if dc in var and (isinstance(nx, numpy.ndarray) or susy) and 'BOOSTED' in prefix :
+>             saveForLimit(deepcopy(TightIsoOS),prefix,mIndex,dc,not isinstance(nx, numpy.ndarray),"boost",susy)
+> 
+>         if scale_1pb :
+>           for h in TightIsoOS.histos :
+>             if 'Higgs' in h.name :
+>               if susy and '125' in h.name :
+>                 continue 
+>               comp_name = deepcopy(h.name)
+>               comp_name = comp_name.replace('_pthUp','')
+>               comp_name = comp_name.replace('_pthNom','')
+>               comp_name = comp_name.replace('_pthDown','')
+>               print 'scaling Higgs to 1pb xSection', h.name, 'integral before', h.Integral(), 'xSection',selCompsDataMass[mIndex][comp_name].xSection
+>               h.Scale(selCompsDataMass[mIndex][comp_name].xSection)
+>               print 'scaling Higgs to SM xSection', h.name, 'integral after', h.Integral()
+> 
+>         #####################################################
+>         ###        REMOVE PTH SHAPES FROM PLOTTING        ###
+>         #####################################################
+>         
+>         TightIsoOS.histos[:] = [ item for item in TightIsoOS.histos if '_pth' not in item.name ]        
+>         
+495a682
+>           #pass
+500a688,752
+>         ###             POST FIT SCALE FACTORS            ###
+>         #####################################################
+>         
+>         if post_fit :
+>           ### no btag by Roger https://www.dropbox.com/sh/24bixlzwy9wkvst/2D8LmXzmb-/postfit/scales_tt_8_8TeV.py
+>           scales = {
+>                     'WJets'         : [0.997             , 0.29100000000000004 ], 
+>                     'DYJets_ZJ'     : [0.9972491772582767, 0.2002837796727433  ], 
+>                     'TTJetsFullLept': [1.0196881841811716, 0.10369349063465849 ], 
+>                     'TTJetsSemiLept': [1.0196881841811716, 0.10369349063465849 ], 
+>                     'TTJetsHadronic': [1.0196881841811716, 0.10369349063465849 ], 
+>                     'T_tW'          : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'WWJetsTo2L2Nu' : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'WZJetsTo2L2Q'  : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'WZJetsTo3LNu'  : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'ZZJetsTo4L'    : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'ZZJetsTo2L2Nu' : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'ZZJetsTo2L2Q'  : [0.8275475994038922, 0.1980080048886912  ], 
+>                     'QCDdata'       : [1.0245            , 0.014000000000000004], 
+>                     'DYJets'        : [1.2005601152834   , 0.07138383850704583 ], 
+>                     #'DYJets'        : [1.1505601152834   , 0.07138383850704583 ],  ### for MC paciughis
+>                     #'ggH'       : [1.0689942568924617, 0.08733314147561626 ],
+>                     #'bbH'       : [1.062722237063036 , 0.09089795157207893 ], 
+>                    }
+>           ### btag by Roger https://www.dropbox.com/sh/24bixlzwy9wkvst/gFoTebiFJV/postfit/scales_tt_9_8TeV.py
+> #           scales = {
+> #                     'WJets'         : [1.039             , 0.30600000000000005], 
+> #                     'DYJets_ZJ'     : [1.03323938        , 0.19880028269597602], 
+> #                     'TTJetsFullLept': [1.03323938        , 0.19880028269597602], 
+> #                     'TTJetsSemiLept': [1.03323938        , 0.19880028269597602], 
+> #                     'TTJetsHadronic': [1.03323938        , 0.19880028269597602], 
+> #                     'T_tW'          : [0.9787999920380951, 0.20893704793549653], 
+> #                     'WWJetsTo2L2Nu' : [0.9787999920380951, 0.20893704793549653], 
+> #                     'WZJetsTo2L2Q'  : [0.9787999920380951, 0.20893704793549653], 
+> #                     'WZJetsTo3LNu'  : [0.9787999920380951, 0.20893704793549653], 
+> #                     'ZZJetsTo4L'    : [0.9787999920380951, 0.20893704793549653], 
+> #                     'ZZJetsTo2L2Nu' : [0.9787999920380951, 0.20893704793549653], 
+> #                     'ZZJetsTo2L2Q'  : [0.9787999920380951, 0.20893704793549653], 
+> #                     'QCDdata'       : [0.881             , 0.08400000000000002], 
+> #                     'DYJets'        : [1.1980472315576   , 0.07163052701188229], 
+> #                     #'ggH'       : [1.264376297978286 , 0.10988447388052605],
+> #                     #'bbH'       : [1.2569579295804718, 0.11273844774521251], 
+> #                    }
+>           
+>           print scales
+>            
+>           for h in scales.keys() :
+>             ## scale factor
+>             TightIsoOS.Hist(h).Scale(scales[h][0])
+>             
+>             ## add systematics       
+>             for bin in range(TightIsoOS.Hist(h).weighted.GetNbinsX()):
+>               binerr = TightIsoOS.Hist(h).weighted.GetBinError(bin+1)
+>               binc   = TightIsoOS.Hist(h).weighted.GetBinContent(bin+1)
+>               newbinerr = math.sqrt( binerr*binerr + scales[h][1]*scales[h][1]*binc*binc )
+>               #print 'h',h,'bin', bin+1, 'bin error', binerr, 'bin content',binc,'newbinerr', newbinerr,'scale',scales[h][1]
+>               TightIsoOS.Hist(h).weighted.SetBinError(bin+1,newbinerr)
+>         
+>         #####################################################
+>         ###                  REMOVE SIGNAL                ###
+>         #####################################################
+>         if remove_signal :
+>           TightIsoOS.histos[:] = [ item for item in TightIsoOS.histos if 'Higgs' not in item.name ]        
+> 
+>         #####################################################
+504,507c756,758
+<         TightIsoOS.Group('electroweak'                                   , ['WJets', 'DYJets_Electron', 'DYJets_Fakes','ZZ','WZ','WW'])
+<         TightIsoOS.Group('t#bar{t}'                                      , ['TTJets','Tbar_tW','T_tW'])
+<         TightIsoOS.Group('Fakes'                                         , ['QCDdata'])
+<         TightIsoOS.Group('Z#rightarrow#tau#tau'                          , ['DYJets'])
+---
+>         TightIsoOS.Group('electroweak'          , ['WJets', 'DYJets_ZL', 'DYJets_ZJ','Tbar_tW','T_tW','WWJetsTo2L2Nu','WZJetsTo2L2Q','WZJetsTo3LNu','ZZJetsTo4L','ZZJetsTo2L2Nu','ZZJetsTo2L2Q']) #,'ZZ','WZ','WW'
+>         TightIsoOS.Group('t#bar{t}'             , ['TTJetsFullLept','TTJetsSemiLept','TTJetsHadronic'])
+>         TightIsoOS.Group('Fakes'                , ['QCDdata'])
+509,510c760
+<           TightIsoOS.Group('10x#phi('+str(mIndex)+' GeV)#rightarrow#tau#tau, tan#beta=20'  , ['HiggsSUSYBB'+str(mIndex), 'HiggsSUSYGluGlu'+str(mIndex)])         
+<           TightIsoOS.Group('electroweak'                                                  , ['WJets', 'DYJets_Electron', 'DYJets_Fakes','ZZ','WZ','WW','HiggsVBF125', 'HiggsGGH125', 'HiggsVH125'])
+---
+>           TightIsoOS.Group('Z#rightarrow#tau#tau' , ['DYJets','TTJets_emb'])
+511a762,770
+>           TightIsoOS.Group('Z#rightarrow#tau#tau' , ['DYJets'])
+>         TightIsoOS.Group('Background uncertainty' , [])
+>         
+>         #import pdb ; pdb.set_trace()
+>         
+>         if susy and not remove_signal:
+>           TightIsoOS.Group('10x#phi('+str(mIndex)+' GeV)#rightarrow#tau#tau, tan#beta=20'  , ['HiggsSUSYBB'+str(mIndex), 'HiggsSUSYGluGlu'+str(mIndex)])         
+>           TightIsoOS.Group('electroweak'                                                   , ['WJets', 'DYJets_ZL', 'DYJets_ZJ','Tbar_tW','T_tW','HiggsVBF125', 'HiggsGGH125', 'HiggsVH125','WWJetsTo2L2Nu','WZJetsTo2L2Q','WZJetsTo3LNu','ZZJetsTo4L','ZZJetsTo2L2Nu','ZZJetsTo2L2Q'])
+>         elif not remove_signal :
+513,514c772,774
+< 
+<         #for h in ['electroweak','t#bar{t}','Z#rightarrow#tau#tau','5x H('+str(mIndex)+' GeV)#rightarrow#tau#tau','Data','Fakes'] :
+---
+>         else :
+>           pass
+>          
+516,517c776,777
+<           #TightIsoOS.Hist(h).weighted.SetTitle('CMS preliminary 2012, #sqrt{s} = 8TeV, L = 19.4 fb^{-1}        #tau_{h}#tau_{h}')
+<           TightIsoOS.Hist(h).weighted.SetTitle('CMS preliminary 2012, #sqrt{s} = 8TeV, L = 18.4 fb^{-1}        #tau_{h}#tau_{h}')
+---
+>           TightIsoOS.Hist(h).weighted.SetTitle('CMS preliminary 2012, #sqrt{s} = 8TeV, L = 19.8 fb^{-1}        #tau_{h}#tau_{h}')
+>           if susy : TightIsoOS.Hist(h).weighted.SetTitle('CMS preliminary 2012, #sqrt{s} = 8TeV, L = 18.3 fb^{-1}        #tau_{h}#tau_{h}')
+542,543c802,803
+<         gPad.SetLeftMargin(0.15)
+<         gPad.SetBottomMargin(0.15)
+---
+>         gPad.SetLeftMargin(0.18)
+>         gPad.SetBottomMargin(0.18)
+550,553c810,821
+< #         if not (susy and var == 'svfitMass' and not isinstance(nx, numpy.ndarray) ):
+< #           TightIsoOS.DrawStack("HIST")
+< 
+<         TightIsoOS.DrawStack("HIST")
+---
+>         #if not (susy and var == 'svfitMass' and not isinstance(nx, numpy.ndarray) ):
+>         #  TightIsoOS.DrawStack("HIST")
+>         
+>         #import pdb ; pdb.set_trace()
+>         ymax = None
+>         if 'Eta' in var or 'eta' in var or 'dRtt' in var or 'tau1Mass' in var or 'tau2Mass' in var :
+>          ymax = TightIsoOS.Hist("Data").GetMaximum()*1.8
+>         if var in logVars:
+>           ymax = TightIsoOS.Hist("Data").GetMaximum()*20.
+>           TightIsoOS.DrawStack("HIST",xmin,xmax,0.1,ymax)
+>         else :
+>           TightIsoOS.DrawStack("HIST",xmin,xmax,0. ,ymax)
+Index: python/proto/plotter/titles_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/titles_diTau.py,v
+retrieving revision 1.2
+diff -r1.2 titles_diTau.py
+17a18,19
+>     'jet1Btag'        : 'jet_{1} b-Tag',
+>     'jet2Btag'        : 'jet_{2} b-Tag',
+28a31
+>     'abs(dEtajj)'     : '|#Delta#eta(j,j)|',
+37,38c40,41
+<     'mt1'             : 'm_{T}^1',
+<     'mt2'             : 'm_{T}^2',
+---
+>     'mt1'             : 'm_{T}^{1}',
+>     'mt2'             : 'm_{T}^{2}',
+cvs diff: Diffing python/proto/samples
+cvs diff: Diffing python/proto/samples/run2012
+Index: python/proto/samples/run2012/data_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/samples/run2012/data_diTau.py,v
+retrieving revision 1.5
+diff -r1.5 data_diTau.py
+14c14
+<     intLumi = 806.194 + 82.136,
+---
+>     intLumi = 96.404 + 396.906 + 395.991,
+20c20
+<     intLumi = 4420.,
+---
+>     intLumi = 4429.,
+26c26
+<     intLumi = 493.975+6397.,
+---
+>     intLumi = 1783. + 5087. + 282.692,
+32c32
+<     intLumi = 7274.,
+---
+>     intLumi = 7318.,
+41c41
+<                      #data_Run2012A_22Jan2013_v1,
+---
+>                      data_Run2012A_22Jan2013_v1,
+Index: python/proto/samples/run2012/embed.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/samples/run2012/embed.py,v
+retrieving revision 1.13
+diff -r1.13 embed.py
+6c6
+< vertexFileDir = os.environ['CMSSW_BASE'] + '/src/CMGTools/RootTools/data/Reweight/2012/Vertices'
+---
+> vertexFileDir = os.environ['CMSSW_BASE'] + '/src/CMGTools/RootTools/embed/Reweight/2012/Vertices'
+8,11c8,9
+< # trigger list: 'HLT_Mu17_Mu8_v16', 'HLT_Mu17_Mu8_v17', 'HLT_Mu17_Mu8_v18', 'HLT_Mu17_Mu8_v19', 'HLT_Mu17_Mu8_v21', 'HLT_Mu17_Mu8_v22'
+< 
+< embed_Run2012A_22Jan = cfg.EmbedComponent(
+<     name = 'embed_Run2012A_22Jan',
+---
+> embed_Run2012A_22Jan2013_v1 = cfg.EmbedComponent(
+>     name = 'embed_Run2012A_22Jan2013_v1',
+18,19c16,17
+< embed_Run2012B_22Jan = cfg.EmbedComponent(
+<     name = 'embed_Run2012B_22Jan',
+---
+> embed_Run2012B_22Jan2013_v1 = cfg.EmbedComponent(
+>     name = 'embed_Run2012B_22Jan2013_v1',
+25,27c23,25
+<     
+< embed_Run2012C_22Jan = cfg.EmbedComponent(
+<     name = 'embed_Run2012C_22Jan',
+---
+> 
+> embed_Run2012C_22Jan2013_v1 = cfg.EmbedComponent(
+>     name = 'embed_Run2012C_22Jan2013_v1',
+33,35c31,33
+<     
+< embed_Run2012D_22Jan = cfg.EmbedComponent(
+<     name = 'embed_Run2012D_22Jan',
+---
+> 
+> embed_Run2012D_22Jan2013_v1 = cfg.EmbedComponent(
+>     name = 'embed_Run2012D_22Jan2013_v1',
+42,47c40,43
+<     
+< 
+< embed_list = [embed_Run2012A_22Jan,
+<               embed_Run2012B_22Jan,
+<               embed_Run2012C_22Jan,
+<               embed_Run2012D_22Jan
+---
+> embed_list = [embed_Run2012A_22Jan2013_v1,
+>               embed_Run2012B_22Jan2013_v1,
+>               embed_Run2012C_22Jan2013_v1,
+>               embed_Run2012D_22Jan2013_v1
+52a49,141
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> # 
+> # 
+> # embed_Run2012A_13Jul2012_v1 = cfg.EmbedComponent(
+> #     name = 'embed_Run2012A_13Jul2012_v1',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> # 
+> # embed_Run2012A_recover_06Aug2012_v1 = cfg.EmbedComponent(
+> #     name = 'embed_Run2012A_recover_06Aug2012_v1',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> # 
+> # embed_Run2012B_13Jul2012_v4 = cfg.EmbedComponent(
+> #     name = 'embed_Run2012B_13Jul2012_v4',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> #     
+> # embed_Run2012C_24Aug2012_v1 = cfg.EmbedComponent(
+> #     name = 'embed_Run2012C_24Aug2012_v1',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> #     
+> # embed_Run2012C_PromptReco_v2 = cfg.EmbedComponent(
+> #     name = 'embed_Run2012C_PromptReco_v2',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> # 
+> # embed_2012D_PromptReco_v1 = cfg.EmbedComponent(
+> #     name = 'embed_2012D_PromptReco_v1',
+> #     files = [],
+> #     intLumi = 1.0, # dummy
+> #     triggers = [],
+> #     json = None
+> #     )
+> # 
+> #     
+> # 
+> # embed_list = [embed_Run2012A_13Jul2012_v1,
+> #               #embed_Run2012A_recover_06Aug2012_v1,
+> #               embed_Run2012B_13Jul2012_v4,
+> #               embed_Run2012C_24Aug2012_v1,
+> #               embed_Run2012C_PromptReco_v2,
+> #               embed_2012D_PromptReco_v1
+> #               ]
+> # 
+> # 
+> # 
+> # 
+Index: python/proto/samples/run2012/ewk.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/samples/run2012/ewk.py,v
+retrieving revision 1.15
+diff -r1.15 ewk.py
+51a52,59
+> WJets_v2 = cfg.MCComponent(
+>     name = 'WJets_v2',
+>     files = [],
+>     xSection = 36257.2 ,
+>     nGenEvents = 1,
+>     triggers = [],
+>     effCorrFactor = 1 )
+> 
+83a92,117
+> W1Jets_new = cfg.MCComponent(
+>     name = 'W1Jets_new',
+>     files = [],
+>     xSection = 6440.4, #PG inclusive scaled according to LO XS
+>     nGenEvents = 1,
+>     triggers = [],
+>     effCorrFactor = 1 )
+> 
+> W2Jets_new = cfg.MCComponent(
+>     name = 'W2Jets_new',
+>     files = [],
+>     xSection = 2087.2, #PG inclusive scaled according to LO XS
+>     nGenEvents = 1,
+>     triggers = [],
+>     effCorrFactor = 1 )
+> 
+> W3Jets_new = cfg.MCComponent(
+>     name = 'W3Jets_new',
+>     files = [],
+>     xSection = 619.0, #PG inclusive scaled according to LO XS
+>     nGenEvents = 1,
+>     triggers = [],
+>     effCorrFactor = 1 )
+> 
+> 
+> 
+87c121,130
+<     xSection = 228.4, # correction factor from Valentina removed as it depends on the jet binning
+---
+>     #xSection = 228.4,  # correction factor from Valentina removed as it depends on the jet binning
+>     xSection = 249.5*0.96, # correction factor from Valentina removed as it depends on the jet binning
+>     nGenEvents = 1,
+>     triggers = [],
+>     effCorrFactor = 1 )
+> 
+> TTJets_emb = cfg.MCComponent(
+>     name = 'TTJets_emb',
+>     files = [],
+>     xSection = 1.,
+95c138,139
+<     xSection = 228.4*(1-0.676)*(1-0.676),
+---
+>     #xSection = 228.4*(1-0.676)*(1-0.676),
+>     xSection = 249.5*(1-0.676)*(1-0.676)*0.96,
+103c147,148
+<     xSection = 228.4*(1-0.676)*0.676*2,
+---
+>     #xSection = 228.4*(1-0.676)*0.676*2,
+>     xSection = 249.5*(1-0.676)*0.676*2*0.96,
+111c156,157
+<     xSection = 228.4*0.676*0.676,
+---
+>     #xSection = 228.4*0.676*0.676,
+>     xSection = 249.5*0.676*0.676*0.96,
+132,133d177
+< 
+< 
+143a188
+>     WJets_v2,
+149a195,201
+> mc_w_new = [
+>     W1Jets_new,
+>     W2Jets_new,
+>     W3Jets_new,
+>     ]
+> 
+> 
+156a209
+>     TTJets_emb,
+162a216
+> mc_ewk += mc_w_new
+Index: python/proto/samples/run2012/triggers_diTau.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/samples/run2012/triggers_diTau.py,v
+retrieving revision 1.8
+diff -r1.8 triggers_diTau.py
+41a42,51
+> emb_rechit_triggers = [
+>     'HLT_Mu17_Mu8_v16', 
+>     'HLT_Mu17_Mu8_v17', 
+>     'HLT_Mu17_Mu8_v18', 
+>     'HLT_Mu17_Mu8_v19', 
+>     'HLT_Mu17_Mu8_v21', 
+>     'HLT_Mu17_Mu8_v21', 
+>     'HLT_Mu17_Mu8_v22'
+>     ]
+> 
+cvs diff: Diffing python/proto/statistics
+cvs diff: Diffing python/proto/weights
+cvs diff: Diffing python/skims
+cvs diff: Diffing python/sources
+cvs diff: Diffing python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola
+cvs diff: Diffing python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1
+cvs diff: Diffing python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM
+cvs diff: Diffing python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2
+cvs diff: Diffing python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2/PAT_CMG_V2_3_0
+cvs diff: Diffing python/tools
+Index: python/tools/setupOutput.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/tools/setupOutput.py,v
+retrieving revision 1.5
+diff -r1.5 setupOutput.py
+5c5
+< def addOutput( process, type12, addDebugEventContent=False, addPreSel=True):
+---
+> def addOutput( process, type12, addDebugEventContent=False, addPreSel=True, RH_Emedded=False):
+42c42,51
+<         
+---
+>     
+>     if RH_Emedded :
+>       eventContent += [
+>        'keep *_embeddingKineReweightRECembedding_*_*',
+>        'keep *_TauSpinnerReco_*_*',
+>        'keep *_ZmumuEvtSelEffCorrWeightProducer_*_*',
+>        'keep *_muonRadiationCorrWeightProducer_*_*',
+>        'keep *_generator_*_*',
+>        'keep *_genTausFromZsForEmbeddingKineReweight_*_*',
+>        ] 
+79a89
+> #     import pdb ; pdb.set_trace()
+81a92,94
+>     
+> def addTauMuOutput( process, debugEventContent=False, addPreSel=True, RH_Emedded=False):
+>     addOutput(process,'tauMu', debugEventContent, addPreSel, RH_Emedded )
+83,87c96,97
+< def addTauMuOutput( process, debugEventContent=False, addPreSel=True):
+<     addOutput(process,'tauMu', debugEventContent, addPreSel )
+< 
+< def addTauEleOutput( process, debugEventContent=False, addPreSel=True ):
+<     addOutput(process,'tauEle', debugEventContent, addPreSel )
+---
+> def addTauEleOutput( process, debugEventContent=False, addPreSel=True, RH_Emedded=False ):
+>     addOutput(process,'tauEle', debugEventContent, addPreSel, RH_Emedded )
+89,90c99,100
+< def addMuEleOutput( process, debugEventContent=False, addPreSel=True ):
+<     addOutput(process,'muEle', debugEventContent, addPreSel )
+---
+> def addMuEleOutput( process, debugEventContent=False, addPreSel=True, RH_Emedded=False ):
+>     addOutput(process,'muEle', debugEventContent, addPreSel, RH_Emedded )
+92,93c102,103
+< def addDiTauOutput( process, debugEventContent=False, addPreSel=True ):
+<     addOutput(process,'diTau', debugEventContent, addPreSel )
+---
+> def addDiTauOutput( process, debugEventContent=False, addPreSel=True, RH_Emedded=False ):
+>     addOutput(process,'diTau', debugEventContent, addPreSel, RH_Emedded )
+Index: python/tools/setupRecoilCorrection.py
+===================================================================
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/tools/setupRecoilCorrection.py,v
+retrieving revision 1.23
+diff -r1.23 setupRecoilCorrection.py
+13c13
+<     zmm = 'recoilfit_zmm53X_20pv_njet.root',
+---
+>     zmm = 'recoilfit_zmm53XRR_2012_njet.root',
+18a19
+>     #zmm = 'recoilfit_zmm53XRR_2012_njet.root',
+61,64c62,65
+<     if lookup( fileName, 'GluGluToHToTauTau' ) or \
+<            lookup( fileName, 'VBF_HToTauTau' ) or \
+<            lookup( fileName, 'VBFHToTauTau' ) or \
+<            lookup( fileName, 'SUSYBBHToTauTau' ) or \
+---
+>     if lookup( fileName, 'GluGluToHToTauTau'         ) or \
+>            lookup( fileName, 'VBF_HToTau'            ) or \
+>            lookup( fileName, 'VBFHToTauTau'          ) or \
+>            lookup( fileName, 'SUSYBBHToTauTau'       ) or \
+66c67
+<            lookup( fileName, 'WH_ZH_TTH_HToTauTau' ):
+---
+>            lookup( fileName, 'WH_ZH_TTH_HToTauTau'   ):
+99,100c100,103
+<         fileZmmData = rootfile_dir + 'recoilfit_datamm53X_2012_njet.root'
+<         fileZmmMC = rootfile_dir + 'recoilfit_zmm53X_2012_njet.root'
+---
+>         #fileZmmData = rootfile_dir + 'recoilfit_datamm53X_2012_njet.root' # for Prompt Reco
+>         #fileZmmMC = rootfile_dir + 'recoilfit_zmm53X_2012_njet.root'      # for Prompt Reco
+>         fileZmmData = rootfile_dir + 'recoilfit_datamm53XRR_2012_njet.root'  # for ReReco
+>         fileZmmMC = rootfile_dir   + 'recoilfit_zmm53XRR_2012_njet.root'     # for ReReco
+cvs diff: Diffing scripts
+cvs diff: Diffing src
+cvs diff: Diffing workdir

@@ -1,0 +1,82 @@
+MCComponent: HiggsSUSYGluGlu300_Chunk0
+	addWeight      :   1.0
+	dataset_entries:   141299
+	effCorrFactor  :   1
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni/CMG/SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_13Sep_manzoni_MuTau_Nom/tauMu_fullsel_tree_CMG_1.root']
+	intLumi        :   1.0
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   True
+	jetScale       :   1.0
+	jetSmear       :   0.0
+	nGenEvents     :   910976.489472
+	name           :   HiggsSUSYGluGlu300_Chunk0
+	puFileData     :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/12-06-13/Data_Pileup_2012_ReReco-600bins.root
+	puFileMC       :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/07-01-13/MC_Summer12_PU_S10-600bins.root
+	splitFactor    :   50
+	triggers       :   ['HLT_IsoMu24_eta2p1_v13', 'HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4']
+	xSection       :   1.0
+0 :
+Analyzer: TriggerAnalyzer
+	name           :   TriggerAnalyzer
+	verbose        :   False :
+1 :
+Analyzer: VertexAnalyzer
+	fixedWeight    :   1
+	goodVertices   :   offlinePrimaryVertices
+	name           :   VertexAnalyzer
+	verbose        :   False :
+2 :
+Analyzer: TauMuAnalyzer
+	eta1           :   2.3
+	eta2           :   2.1
+	iso1           :   999
+	iso2           :   0.1
+	m_max          :   99999
+	m_min          :   10
+	name           :   TauMuAnalyzer
+	pt1            :   20
+	pt2            :   18
+	verbose        :   False :
+3 :
+Analyzer: VBFAnalyzer
+	Mjj            :   400
+	btagSFseed     :   123456
+	cjvPtCut       :   30.0
+	deltaEta       :   4.0
+	jetCol         :   cmgPFJetSel
+	jetEta         :   4.7
+	jetPt          :   30
+	looseJetPt     :   20
+	name           :   VBFAnalyzer
+	relaxJetId     :   False
+	vbfMvaWeights  :   /afs/cern.ch/user/m/manzoni/summer13/CMGTools/CMSSW_5_3_9/src/CMGTools/H2TauTau/data/VBFMVA_BDTG_HCP_52X.weights.xml
+	verbose        :   False :
+4 :
+Analyzer: PileUpAnalyzer
+	name           :   PileUpAnalyzer
+	true           :   True
+	verbose        :   False :
+5 :
+Analyzer: EmbedWeighter
+	isRecHit       :   False
+	name           :   EmbedWeighter
+	verbose        :   False :
+6 :
+Analyzer: LeptonWeighter_tau
+	effWeight      :   effTau2012AB
+	effWeightMC    :   effTau2012MC
+	lepton         :   leg1
+	name           :   LeptonWeighter_tau
+	verbose        :   False :
+7 :
+Analyzer: LeptonWeighter_mu
+	effWeight      :   effMu2012AB
+	effWeightMC    :   effMu2012MC
+	lepton         :   leg2
+	name           :   LeptonWeighter_mu
+	verbose        :   False :
+8 :
+Analyzer: H2TauTauTreeProducerTauMu
+	name           :   H2TauTauTreeProducerTauMu
+	verbose        :   False :

@@ -1,0 +1,31 @@
+starting loop at event 0 to process 4588 events.
+MCComponent: HiggsVH140
+	addWeight      :   1.0
+	branchingRatio :   0.0352
+	dataset_entries:   18117
+	effCorrFactor  :   1
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni/CMG/WH_ZH_TTH_HToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom/diTau_fullsel_tree_CMG_1.root']
+	intLumi        :   1.0
+	isData         :   False
+	isEmbed        :   False
+	isMC           :   True
+	jetScale       :   1.0
+	jetSmear       :   0.0
+	nGenEvents     :   200186.0
+	puFileData     :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/13-09-13/Data_Pileup_2012_ReRecoPixel-600bins.root
+	puFileMC       :   /afs/cern.ch/user/a/agilbert/public/HTT_Pileup/07-01-13/MC_Summer12_PU_S10-600bins.root
+	splitFactor    :   1
+	triggers       :   ['HLT_DoubleMediumIsoPFTau35_Trk5_eta2p1_v6', 'HLT_DoubleMediumIsoPFTau30_Trk5_eta2p1_Jet30_v2']
+	xSection       :   0.02698432
+beginLoop TriggerAnalyzer
+beginLoop VertexAnalyzer
+beginLoop TauTauAnalyzer
+beginLoop VBFAnalyzer
+beginLoop PileUpAnalyzer
+beginLoop EmbedWeighter
+beginLoop LeptonWeighter_diTau_tau1
+beginLoop LeptonWeighter_diTau_tau2
+beginLoop LeptonWeighter_diTauJet_tau1
+beginLoop LeptonWeighter_diTauJet_tau2
+beginLoop JetWeighter_diTauJet_jet1
+beginLoop H2TauTauTreeProducerTauTau

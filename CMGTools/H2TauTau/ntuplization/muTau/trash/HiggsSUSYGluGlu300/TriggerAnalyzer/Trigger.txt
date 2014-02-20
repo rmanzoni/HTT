@@ -1,0 +1,4 @@
+Counter Trigger :
+	 All events                                    3006 	 1.00 	 1.0000
+	 HLT                                           3006 	 1.00 	 1.0000
+

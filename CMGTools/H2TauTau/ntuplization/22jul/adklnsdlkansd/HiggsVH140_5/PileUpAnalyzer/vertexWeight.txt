@@ -1,0 +1,1 @@
+Average vertexWeight   :   0.9821 +-   0.0304

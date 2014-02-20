@@ -1,0 +1,1 @@
+cmgtools%/Tau/Run2012A-22Jan2013-v1/AOD/PAT_CMG_V5_16_0

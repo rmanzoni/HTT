@@ -1,0 +1,208 @@
+? RiccardoWD
+? cvsdiff.txt
+? ntuplization
+? Colin/13may
+? Colin/15may
+? Colin/3may
+? Colin/oldstuff
+? Colin/soupWdb3h.root
+? Colin/soupWdb3h_parked.root
+? Colin/soupWmva.root
+? Colin/soupWmva2.root
+? prod/13jun
+? python/__init__.py
+? python/eventContent/__init__.py
+? python/histograms/__init__.py
+? python/macros/__init__.py
+? python/macros/tests/__init__.py
+? python/macros/tests/Template/__init__.py
+? python/macros/tests/Template/DYJets/__init__.py
+? python/macros/tests/Template/TTJets/__init__.py
+? python/macros/tests/Template/WJets/__init__.py
+? python/macros/tests/Template/data_03Oct2011/__init__.py
+? python/macros/tests/Template/data_05Aug2011_v1/__init__.py
+? python/macros/tests/Template/data_May10ReReco_v1/__init__.py
+? python/macros/tests/Template/data_PromptReco_v4/__init__.py
+? python/macros/tests/Template/embed_03Oct2011/__init__.py
+? python/macros/tests/Template/embed_05Aug2011_v1/__init__.py
+? python/macros/tests/Template/embed_May10ReReco_v1/__init__.py
+? python/macros/tests/Template/embed_PromptReco_v4/__init__.py
+? python/macros/toodeldo/__init__.py
+? python/objects/__init__.py
+? python/proto/__init__.py
+? python/proto/Samples/__init__.py
+? python/proto/analyzers/.__afs64A5
+? python/proto/analyzers/__init__.py
+? python/proto/framework/__init__.py
+? python/proto/physicsobjects/__init__.py
+? python/proto/plotter/Comparator_OutDir
+? python/proto/plotter/Comparator_OutDir_boh
+? python/proto/plotter/Comparator_OutDir_boh2
+? python/proto/plotter/Comparator_OutDir_boh3
+? python/proto/plotter/Comparator_OutDir_bugged
+? python/proto/plotter/Comparator_OutDir_et_jet30
+? python/proto/plotter/Comparator_OutDir_et_mit_imperial
+? python/proto/plotter/Comparator_OutDir_et_mit_imperial_jet30
+? python/proto/plotter/Comparator_OutDir_good
+? python/proto/plotter/Comparator_OutDir_mt
+? python/proto/plotter/Comparator_OutDir_mt_jet30
+? python/proto/plotter/Comparator_OutDir_mt_mit_imperial
+? python/proto/plotter/Comparator_OutDir_mt_mit_imperial_jet30
+? python/proto/plotter/Comparator_OutDir_tt
+? python/proto/plotter/Comparator_OutDir_tt2
+? python/proto/plotter/Comparator_OutDir_withCut
+? python/proto/plotter/__init__.py
+? python/proto/samples/__init__.py
+? python/proto/samples/run2012/__init__.py
+? python/proto/samples/run2012/diTau_Colin_Feb8.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_down.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_nom.py
+? python/proto/samples/run2012/diTau_Colin_Feb8_up.py
+? python/proto/samples/run2012/higgs_susy.py
+? python/proto/statistics/__init__.py
+? python/proto/weights/__init__.py
+? python/skims/__init__.py
+? python/sources/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2/__init__.py
+? python/sources/VBF_HToTauTau_M_115_7TeV_powheg_pythia6_tauola/Summer11_PU_S4_START42_V11_v1/AODSIM/V2/PAT_CMG_V2_3_0/__init__.py
+? python/tools/__init__.py
+? python/tools/jsonPick.py.ric
+M Colin/cookWSoup_2012.py
+U BuildFile.xml
+U Colin/localCopy_cfg.py
+U Colin/tauMu_2012_cfg.py
+U Colin/tauMu_2012_sync_cfg.py
+U data/weight_ptH_125_8TeV.root
+U interface/DiObjectUpdateFactory.h
+U interface/DiTauObjectFactory.h
+M interface/TriggerEfficiency.h
+U interface/DiTauWithSVFitProducer.h
+U plugins/BaseFlatNtp.cc
+U plugins/BaseFlatNtp.h
+U plugins/H2TauTauTools.cc
+U plugins/H2TauTauTools.h
+U plugins/TauEleFlatNtp.cc
+U plugins/TauMuFlatNtp.cc
+U prod/PATCMG_V5_14_0_PFEmbedded.py
+M prod/h2TauTau_cfg.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/prod/h2TauTau_diTau_cfg.py,v
+retrieving revision 1.5
+retrieving revision 1.6
+Merging differences between 1.5 and 1.6 into h2TauTau_diTau_cfg.py
+C prod/h2TauTau_diTau_cfg.py
+U prod/PATCMG_V5_16_0_RHEmbedded.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/officialJSONS.py,v
+retrieving revision 1.11
+retrieving revision 1.14
+Merging differences between 1.11 and 1.14 into officialJSONS.py
+C python/officialJSONS.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/objects/diTauObjectsMVAMET_cff.py,v
+retrieving revision 1.7
+retrieving revision 1.8
+Merging differences between 1.7 and 1.8 into diTauObjectsMVAMET_cff.py
+C python/objects/diTauObjectsMVAMET_cff.py
+U prod/skim_baseline_cfg.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/objects/tauCuts_cff.py,v
+retrieving revision 1.16
+retrieving revision 1.17
+Merging differences between 1.16 and 1.17 into tauCuts_cff.py
+M python/objects/tauCuts_cff.py
+U python/objects/diTauSVFit_cfi.py
+U python/objects/tauEleObjectsMVAMET_cff.py
+U python/objects/tauEleSVFit_cfi.py
+U python/objects/tauMuObjectsMVAMET_cff.py
+U python/objects/tauMuSVFit_cfi.py
+M python/proto/analyzers/H2TauTauSyncTreeTauTau.py
+U python/proto/analyzers/H2TauTauSyncTree.py
+M python/proto/analyzers/H2TauTauTreeProducerTauTau.py
+M python/proto/analyzers/JetWeighter.py
+M python/proto/analyzers/LeptonWeighter.py
+U python/proto/analyzers/H2TauTauTreeProducerTauMu.py
+U python/proto/analyzers/TauEleAnalyzer.py
+M python/proto/analyzers/TauTauAnalyzer.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/analyzers/VBFAnalyzer.py,v
+retrieving revision 1.23
+retrieving revision 1.26
+Merging differences between 1.23 and 1.26 into VBFAnalyzer.py
+C python/proto/analyzers/VBFAnalyzer.py
+U python/proto/analyzers/TauMuAnalyzer.py
+U python/proto/analyzers/WNJetsTreeAnalyzer.py
+M python/proto/plotter/DYEstimate_diTau.py
+U python/proto/analyzers/ntuple.py
+M python/proto/plotter/PrepareDictionaries_diTau.py
+M python/proto/plotter/QCDEstimation_diTau.py
+M python/proto/plotter/SaveHistograms_diTau.py
+M python/proto/plotter/binning.py
+U python/proto/plotter/H2TauTauDataMC.py
+U python/proto/plotter/categories_TauMu.py
+M python/proto/plotter/cuts_diTau.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/plotter/httSyncCompare.py,v
+retrieving revision 1.3
+retrieving revision 1.4
+Merging differences between 1.3 and 1.4 into httSyncCompare.py
+C python/proto/plotter/httSyncCompare.py
+U python/proto/plotter/categories_common.py
+M python/proto/plotter/plot_H2TauTauDataMC_diTau.py
+U python/proto/plotter/plot_H2TauTauDataMC_TauMu_Inclusive.py
+U python/proto/plotter/plotmod.py
+M python/proto/plotter/titles_diTau.py
+U python/proto/plotter/rootutils.py
+U python/proto/samples/run2012/WJets_JanMay29.py
+M python/proto/samples/run2012/data_diTau.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/proto/samples/run2012/embed.py,v
+retrieving revision 1.11
+retrieving revision 1.12
+Merging differences between 1.11 and 1.12 into embed.py
+C python/proto/samples/run2012/embed.py
+M python/proto/samples/run2012/ewk.py
+U python/proto/samples/run2012/data.py
+U python/proto/samples/run2012/tauEle_Sync_Jan.py
+U python/proto/samples/run2012/tauMu_ColinApr26.py
+U python/proto/samples/run2012/tauMu_JanJun18.py
+U python/proto/samples/run2012/tauMu_JanMay23.py
+U python/proto/samples/run2012/tauMu_Sync_Colin.py
+M python/proto/samples/run2012/triggers_diTau.py
+U python/proto/samples/run2012/test_forMike.py
+U python/proto/weights/ele_id_tauele_2012.txt
+U python/proto/weights/ele_iso_tauele_2012.txt
+U python/proto/weights/mu_id_taumu_2012.txt
+U python/proto/weights/mu_iso_taumu_2012.txt
+U python/skims/skim_cff.py
+U python/tools/joseFlatNtpSample44X_cff.py
+U python/tools/joseFlatNtpSample53X_cff.py
+RCS file: /local/reps/CMSSW/UserCode/CMG/CMGTools/H2TauTau/python/tools/setupJSON.py,v
+retrieving revision 1.6
+retrieving revision 1.7
+Merging differences between 1.6 and 1.7 into setupJSON.py
+C python/tools/setupJSON.py
+U python/tools/joseFlatNtpSample_cfi.py
+U scripts/diffEventList.py
+U scripts/eventList.py
+U workdir/Sample.C
+U workdir/Sample.h
+U workdir/TauElePlotter.C
+U workdir/TauElePlotter.h
+U workdir/TauMuPlotter.C
+U workdir/TauMuPlotter.h
+U workdir/combineDataCardsSM.C
+U workdir/configTauEle2012Summer13.C
+U workdir/configTauMu2012ABCD.C
+U workdir/configTauMu2012Summer13.C
+U workdir/constants.h
+U workdir/dataCardSM.C
+U workdir/dataCardSMETau.sh
+U workdir/dataCardSMMuTau.sh
+U workdir/flatNtpTauEle201144X_cfg.py
+U workdir/flatNtpTauEle201253X_cfg.py
+U workdir/flatNtpTauMu201144X_cfg.py
+U workdir/flatNtpTauMu201253X_cfg.py
+U workdir/histosForDataCardSM.C
+U workdir/makeRootCards.sh
+U workdir/mergeDataCardsSM.C
+U workdir/plotTauEle2012.C
+U workdir/plotTauMu2012.C
+U workdir/runLimitsPerCategory.pl
+U workdir/tarplots.csh

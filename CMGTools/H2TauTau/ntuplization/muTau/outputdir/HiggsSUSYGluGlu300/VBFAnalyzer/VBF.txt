@@ -1,0 +1,8 @@
+Counter VBF :
+	 all events                                   69627 	 1.00 	 1.0000
+	 at least 2 good jets                         67147 	 0.96 	 0.9644
+	 at least 2 clean jets                        14689 	 0.22 	 0.2110
+	 M_jj > 400.0                                  2949 	 0.20 	 0.0424
+	 delta Eta > 4.0                               1203 	 0.41 	 0.0173
+	 no central jets                               1013 	 0.84 	 0.0145
+

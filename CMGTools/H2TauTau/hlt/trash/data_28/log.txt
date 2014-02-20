@@ -1,0 +1,54 @@
+starting loop at event 0 to process 22400 events.
+DataComponent: data
+	dataset_entries:   0
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_100_1_FTV.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_101_1_p84.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_102_1_PmD.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_103_1_uaQ.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_104_1_mFb.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_105_1_auU.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_106_1_RdW.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_107_1_gYi.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_108_1_Bug.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_109_1_ZOw.root']
+	intLumi        :   7369.0
+	isData         :   True
+	isEmbed        :   False
+	isMC           :   False
+	json           :   None
+	nGenEvents     :   1.0
+	splitFactor    :   1
+	triggers       :   []
+	xSection       :   1.0
+beginLoop hltTauPat
+
+Analyzer: hltTauPat
+	diLeptonCutString:   
+	eta            :   999
+	filename       :   myoutput.root
+	iso_cut_muon   :   2.0
+	iso_cut_tau    :   2.0
+	m_max          :   99999
+	m_min          :   0
+	pt             :   0.0
+	verbose        :   False
+Counter DiLepton :
+	 all events                                       0 	 -1.00 	 -1.0000
+	 > 0 di-lepton                                    0 	 -1.00 	 -1.0000
+	 lepton accept                                    0 	 -1.00 	 -1.0000
+	 third lepton veto                                0 	 -1.00 	 -1.0000
+	 leg1 offline cuts passed                         0 	 -1.00 	 -1.0000
+	 leg1 trig matched                                0 	 -1.00 	 -1.0000
+	 leg2 offline cuts passed                         0 	 -1.00 	 -1.0000
+	 leg2 trig matched                                0 	 -1.00 	 -1.0000
+	 0.0 < m < 99999.0                                0 	 -1.00 	 -1.0000
+	 exactly 1 di-lepton                              0 	 -1.00 	 -1.0000
+
+
+
+
+DataComponent: data
+	dataset_entries:   0
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_100_1_FTV.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_101_1_p84.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_102_1_PmD.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_103_1_uaQ.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_104_1_mFb.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_105_1_auU.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_106_1_RdW.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_107_1_gYi.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_108_1_Bug.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_final_109_1_ZOw.root']
+	intLumi        :   7369.0
+	isData         :   True
+	isEmbed        :   False
+	isMC           :   False
+	json           :   None
+	nGenEvents     :   1.0
+	splitFactor    :   1
+	triggers       :   []
+	xSection       :   1.0
+
+number of events processed: 22400

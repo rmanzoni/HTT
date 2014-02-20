@@ -1,0 +1,33 @@
+ccopy_reg
+_reconstructor
+p0
+(cCMGTools.RootTools.statistics.Counter
+Counter
+p1
+c__builtin__
+list
+p2
+(lp3
+(lp4
+S'events tested'
+p5
+aI2
+aa(lp6
+S'events passed'
+p7
+aI0
+aatp8
+Rp9
+(dp10
+S'name'
+p11
+S'HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4'
+p12
+sS'dico'
+p13
+(dp14
+g7
+I1
+sg5
+I0
+ssb.

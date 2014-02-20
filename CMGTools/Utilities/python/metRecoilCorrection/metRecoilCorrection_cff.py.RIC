@@ -1,0 +1,48 @@
+import FWCore.ParameterSet.Config as cms
+
+from CMGTools.Utilities.metRecoilCorrection.recoilCorrectedMETTauMu_cfi import *
+from CMGTools.Utilities.metRecoilCorrection.recoilCorrectedMETTauEle_cfi import *
+from CMGTools.Utilities.metRecoilCorrection.recoilCorrectedMETMuEle_cfi import *
+from CMGTools.Utilities.metRecoilCorrection.recoilCorrectedMETDiTau_cfi import *
+from CMGTools.Common.generator.genWorZ_cfi import *
+from SimGeneral.HepPDTESSource.pythiapdt_cfi import *
+
+
+from CMGTools.Common.skims.cmgPFJetSel_cfi import cmgPFJetSel
+cmgPFJetForRecoil = cmgPFJetSel.clone(
+    #cut = 'pt()>30 && abs(eta)<4.5 && getSelection("cuts_looseJetId") && passLooseFullPuJetId()',
+
+    ## need to modify the PF and PU JetID by hand https://twiki.cern.ch/twiki/bin/viewauth/CMS/JetID
+    cut = '((0.00<=abs(eta()) & abs(eta())<2.50 & puMva("full53x")>-0.63) ||\
+            (2.50<=abs(eta()) & abs(eta())<2.75 & puMva("full53x")>-0.60) ||\
+            (2.75<=abs(eta()) & abs(eta())<3.00 & puMva("full53x")>-0.55) ||\
+            (3.00<=abs(eta()) & abs(eta())<5.00 & puMva("full53x")>-0.45) ) &&\
+           pt()>30 && abs(eta)<4.5 &&\
+           ( abs(eta()) <= 2.4                                         && \
+             (component(1).fraction()                           > 0    && \
+              component(2).fraction()                           < 0.99 && \
+              component(4).fraction()                           < 0.99 && \
+              component(5).fraction()                           < 0.99 && \
+              component(1).number()                             > 0    && \
+              nConstituents()                                   > 1   )|| \
+             abs(eta()) > 2.4                                          && \
+             (component(4).fraction()                           < 0.99 && \
+              component(5).fraction()                           < 0.99 && \
+              nConstituents()                                   > 1    ) \
+           )', 
+    src = 'cmgPFJetSel')
+
+
+metRecoilCorrectionInputSequence = cms.Sequence(
+    cmgPFJetForRecoil +
+    genWorZ 
+    )
+
+metRecoilCorrectionSequence  = cms.Sequence(
+    metRecoilCorrectionInputSequence +
+    recoilCorrectedMETTauMu  + 
+    recoilCorrectedMETTauEle  +
+    recoilCorrectedMETMuEle 
+    # Recoil corrections for DiTau case not studied at all yet
+    #recoilCorrectedMETDiTau 
+    )

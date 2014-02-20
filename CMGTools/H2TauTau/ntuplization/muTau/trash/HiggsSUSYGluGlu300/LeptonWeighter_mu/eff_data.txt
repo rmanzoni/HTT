@@ -1,0 +1,1 @@
+Average eff_data       :   0.8972 +-   0.0012

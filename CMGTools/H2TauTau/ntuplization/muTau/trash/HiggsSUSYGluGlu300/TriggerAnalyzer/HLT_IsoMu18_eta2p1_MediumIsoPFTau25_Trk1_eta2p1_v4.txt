@@ -1,0 +1,4 @@
+Counter HLT_IsoMu18_eta2p1_MediumIsoPFTau25_Trk1_eta2p1_v4 :
+	 events tested                                    2 	 1.00 	 1.0000
+	 events passed                                    0 	 0.00 	 0.0000
+

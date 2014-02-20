@@ -1,0 +1,14 @@
+starting loop at event 0 to process 1000 events.
+DataComponent: data
+	dataset_entries:   0
+	files          :   ['root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_100_1_Oau.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_100_1_YGZ.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_101_1_ZQ2.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_101_1_ptq.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_102_1_2wu.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_102_1_qoT.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_103_1_bxv.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_103_1_j3p.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_104_1_MEA.root', 'root://eoscms//eos/cms/store/cmst3/user/manzoni//HLTTau_v2/patTuple_104_1_nG4.root']
+	intLumi        :   7369.0
+	isData         :   True
+	isEmbed        :   False
+	isMC           :   False
+	json           :   None
+	nGenEvents     :   1.0
+	splitFactor    :   1
+	triggers       :   []
+	xSection       :   1.0
+beginLoop hltTauPat

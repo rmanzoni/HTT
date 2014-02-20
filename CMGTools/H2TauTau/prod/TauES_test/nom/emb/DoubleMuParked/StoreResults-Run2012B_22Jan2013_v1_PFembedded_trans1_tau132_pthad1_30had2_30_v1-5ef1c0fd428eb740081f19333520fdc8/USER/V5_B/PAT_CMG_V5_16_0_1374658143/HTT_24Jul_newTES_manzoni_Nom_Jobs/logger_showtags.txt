@@ -1,0 +1,38 @@
+Test Release based on: CMSSW_5_3_9
+Base Release in: /afs/cern.ch/cms/slc5_amd64_gcc462/cms/cmssw/CMSSW_5_3_9
+Your Test release in: /afs/cern.ch/user/m/manzoni/summer13/CMGTools/CMSSW_5_3_9
+--- Tag ---    -------- Package --------                        
+JoseApr3       AnalysisDataFormats/CMGTools                     
+JoseApr3       CMGTools/Common                                  
+V00-03-03      CMGTools/External                                
+JoseApr3       CMGTools/H2TauTau                                
+wreece_140113  CMGTools/Production                              
+cbern_15Jan13  CMGTools/RootTools                               
+JoseApr3       CMGTools/Utilities                               
+cbern_local_12Dec12 CMGTools/ZJetsTutorial                           
+V00-04-01      CondFormats/EgammaObjects                        
+V00-11-17      DPGAnalysis/SiStripTools                         
+V01-00-11-01   DPGAnalysis/Skims                                
+V06-05-06-08   DataFormats/PatCandidates                        
+V00-02-14      DataFormats/StdDictionaries                      
+V00-00-30-01   EGamma/EGammaAnalysisTools                       
+cbern_09May12  EGamma/EGammaAnalysisToolsSiXie                  
+Moriond_2013_V01-1 EgammaAnalysis/ElectronTools                     
+V00-00-70      FWCore/GuiBrowsers                               
+V00-00-09      Muon/MuonAnalysisTools                           
+V08-09-55      PhysicsTools/PatAlgos                            
+V03-09-28      PhysicsTools/PatUtils                            
+V09-00-01      RecoEgamma/EgammaTools                           
+V04-02-02      RecoLuminosity/LumiDB                            
+V00-00-08      RecoMET/METAnalyzers                             
+V00-00-13      RecoMET/METFilters                               
+V03-03-12-02   RecoMET/METProducers                             
+V15-02-09      RecoParticleFlow/PFProducer                      
+wreece_020512  RecoParticleFlow/PostProcessing                  
+V01-04-10      RecoTauTag/Configuration                         
+V01-04-23      RecoTauTag/RecoTau                               
+V00-02-03s     TauAnalysis/CandidateTools                       
+b5_3_x_analysis_2013Jun18 TauAnalysis/MCEmbeddingTools                     
+joseMay18      TauAnalysis/SVFitStandAlone                      
+---------------------------------------
+total packages: 32 (32 displayed)

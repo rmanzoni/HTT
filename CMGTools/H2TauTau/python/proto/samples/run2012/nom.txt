@@ -1,0 +1,1436 @@
+HiggsVBF90 sigma*br = 0.1825103 sigma = 2.191 br = 0.0833
+HiggsVBF95 sigma*br = 0.1733888 sigma = 2.084 br = 0.0832
+HiggsVBF100 sigma*br = 0.1646064 sigma = 1.988 br = 0.0828
+HiggsVBF105 sigma*br = 0.1549849 sigma = 1.897 br = 0.0817
+HiggsVBF110 sigma*br = 0.1438155 sigma = 1.809 br = 0.0795
+HiggsVBF115 sigma*br = 0.1310582 sigma = 1.729 br = 0.0758
+HiggsVBF120 sigma*br = 0.1160896 sigma = 1.649 br = 0.0704
+HiggsVBF125 sigma*br = 0.0997296 sigma = 1.578 br = 0.0632
+HiggsVBF130 sigma*br = 0.0823495 sigma = 1.511 br = 0.0545
+HiggsVBF135 sigma*br = 0.0650152 sigma = 1.448 br = 0.0449
+HiggsVBF140 sigma*br = 0.0488928 sigma = 1.389 br = 0.0352
+HiggsVBF145 sigma*br = 0.0347913 sigma = 1.333 br = 0.0261
+HiggsVBF150 sigma*br = 0.022912 sigma = 1.28 br = 0.0179
+Higgs mass 155.0 not found in cross section tables. Interpolating linearly at +- 1 GeV...
+HiggsVBF155 sigma*br = 0.0129255 sigma = 1.231 br = 0.0105
+HiggsVBF160 sigma*br = 0.0046926 sigma = 1.185 br = 0.00396
+HiggsVBFtoWW125 sigma*br = 0.33927 sigma = 1.578 br = 0.215
+HiggsGGH90 sigma*br = 3.017959 sigma = 36.23 br = 0.0833
+HiggsGGH95 sigma*br = 2.719808 sigma = 32.69 br = 0.0832
+HiggsGGH100 sigma*br = 2.457504 sigma = 29.68 br = 0.0828
+HiggsGGH105 sigma*br = 2.206717 sigma = 27.01 br = 0.0817
+HiggsGGH110 sigma*br = 1.96365 sigma = 24.7 br = 0.0795
+HiggsGGH115 sigma*br = 1.717628 sigma = 22.66 br = 0.0758
+HiggsGGH120 sigma*br = 1.468544 sigma = 20.86 br = 0.0704
+HiggsGGH125 sigma*br = 1.217864 sigma = 19.27 br = 0.0632
+HiggsGGH130 sigma*br = 0.972825 sigma = 17.85 br = 0.0545
+HiggsGGH135 sigma*br = 0.743993 sigma = 16.57 br = 0.0449
+HiggsGGH140 sigma*br = 0.542784 sigma = 15.42 br = 0.0352
+HiggsGGH145 sigma*br = 0.377406 sigma = 14.46 br = 0.0261
+HiggsGGH150 sigma*br = 0.242545 sigma = 13.55 br = 0.0179
+Higgs mass 155.0 not found in cross section tables. Interpolating linearly at +- 1 GeV...
+HiggsGGH155 sigma*br = 0.1337175 sigma = 12.735 br = 0.0105
+HiggsGGH160 sigma*br = 0.0473616 sigma = 11.96 br = 0.00396
+HiggsGGHtoWW125 sigma*br = 4.14305 sigma = 19.27 br = 0.215
+HiggsVH90 sigma*br = 0.2567306 sigma = 3.082 br = 0.0833
+HiggsVH95 sigma*br = 0.21909056 sigma = 2.6333 br = 0.0832
+HiggsVH100 sigma*br = 0.18689616 sigma = 2.2572 br = 0.0828
+HiggsVH105 sigma*br = 0.15884114 sigma = 1.9442 br = 0.0817
+HiggsVH110 sigma*br = 0.13383825 sigma = 1.6835 br = 0.0795
+HiggsVH115 sigma*br = 0.11084992 sigma = 1.4624 br = 0.0758
+HiggsVH120 sigma*br = 0.08984448 sigma = 1.2762 br = 0.0704
+HiggsVH125 sigma*br = 0.07077768 sigma = 1.1199 br = 0.0632
+HiggsVH130 sigma*br = 0.053628 sigma = 0.984 br = 0.0545
+HiggsVH135 sigma*br = 0.03895075 sigma = 0.8675 br = 0.0449
+HiggsVH140 sigma*br = 0.02698432 sigma = 0.7666 br = 0.0352
+HiggsVH145 sigma*br = 0.01774539 sigma = 0.6799 br = 0.0261
+HiggsVH150 sigma*br = 0.01080444 sigma = 0.6036 br = 0.0179
+Higgs mass 155.0 not found in cross section tables. Interpolating linearly at +- 1 GeV...
+HiggsVH155 sigma*br = 0.005615925 sigma = 0.53485 br = 0.0105
+HiggsVH160 sigma*br = 0.001849716 sigma = 0.4671 br = 0.00396
+HiggsVHtoWW125 sigma*br = 0.2407785 sigma = 1.1199 br = 0.215
+WARNING no component found for compName DY1Jets
+WARNING no component found for compName DY2Jets
+WARNING no component found for compName DY3Jets
+WARNING no component found for compName DY4Jets
+WARNING no component found for compName DYJets
+WARNING no component found for compName embed_Run2012A_22Jan2013_v1
+WARNING no component found for compName embed_Run2012B_22Jan2013_v1
+WARNING no component found for compName embed_Run2012C_22Jan2013_v1
+WARNING no component found for compName embed_Run2012D_22Jan2013_v1
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42915
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42914
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH120
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH135
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH145
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42905
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42917
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42916
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH95
+WARNING no component found for compName HiggsGGH125
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42975
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42958
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42961
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42963
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42965
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB250
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42966
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB350
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42968
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB400
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB700
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42954
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu110
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42938
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42940
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42944
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu250
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu350
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu400
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42948
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu700
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42952
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu900
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42935
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu90
+LOADING: TTJetsFullLept /TTJets_FullLeptMGDecays_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v2/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 12011428 0.994663 https://savannah.cern.ch/task/?45024
+reading cache
+WARNING: cannot find alias for /TTJets_FullLeptMGDecays_8TeV-madgraph/StoreResults-Summer12_DR53X_PU_S10_START53_V7A_v1_ReplaceRecMuons_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_HadronicMGDecays_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A_ext-v1/AODSIM/V5/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+LOADING: TTJetsSemiLept /TTJets_SemiLeptMGDecays_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 24953451 0.997668 https://savannah.cern.ch/task/?45025
+reading cache
+LOADING: T_tW /T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 497658 1.0 https://savannah.cern.ch/task/?45020
+reading cache
+LOADING: data_Run2012A_22Jan2013_v1 /Tau/Run2012A-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 4316637 1.0 https://savannah.cern.ch/task/?44950
+reading cache
+LOADING: data_Run2012B_22Jan2013_v1 /TauParked/Run2012B-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 46187183 1.0 https://savannah.cern.ch/task/?44951
+reading cache
+LOADING: data_Run2012C_22Jan2013_v1 /TauParked/Run2012C-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 58371814 1.0 https://savannah.cern.ch/task/?44952
+reading cache
+LOADING: data_Run2012D_22Jan2013_v1 /TauParked/Run2012D-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 63220920 1.0 https://savannah.cern.ch/task/?44953
+reading cache
+LOADING: Tbar_tW /Tbar_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 493460 1.0 https://savannah.cern.ch/task/?45021
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42899
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF95
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF115
+WARNING no component found for compName HiggsVBF120
+WARNING no component found for compName HiggsVBF125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF130
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF135
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42894
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF140
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF145
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF155
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF160
+WARNING no component found for compName HiggsVBF125
+LOADING: W1Jets /W1JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 23141598 0.978294 https://savannah.cern.ch/task/?45013
+reading cache
+LOADING: W2Jets /W2JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 34044921 0.979962 https://savannah.cern.ch/task/?45014
+reading cache
+LOADING: W3Jets /W3JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 15539503 0.976581067416 https://savannah.cern.ch/task/?45015
+reading cache
+LOADING: W4Jets /W4JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 13382803 0.975774022989 https://savannah.cern.ch/task/?45016
+reading cache
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH120
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42925
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH125
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42924
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH135
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH145
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH150
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH95
+WARNING no component found for compName HiggsVH125
+LOADING: WJets /WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 18393090 0.992534 https://savannah.cern.ch/task/?45011
+reading cache
+LOADING: WJets_v2 /WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 57709905 0.988854 https://savannah.cern.ch/task/?45012
+reading cache
+LOADING: WWJetsTo2L2Nu /WWJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 1933235 0.982156 https://savannah.cern.ch/task/?45336
+reading cache
+LOADING: WW /WW_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 10000431 0.997611 https://savannah.cern.ch/task/?45017
+reading cache
+LOADING: WZJetsTo2L2Q /WZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 3215990 1.0 https://savannah.cern.ch/task/?45337
+reading cache
+LOADING: WZJetsTo3LNu /WZJetsTo3LNu_TuneZ2_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 2017979 0.994619 https://savannah.cern.ch/task/?45338
+reading cache
+LOADING: WZ /WZ_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 10000283 0.997856 https://savannah.cern.ch/task/?45018
+reading cache
+LOADING: ZZJetsTo2L2Nu /ZZJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v3/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 954911 0.991963 https://savannah.cern.ch/task/?45340
+reading cache
+LOADING: ZZJetsTo2L2Q /ZZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 1936727 1.0 https://savannah.cern.ch/task/?45341
+reading cache
+LOADING: ZZJetsTo4L /ZZJetsTo4L_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 4807893 1.0 https://savannah.cern.ch/task/?45339
+reading cache
+LOADING: ZZ /ZZ_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 9799908 0.997575 https://savannah.cern.ch/task/?45019
+reading cache
+LOADING: DY1Jets /DY1JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 24045248 0.999005 https://savannah.cern.ch/task/?47328
+reading cache
+LOADING: DY2Jets /DY2JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 21852156 1.0 https://savannah.cern.ch/task/?47329
+reading cache
+LOADING: DY3Jets /DY3JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 11015445 1.0 https://savannah.cern.ch/task/?47330
+reading cache
+LOADING: DY4Jets /DY4JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 6402827 1.0 https://savannah.cern.ch/task/?47331
+reading cache
+LOADING: DYJets /DYJetsToLL_M-50_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 30459503 0.997196 https://savannah.cern.ch/task/?45271
+reading cache
+WARNING no component found for compName embed_Run2012A_22Jan2013_v1
+WARNING no component found for compName embed_Run2012B_22Jan2013_v1
+WARNING no component found for compName embed_Run2012C_22Jan2013_v1
+WARNING no component found for compName embed_Run2012D_22Jan2013_v1
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42915
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH100 /GluGluToHToTauTau_M-100_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999901 1.0 https://savannah.cern.ch/task/?47071
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42914
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH105 /GluGluToHToTauTau_M-105_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999902 1.0 https://savannah.cern.ch/task/?47072
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH110 /GluGluToHToTauTau_M-110_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999907 1.0 https://savannah.cern.ch/task/?47074
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH115 /GluGluToHToTauTau_M-115_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 917825 1.0 https://savannah.cern.ch/task/?47075
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH120 /GluGluToHToTauTau_M-120_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 4999561 0.996926 https://savannah.cern.ch/task/?47077
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH125 /GluGluToHToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 968134 1.010329 https://savannah.cern.ch/task/?45272
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH130 /GluGluToHToTauTau_M-130_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999921 1.0 https://savannah.cern.ch/task/?47078
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH135 /GluGluToHToTauTau_M-135_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 860729 1.011618 https://savannah.cern.ch/task/?47080
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH140 /GluGluToHToTauTau_M-140_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999932 1.0 https://savannah.cern.ch/task/?47081
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH145 /GluGluToHToTauTau_M-145_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 962119 1.0 https://savannah.cern.ch/task/?47083
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42905
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH150 /GluGluToHToTauTau_M-150_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999309 1.010329 https://savannah.cern.ch/task/?47084
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH155 /GluGluToHToTauTau_M-155_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 907810 1.0 https://savannah.cern.ch/task/?47086
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH160 /GluGluToHToTauTau_M-160_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999911 1.0 https://savannah.cern.ch/task/?47087
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42917
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH90 /GluGluToHToTauTau_M-90_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999900 1.0 https://savannah.cern.ch/task/?47068
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42916
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH95 /GluGluToHToTauTau_M-95_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999918 1.0 https://savannah.cern.ch/task/?47069
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42975
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB1000 /SUSYBBHToTauTau_M-1000_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 987947 0.979916 https://savannah.cern.ch/task/?47101
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB100 /SUSYBBHToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000320 0.990003 https://savannah.cern.ch/task/?47060
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42958
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB110 /SUSYBBHToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999600 0.989751 https://savannah.cern.ch/task/?47061
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB120 /SUSYBBHToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 991913 0.969755 https://savannah.cern.ch/task/?47062
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB130 /SUSYBBHToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000008 0.96 https://savannah.cern.ch/task/?47063
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42961
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB140 /SUSYBBHToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 993600 0.979916 https://savannah.cern.ch/task/?47064
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB160 /SUSYBBHToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 975000 0.989744 https://savannah.cern.ch/task/?47065
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42963
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB180 /SUSYBBHToTauTau_M-180_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 981022 0.990003 https://savannah.cern.ch/task/?47066
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB200 /SUSYBBHToTauTau_M-200_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999408 0.969982 https://savannah.cern.ch/task/?47067
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42965
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB250 /SUSYBBHToTauTau_M-250_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988200 1.0 https://savannah.cern.ch/task/?47070
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42966
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB300 /SUSYBBHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999900 1.0 https://savannah.cern.ch/task/?47073
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB350 /SUSYBBHToTauTau_M-350_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 982080 0.95927 https://savannah.cern.ch/task/?47076
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42968
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB400 /SUSYBBHToTauTau_M-400_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998702 0.989799 https://savannah.cern.ch/task/?47079
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB450 /SUSYBBHToTauTau_M-450_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 973830 0.969194 https://savannah.cern.ch/task/?47082
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB500 /SUSYBBHToTauTau_M-500_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999976 0.949999 https://savannah.cern.ch/task/?47085
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB600 /SUSYBBHToTauTau_M-600_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 993061 0.949651 https://savannah.cern.ch/task/?47088
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB700 /SUSYBBHToTauTau_M-700_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 996960 0.979939 https://savannah.cern.ch/task/?47091
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB800 /SUSYBBHToTauTau_M-800_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000432 1.0 https://savannah.cern.ch/task/?47094
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB80 /SUSYBBHToTauTau_M-80_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 996592 0.949829 https://savannah.cern.ch/task/?47058
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB900 /SUSYBBHToTauTau_M-900_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997674 1.0 https://savannah.cern.ch/task/?47097
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB90 /SUSYBBHToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995840 0.979916 https://savannah.cern.ch/task/?47059
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42954
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu1000 /SUSYGluGluToHToTauTau_M-1000_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000377 1.0 https://savannah.cern.ch/task/?47190
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu100 /SUSYGluGluToHToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000080 1.0 https://savannah.cern.ch/task/?47114
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu110 /SUSYGluGluToHToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000348 0.990003 https://savannah.cern.ch/task/?47119
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42938
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu120 /SUSYGluGluToHToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000620 0.990003 https://savannah.cern.ch/task/?47125
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu130 /SUSYGluGluToHToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995840 0.979916 https://savannah.cern.ch/task/?47129
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42940
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu140 /SUSYGluGluToHToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999680 1.0 https://savannah.cern.ch/task/?47135
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu160 /SUSYGluGluToHToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988800 1.0 https://savannah.cern.ch/task/?47139
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu180 /SUSYGluGluToHToTauTau_M-180_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997200 1.0 https://savannah.cern.ch/task/?47143
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu200 /SUSYGluGluToHToTauTau_M-200_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 985855 1.0 https://savannah.cern.ch/task/?47148
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42944
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu250 /SUSYGluGluToHToTauTau_M-250_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000441 0.96 https://savannah.cern.ch/task/?47153
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu300 /SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 990976 0.919272 https://savannah.cern.ch/task/?47160
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu350 /SUSYGluGluToHToTauTau_M-350_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000395 0.980008 https://savannah.cern.ch/task/?47165
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu400 /SUSYGluGluToHToTauTau_M-400_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995864 1.0 https://savannah.cern.ch/task/?47167
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42948
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu450 /SUSYGluGluToHToTauTau_M-450_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999440 1.0 https://savannah.cern.ch/task/?47171
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu500 /SUSYGluGluToHToTauTau_M-500_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 981688 0.928694 https://savannah.cern.ch/task/?47173
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu600 /SUSYGluGluToHToTauTau_M-600_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 980316 0.989799 https://savannah.cern.ch/task/?47177
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu700 /SUSYGluGluToHToTauTau_M-700_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 985800 1.0 https://savannah.cern.ch/task/?47180
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42952
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu800 /SUSYGluGluToHToTauTau_M-800_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 987600 0.96 https://savannah.cern.ch/task/?47183
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu80 /SUSYGluGluToHToTauTau_M-80_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988416 1.0 https://savannah.cern.ch/task/?47105
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu900 /SUSYGluGluToHToTauTau_M-900_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 975744 0.989751 https://savannah.cern.ch/task/?47185
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42935
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu90 /SUSYGluGluToHToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000350 0.989744 https://savannah.cern.ch/task/?47109
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42900
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF100 /VBFHToTauTau_M-100_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998334 1.0 https://savannah.cern.ch/task/?47092
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42899
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF105 /VBFHToTauTau_M-105_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998300 1.010329 https://savannah.cern.ch/task/?47093
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF90 /VBFHToTauTau_M-90_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998504 1.0 https://savannah.cern.ch/task/?47089
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF95 /VBFHToTauTau_M-95_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998429 1.0 https://savannah.cern.ch/task/?47090
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF110 /VBF_HToTauTau_M-110_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499385 1.060074 https://savannah.cern.ch/task/?47095
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF115 /VBF_HToTauTau_M-115_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998870 1.0 https://savannah.cern.ch/task/?47096
+reading cache
+LOADING: HiggsVBF120 /VBF_HToTauTau_M-120_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 4799659 0.991261 https://savannah.cern.ch/task/?47099
+reading cache
+LOADING: HiggsVBF125 /VBF_HToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998836 1.0 https://savannah.cern.ch/task/?45273
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF130 /VBF_HToTauTau_M-130_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998790 1.0 https://savannah.cern.ch/task/?47103
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF135 /VBF_HToTauTau_M-135_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998817 1.0 https://savannah.cern.ch/task/?47106
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42894
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF140 /VBF_HToTauTau_M-140_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998894 1.0 https://savannah.cern.ch/task/?47108
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF145 /VBF_HToTauTau_M-145_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998883 1.070078 https://savannah.cern.ch/task/?47111
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF150 /VBF_HToTauTau_M-150_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997993 1.0 https://savannah.cern.ch/task/?47113
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF155 /VBF_HToTauTau_M-155_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499467 1.0 https://savannah.cern.ch/task/?47116
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF160 /VBF_HToTauTau_M-160_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499376 1.020025 https://savannah.cern.ch/task/?47118
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH100 /WH_ZH_TTH_HToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47128
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH105 /WH_ZH_TTH_HToTauTau_M-105_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47131
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH110 /WH_ZH_TTH_HToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200408 1.0 https://savannah.cern.ch/task/?47133
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH115 /WH_ZH_TTH_HToTauTau_M-115_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200460 1.0 https://savannah.cern.ch/task/?47137
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH120 /WH_ZH_TTH_HToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 198592 1.0 https://savannah.cern.ch/task/?47140
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42925
+WARNING! publish informations are corrupted
+LOADING: HiggsVH125 /WH_ZH_TTH_HToTauTau_M-125_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200124 1.0 https://savannah.cern.ch/task/?45274
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH130 /WH_ZH_TTH_HToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200080 2.0 https://savannah.cern.ch/task/?47145
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH135 /WH_ZH_TTH_HToTauTau_M-135_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200128 1.24984 https://savannah.cern.ch/task/?47147
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH140 /WH_ZH_TTH_HToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200186 1.149861 https://savannah.cern.ch/task/?47151
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH145 /WH_ZH_TTH_HToTauTau_M-145_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200384 1.0 https://savannah.cern.ch/task/?47154
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH150 /WH_ZH_TTH_HToTauTau_M-150_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200485 1.149637 https://savannah.cern.ch/task/?47157
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH155 /WH_ZH_TTH_HToTauTau_M-155_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200384 1.149713 https://savannah.cern.ch/task/?47159
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH160 /WH_ZH_TTH_HToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200160 1.0 https://savannah.cern.ch/task/?47163
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH90 /WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 0.75 https://savannah.cern.ch/task/?47122
+reading cache
+WEIRD! Efficiency is way too low (0.75)! you might have to edit your cfg manually.
+primary_dataset_entries = 200000
+{'path_name': '/WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom', 'step': 'Unknown', 'skim': True, 'fraction': 0.029044999999999998, 'task_id': 47122, 'pde': 200000, 'jobeff': 0.75}
+{'path_name': '/WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0', 'step': 'PATCMG', 'skim': False, 'fraction': 1.0, 'task_id': 42932, 'pde': 200000, 'jobeff': 1.0}
+WARNING! publish informations are corrupted
+LOADING: HiggsVH95 /WH_ZH_TTH_HToTauTau_M-95_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47124
+reading cache
+WARNING no component found for compName DY1Jets
+WARNING no component found for compName DY2Jets
+WARNING no component found for compName DY3Jets
+WARNING no component found for compName DY4Jets
+WARNING no component found for compName DYJets
+WARNING no component found for compName embed_Run2012A_22Jan2013_v1
+WARNING no component found for compName embed_Run2012B_22Jan2013_v1
+WARNING no component found for compName embed_Run2012C_22Jan2013_v1
+WARNING no component found for compName embed_Run2012D_22Jan2013_v1
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42915
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42914
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH120
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH135
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH145
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42905
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42917
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42916
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH95
+WARNING no component found for compName HiggsGGH125
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42975
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42958
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42961
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42963
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42965
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB250
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42966
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB350
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42968
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB400
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB700
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42954
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu110
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42938
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42940
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42944
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu250
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu350
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu400
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42948
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu700
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42952
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu900
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42935
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu90
+LOADING: TTJetsFullLept /TTJets_FullLeptMGDecays_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v2/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 12011428 0.994663 https://savannah.cern.ch/task/?45024
+reading cache
+WARNING: cannot find alias for /TTJets_FullLeptMGDecays_8TeV-madgraph/StoreResults-Summer12_DR53X_PU_S10_START53_V7A_v1_ReplaceRecMuons_RHembedded_trans1_tau132_pthad1_30had2_30_v1-f456bdbb960236e5c696adfe9b04eaae/USER/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_HadronicMGDecays_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A_ext-v1/AODSIM/V5/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+WARNING: cannot find alias for /TTJets_MassiveBinDECAY_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom
+LOADING: TTJetsSemiLept /TTJets_SemiLeptMGDecays_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 24953451 0.997668 https://savannah.cern.ch/task/?45025
+reading cache
+LOADING: T_tW /T_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 497658 1.0 https://savannah.cern.ch/task/?45020
+reading cache
+LOADING: data_Run2012A_22Jan2013_v1 /Tau/Run2012A-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 4316637 1.0 https://savannah.cern.ch/task/?44950
+reading cache
+LOADING: data_Run2012B_22Jan2013_v1 /TauParked/Run2012B-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 46187183 1.0 https://savannah.cern.ch/task/?44951
+reading cache
+LOADING: data_Run2012C_22Jan2013_v1 /TauParked/Run2012C-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 58371814 1.0 https://savannah.cern.ch/task/?44952
+reading cache
+LOADING: data_Run2012D_22Jan2013_v1 /TauParked/Run2012D-22Jan2013-v1/AOD/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 63220920 1.0 https://savannah.cern.ch/task/?44953
+reading cache
+LOADING: Tbar_tW /Tbar_tW-channel-DR_TuneZ2star_8TeV-powheg-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 493460 1.0 https://savannah.cern.ch/task/?45021
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42899
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF95
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF115
+WARNING no component found for compName HiggsVBF120
+WARNING no component found for compName HiggsVBF125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF130
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF135
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42894
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF140
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF145
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF155
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF160
+WARNING no component found for compName HiggsVBF125
+LOADING: W1Jets /W1JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 23141598 0.978294 https://savannah.cern.ch/task/?45013
+reading cache
+LOADING: W2Jets /W2JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 34044921 0.979962 https://savannah.cern.ch/task/?45014
+reading cache
+LOADING: W3Jets /W3JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 15539503 0.976581067416 https://savannah.cern.ch/task/?45015
+reading cache
+LOADING: W4Jets /W4JetsToLNu_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 13382803 0.975774022989 https://savannah.cern.ch/task/?45016
+reading cache
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH120
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42925
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH125
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42924
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH135
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH145
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH150
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH95
+WARNING no component found for compName HiggsVH125
+LOADING: WJets /WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 18393090 0.992534 https://savannah.cern.ch/task/?45011
+reading cache
+LOADING: WJets_v2 /WJetsToLNu_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 57709905 0.988854 https://savannah.cern.ch/task/?45012
+reading cache
+LOADING: WWJetsTo2L2Nu /WWJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 1933235 0.982156 https://savannah.cern.ch/task/?45336
+reading cache
+LOADING: WW /WW_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 10000431 0.997611 https://savannah.cern.ch/task/?45017
+reading cache
+LOADING: WZJetsTo2L2Q /WZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 3215990 1.0 https://savannah.cern.ch/task/?45337
+reading cache
+LOADING: WZJetsTo3LNu /WZJetsTo3LNu_TuneZ2_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 2017979 0.994619 https://savannah.cern.ch/task/?45338
+reading cache
+LOADING: WZ /WZ_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 10000283 0.997856 https://savannah.cern.ch/task/?45018
+reading cache
+LOADING: ZZJetsTo2L2Nu /ZZJetsTo2L2Nu_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v3/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 954911 0.991963 https://savannah.cern.ch/task/?45340
+reading cache
+LOADING: ZZJetsTo2L2Q /ZZJetsTo2L2Q_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 1936727 1.0 https://savannah.cern.ch/task/?45341
+reading cache
+LOADING: ZZJetsTo4L /ZZJetsTo4L_TuneZ2star_8TeV-madgraph-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 4807893 1.0 https://savannah.cern.ch/task/?45339
+reading cache
+LOADING: ZZ /ZZ_TuneZ2star_8TeV_pythia6_tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_22Jul_manzoni_Nom 9799908 0.997575 https://savannah.cern.ch/task/?45019
+reading cache
+LOADING: DY1Jets /DY1JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 24045248 0.999005 https://savannah.cern.ch/task/?47328
+reading cache
+LOADING: DY2Jets /DY2JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 21852156 1.0 https://savannah.cern.ch/task/?47329
+reading cache
+LOADING: DY3Jets /DY3JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 11015445 1.0 https://savannah.cern.ch/task/?47330
+reading cache
+LOADING: DY4Jets /DY4JetsToLL_M-50_TuneZ2Star_8TeV-madgraph/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 6402827 1.0 https://savannah.cern.ch/task/?47331
+reading cache
+LOADING: DYJets /DYJetsToLL_M-50_TuneZ2Star_8TeV-madgraph-tarball/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 30459503 0.997196 https://savannah.cern.ch/task/?45271
+reading cache
+WARNING no component found for compName embed_Run2012A_22Jan2013_v1
+WARNING no component found for compName embed_Run2012B_22Jan2013_v1
+WARNING no component found for compName embed_Run2012C_22Jan2013_v1
+WARNING no component found for compName embed_Run2012D_22Jan2013_v1
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42915
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH100 /GluGluToHToTauTau_M-100_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999901 1.0 https://savannah.cern.ch/task/?47071
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42914
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH105 /GluGluToHToTauTau_M-105_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999902 1.0 https://savannah.cern.ch/task/?47072
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH110 /GluGluToHToTauTau_M-110_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999907 1.0 https://savannah.cern.ch/task/?47074
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH115 /GluGluToHToTauTau_M-115_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 917825 1.0 https://savannah.cern.ch/task/?47075
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH120 /GluGluToHToTauTau_M-120_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 4999561 0.996926 https://savannah.cern.ch/task/?47077
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH125 /GluGluToHToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 968134 1.010329 https://savannah.cern.ch/task/?45272
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH130 /GluGluToHToTauTau_M-130_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999921 1.0 https://savannah.cern.ch/task/?47078
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH135 /GluGluToHToTauTau_M-135_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 860729 1.011618 https://savannah.cern.ch/task/?47080
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH140 /GluGluToHToTauTau_M-140_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999932 1.0 https://savannah.cern.ch/task/?47081
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH145 /GluGluToHToTauTau_M-145_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 962119 1.0 https://savannah.cern.ch/task/?47083
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42905
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsGGH150 /GluGluToHToTauTau_M-150_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999309 1.010329 https://savannah.cern.ch/task/?47084
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH155 /GluGluToHToTauTau_M-155_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 907810 1.0 https://savannah.cern.ch/task/?47086
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH160 /GluGluToHToTauTau_M-160_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999911 1.0 https://savannah.cern.ch/task/?47087
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42917
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH90 /GluGluToHToTauTau_M-90_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999900 1.0 https://savannah.cern.ch/task/?47068
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42916
+WARNING! publish informations are corrupted
+LOADING: HiggsGGH95 /GluGluToHToTauTau_M-95_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999918 1.0 https://savannah.cern.ch/task/?47069
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42975
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB1000 /SUSYBBHToTauTau_M-1000_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 987947 0.979916 https://savannah.cern.ch/task/?47101
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB100 /SUSYBBHToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000320 0.990003 https://savannah.cern.ch/task/?47060
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42958
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB110 /SUSYBBHToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999600 0.989751 https://savannah.cern.ch/task/?47061
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB120 /SUSYBBHToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 991913 0.969755 https://savannah.cern.ch/task/?47062
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB130 /SUSYBBHToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000008 0.96 https://savannah.cern.ch/task/?47063
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42961
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB140 /SUSYBBHToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 993600 0.979916 https://savannah.cern.ch/task/?47064
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB160 /SUSYBBHToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 975000 0.989744 https://savannah.cern.ch/task/?47065
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42963
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB180 /SUSYBBHToTauTau_M-180_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 981022 0.990003 https://savannah.cern.ch/task/?47066
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB200 /SUSYBBHToTauTau_M-200_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999408 0.969982 https://savannah.cern.ch/task/?47067
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42965
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB250 /SUSYBBHToTauTau_M-250_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988200 1.0 https://savannah.cern.ch/task/?47070
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42966
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB300 /SUSYBBHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999900 1.0 https://savannah.cern.ch/task/?47073
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB350 /SUSYBBHToTauTau_M-350_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 982080 0.95927 https://savannah.cern.ch/task/?47076
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42968
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB400 /SUSYBBHToTauTau_M-400_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998702 0.989799 https://savannah.cern.ch/task/?47079
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB450 /SUSYBBHToTauTau_M-450_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 973830 0.969194 https://savannah.cern.ch/task/?47082
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB500 /SUSYBBHToTauTau_M-500_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999976 0.949999 https://savannah.cern.ch/task/?47085
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB600 /SUSYBBHToTauTau_M-600_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 993061 0.949651 https://savannah.cern.ch/task/?47088
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB700 /SUSYBBHToTauTau_M-700_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 996960 0.979939 https://savannah.cern.ch/task/?47091
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB800 /SUSYBBHToTauTau_M-800_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000432 1.0 https://savannah.cern.ch/task/?47094
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB80 /SUSYBBHToTauTau_M-80_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 996592 0.949829 https://savannah.cern.ch/task/?47058
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB900 /SUSYBBHToTauTau_M-900_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997674 1.0 https://savannah.cern.ch/task/?47097
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYBB90 /SUSYBBHToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995840 0.979916 https://savannah.cern.ch/task/?47059
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42954
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu1000 /SUSYGluGluToHToTauTau_M-1000_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000377 1.0 https://savannah.cern.ch/task/?47190
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu100 /SUSYGluGluToHToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000080 1.0 https://savannah.cern.ch/task/?47114
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu110 /SUSYGluGluToHToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000348 0.990003 https://savannah.cern.ch/task/?47119
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42938
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu120 /SUSYGluGluToHToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000620 0.990003 https://savannah.cern.ch/task/?47125
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu130 /SUSYGluGluToHToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995840 0.979916 https://savannah.cern.ch/task/?47129
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42940
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu140 /SUSYGluGluToHToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999680 1.0 https://savannah.cern.ch/task/?47135
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu160 /SUSYGluGluToHToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988800 1.0 https://savannah.cern.ch/task/?47139
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu180 /SUSYGluGluToHToTauTau_M-180_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997200 1.0 https://savannah.cern.ch/task/?47143
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu200 /SUSYGluGluToHToTauTau_M-200_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 985855 1.0 https://savannah.cern.ch/task/?47148
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42944
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu250 /SUSYGluGluToHToTauTau_M-250_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000441 0.96 https://savannah.cern.ch/task/?47153
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu300 /SUSYGluGluToHToTauTau_M-300_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 990976 0.919272 https://savannah.cern.ch/task/?47160
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu350 /SUSYGluGluToHToTauTau_M-350_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000395 0.980008 https://savannah.cern.ch/task/?47165
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu400 /SUSYGluGluToHToTauTau_M-400_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 995864 1.0 https://savannah.cern.ch/task/?47167
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42948
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu450 /SUSYGluGluToHToTauTau_M-450_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 999440 1.0 https://savannah.cern.ch/task/?47171
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu500 /SUSYGluGluToHToTauTau_M-500_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 981688 0.928694 https://savannah.cern.ch/task/?47173
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu600 /SUSYGluGluToHToTauTau_M-600_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 980316 0.989799 https://savannah.cern.ch/task/?47177
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu700 /SUSYGluGluToHToTauTau_M-700_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 985800 1.0 https://savannah.cern.ch/task/?47180
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42952
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu800 /SUSYGluGluToHToTauTau_M-800_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 987600 0.96 https://savannah.cern.ch/task/?47183
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu80 /SUSYGluGluToHToTauTau_M-80_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 988416 1.0 https://savannah.cern.ch/task/?47105
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu900 /SUSYGluGluToHToTauTau_M-900_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 975744 0.989751 https://savannah.cern.ch/task/?47185
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42935
+WARNING! publish informations are corrupted
+LOADING: HiggsSUSYGluGlu90 /SUSYGluGluToHToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1000350 0.989744 https://savannah.cern.ch/task/?47109
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42900
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF100 /VBFHToTauTau_M-100_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998334 1.0 https://savannah.cern.ch/task/?47092
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42899
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF105 /VBFHToTauTau_M-105_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998300 1.010329 https://savannah.cern.ch/task/?47093
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF90 /VBFHToTauTau_M-90_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998504 1.0 https://savannah.cern.ch/task/?47089
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF95 /VBFHToTauTau_M-95_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998429 1.0 https://savannah.cern.ch/task/?47090
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF110 /VBF_HToTauTau_M-110_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499385 1.060074 https://savannah.cern.ch/task/?47095
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF115 /VBF_HToTauTau_M-115_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998870 1.0 https://savannah.cern.ch/task/?47096
+reading cache
+LOADING: HiggsVBF120 /VBF_HToTauTau_M-120_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 4799659 0.991261 https://savannah.cern.ch/task/?47099
+reading cache
+LOADING: HiggsVBF125 /VBF_HToTauTau_M-125_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998836 1.0 https://savannah.cern.ch/task/?45273
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF130 /VBF_HToTauTau_M-130_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998790 1.0 https://savannah.cern.ch/task/?47103
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF135 /VBF_HToTauTau_M-135_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998817 1.0 https://savannah.cern.ch/task/?47106
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42894
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF140 /VBF_HToTauTau_M-140_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998894 1.0 https://savannah.cern.ch/task/?47108
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF145 /VBF_HToTauTau_M-145_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 998883 1.070078 https://savannah.cern.ch/task/?47111
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF150 /VBF_HToTauTau_M-150_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 997993 1.0 https://savannah.cern.ch/task/?47113
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVBF155 /VBF_HToTauTau_M-155_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499467 1.0 https://savannah.cern.ch/task/?47116
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVBF160 /VBF_HToTauTau_M-160_8TeV-powheg-pythia6/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 499376 1.020025 https://savannah.cern.ch/task/?47118
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH100 /WH_ZH_TTH_HToTauTau_M-100_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47128
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH105 /WH_ZH_TTH_HToTauTau_M-105_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47131
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH110 /WH_ZH_TTH_HToTauTau_M-110_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200408 1.0 https://savannah.cern.ch/task/?47133
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH115 /WH_ZH_TTH_HToTauTau_M-115_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200460 1.0 https://savannah.cern.ch/task/?47137
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH120 /WH_ZH_TTH_HToTauTau_M-120_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 198592 1.0 https://savannah.cern.ch/task/?47140
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42925
+WARNING! publish informations are corrupted
+LOADING: HiggsVH125 /WH_ZH_TTH_HToTauTau_M-125_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200124 1.0 https://savannah.cern.ch/task/?45274
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH130 /WH_ZH_TTH_HToTauTau_M-130_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200080 2.0 https://savannah.cern.ch/task/?47145
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH135 /WH_ZH_TTH_HToTauTau_M-135_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v2/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200128 1.24984 https://savannah.cern.ch/task/?47147
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH140 /WH_ZH_TTH_HToTauTau_M-140_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200186 1.149861 https://savannah.cern.ch/task/?47151
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH145 /WH_ZH_TTH_HToTauTau_M-145_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200384 1.0 https://savannah.cern.ch/task/?47154
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH150 /WH_ZH_TTH_HToTauTau_M-150_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200485 1.149637 https://savannah.cern.ch/task/?47157
+reading cache
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+LOADING: HiggsVH155 /WH_ZH_TTH_HToTauTau_M-155_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200384 1.149713 https://savannah.cern.ch/task/?47159
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH160 /WH_ZH_TTH_HToTauTau_M-160_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7A-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200160 1.0 https://savannah.cern.ch/task/?47163
+reading cache
+WARNING! publish informations are corrupted
+LOADING: HiggsVH90 /WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 0.75 https://savannah.cern.ch/task/?47122
+reading cache
+WEIRD! Efficiency is way too low (0.75)! you might have to edit your cfg manually.
+primary_dataset_entries = 200000
+{'path_name': '/WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom', 'step': 'Unknown', 'skim': True, 'fraction': 0.029044999999999998, 'task_id': 47122, 'pde': 200000, 'jobeff': 0.75}
+{'path_name': '/WH_ZH_TTH_HToTauTau_M-90_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0', 'step': 'PATCMG', 'skim': False, 'fraction': 1.0, 'task_id': 42932, 'pde': 200000, 'jobeff': 1.0}
+WARNING! publish informations are corrupted
+LOADING: HiggsVH95 /WH_ZH_TTH_HToTauTau_M-95_8TeV-pythia6-tauola/Summer12_DR53X-PU_S10_START53_V7C-v1/AODSIM/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 200000 1.0 https://savannah.cern.ch/task/?47124
+reading cache
+WARNING no component found for compName DY1Jets
+WARNING no component found for compName DY2Jets
+WARNING no component found for compName DY3Jets
+WARNING no component found for compName DY4Jets
+WARNING no component found for compName DYJets
+LOADING: embed_Run2012A_22Jan2013_v1 /DoubleMu/StoreResults-Run2012A_22Jan2013_v1_PFembedded_trans1_tau132_pthad1_30had2_30_v1-5ef1c0fd428eb740081f19333520fdc8/USER/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 328647 1.0 https://savannah.cern.ch/task/?45267
+reading cache
+LOADING: embed_Run2012B_22Jan2013_v1 /DoubleMuParked/StoreResults-Run2012B_22Jan2013_v1_PFembedded_trans1_tau132_pthad1_30had2_30_v1-5ef1c0fd428eb740081f19333520fdc8/USER/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 1545816 1.0 https://savannah.cern.ch/task/?45268
+reading cache
+LOADING: embed_Run2012C_22Jan2013_v1 /DoubleMuParked/StoreResults-Run2012C_22Jan2013_v1_PFembedded_trans1_tau132_pthad1_30had2_30_v1-5ef1c0fd428eb740081f19333520fdc8/USER/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 2358463 1.0 https://savannah.cern.ch/task/?45269
+reading cache
+LOADING: embed_Run2012D_22Jan2013_v1 /DoubleMuParked/StoreResults-Run2012D_22Jan2013_v1_PFembedded_trans1_tau132_pthad1_30had2_30_v1-5ef1c0fd428eb740081f19333520fdc8/USER/V5_B/PAT_CMG_V5_16_0/HTT_24Jul_newTES_manzoni_Nom 2460546 0.998651 https://savannah.cern.ch/task/?45270
+reading cache
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42915
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42914
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH120
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH135
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH145
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42905
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsGGH150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42917
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42916
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsGGH95
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42975
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42958
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42961
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB160
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42963
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42965
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB250
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42966
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB350
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42968
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB400
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB700
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYBB90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42954
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu1000
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu110
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42938
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu120
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu130
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42940
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu180
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu200
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42944
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu250
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu300
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu350
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu400
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42948
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu450
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu500
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu600
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu700
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42952
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu800
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu80
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu900
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42935
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsSUSYGluGlu90
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42900
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF100
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42899
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF95
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF115
+WARNING no component found for compName HiggsVBF120
+WARNING no component found for compName HiggsVBF125
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF130
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF135
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42894
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF140
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF145
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF150
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVBF155
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVBF160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH100
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH105
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH110
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH115
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH120
+WARNING! there can only be one value for primary_dataset_entries in the history of a dataset, see task 42925
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH125
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH130
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH135
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH140
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH145
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH150
+WARNING! publish informations are corrupted
+WARNING!: efficiency greater than one, set at 1. by hand, please CHECK!
+WARNING no component found for compName HiggsVH155
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH160
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH90
+WARNING! publish informations are corrupted
+WARNING no component found for compName HiggsVH95
+reading cache
